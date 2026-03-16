@@ -92,6 +92,36 @@
       color: var(--muted);
     }
 
+    .bulk {
+      margin-top: 0.7rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.7rem;
+      color: var(--muted);
+    }
+
+    .bulk-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .bulk-btn {
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: rgba(15, 19, 24, 0.75);
+      color: var(--text);
+      padding: 0.45rem 0.65rem;
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .bulk-btn:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
     .cards {
       margin-top: 1rem;
       display: grid;
@@ -107,6 +137,27 @@
       border-radius: 12px;
       border: 1px solid #334152;
       background: linear-gradient(145deg, var(--surface), var(--surface-alt));
+    }
+
+    .card-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      margin-left: auto;
+    }
+
+    .select-wrap {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      color: var(--muted);
+    }
+
+    .select-wrap input {
+      width: 1rem;
+      height: 1rem;
+      accent-color: var(--button);
+      cursor: pointer;
     }
 
     .show-name {
@@ -217,13 +268,31 @@
     }
 
     @media (max-width: 720px) {
+      .bulk {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .bulk-actions {
+        width: 100%;
+      }
+
+      .bulk-btn {
+        flex: 1;
+        text-align: center;
+      }
+
       .card {
         align-items: flex-start;
         flex-direction: column;
       }
 
-      .rss-btn {
+      .card-actions {
         width: 100%;
+      }
+
+      .rss-btn {
+        flex: 1;
       }
     }
   </style>
@@ -239,6 +308,14 @@
     <section class="panel">
       <input id="filter" type="text" placeholder="Filter by show or status">
       <p id="count" class="chrome">0 shows</p>
+      <div class="bulk chrome">
+        <span id="selected-count">0 selected</span>
+        <div class="bulk-actions">
+          <button id="select-visible" class="bulk-btn chrome" type="button">Select visible</button>
+          <button id="clear-selected" class="bulk-btn chrome" type="button">Clear selection</button>
+          <button id="export-opml" class="bulk-btn chrome" type="button" disabled>Export OPML</button>
+        </div>
+      </div>
       <div id="list" class="cards" aria-live="polite"></div>
     </section>
 
@@ -257,11 +334,88 @@
     const listEl = document.getElementById("list");
     const countEl = document.getElementById("count");
     const filterEl = document.getElementById("filter");
+    const selectedCountEl = document.getElementById("selected-count");
+    const selectVisibleEl = document.getElementById("select-visible");
+    const clearSelectedEl = document.getElementById("clear-selected");
+    const exportOpmlEl = document.getElementById("export-opml");
 
     const state = {
       allShows: [],
-      filtered: []
+      filtered: [],
+      selected: new Set()
     };
+
+    function showKey(show) {
+      return show.slug || show.feed_url || show.name || "";
+    }
+
+    function updateSelectionUi() {
+      const selectedCount = state.selected.size;
+      selectedCountEl.textContent = `${selectedCount} selected`;
+      exportOpmlEl.disabled = selectedCount === 0;
+      clearSelectedEl.disabled = selectedCount === 0;
+    }
+
+    function pruneSelection() {
+      const valid = new Set(state.allShows.map((show) => showKey(show)));
+      for (const key of state.selected) {
+        if (!valid.has(key)) state.selected.delete(key);
+      }
+      updateSelectionUi();
+    }
+
+    function xmlEscape(value) {
+      return String(value || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&apos;");
+    }
+
+    function buildOpml(shows) {
+      const createdAt = new Date().toUTCString();
+      const sorted = [...shows].sort((a, b) => normalize(a.name).localeCompare(normalize(b.name)));
+      const outlines = sorted.map((show) => {
+        const title = xmlEscape(show.name || "Untitled Show");
+        const feedUrl = xmlEscape(show.feed_url || "");
+        const htmlUrl = xmlEscape(show.tvmaze_url || watchSearchUrl(show));
+        return `    <outline text="${title}" title="${title}" type="rss" xmlUrl="${feedUrl}" htmlUrl="${htmlUrl}"/>`;
+      }).join("\n");
+
+      return [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+        "<opml version=\"2.0\">",
+        "  <head>",
+        "    <title>TV Season Tracker RSS</title>",
+        `    <dateCreated>${xmlEscape(createdAt)}</dateCreated>`,
+        "  </head>",
+        "  <body>",
+        outlines,
+        "  </body>",
+        "</opml>",
+        ""
+      ].join("\n");
+    }
+
+    function downloadOpml(content) {
+      const blob = new Blob([content], { type: "text/x-opml;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const date = new Date().toISOString().slice(0, 10);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = `tv-season-tracker-${date}.opml`;
+      document.body.appendChild(anchor);
+      anchor.click();
+      anchor.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function exportSelectedOpml() {
+      const selectedShows = state.allShows.filter((show) => state.selected.has(showKey(show)));
+      if (!selectedShows.length) return;
+      downloadOpml(buildOpml(selectedShows));
+    }
 
     function statusClass(status) {
       const value = (status || "").toLowerCase();
@@ -328,6 +482,27 @@
 
         info.appendChild(meta);
 
+        const actions = document.createElement("div");
+        actions.className = "card-actions";
+
+        const selectWrap = document.createElement("label");
+        selectWrap.className = "select-wrap chrome";
+        const selectInput = document.createElement("input");
+        selectInput.type = "checkbox";
+        const key = showKey(show);
+        selectInput.checked = state.selected.has(key);
+        selectInput.setAttribute("aria-label", `Select ${show.name}`);
+        selectInput.addEventListener("change", () => {
+          if (selectInput.checked) state.selected.add(key);
+          else state.selected.delete(key);
+          updateSelectionUi();
+        });
+
+        const selectText = document.createElement("span");
+        selectText.textContent = "Select";
+        selectWrap.appendChild(selectInput);
+        selectWrap.appendChild(selectText);
+
         const button = document.createElement("button");
         button.type = "button";
         button.className = "rss-btn chrome";
@@ -347,9 +522,13 @@
         });
 
         card.appendChild(info);
-        card.appendChild(button);
+        actions.appendChild(selectWrap);
+        actions.appendChild(button);
+        card.appendChild(actions);
         listEl.appendChild(card);
       }
+
+      updateSelectionUi();
     }
 
     function applyFilter() {
@@ -390,6 +569,7 @@
         if (!Array.isArray(data)) throw new Error("Invalid index.json format");
         state.allShows = data;
         state.filtered = [...data];
+        pruneSelection();
         render();
       } catch (error) {
         listEl.textContent = "";
@@ -401,6 +581,16 @@
     }
 
     filterEl.addEventListener("input", applyFilter);
+    selectVisibleEl.addEventListener("click", () => {
+      for (const show of state.filtered) state.selected.add(showKey(show));
+      render();
+    });
+    clearSelectedEl.addEventListener("click", () => {
+      state.selected.clear();
+      render();
+    });
+    exportOpmlEl.addEventListener("click", exportSelectedOpml);
+    updateSelectionUi();
     init();
   </script>
 </body>
