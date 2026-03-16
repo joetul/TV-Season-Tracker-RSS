@@ -3,25 +3,25 @@
   <channel>
     <title>Loki Season Alerts</title>
     <description>New season notifications for Loki from TVmaze metadata.</description>
-    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/loki.xml</link>
+    <link>https://www.tvmaze.com/shows/41007/loki</link>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 17:49:31 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/loki.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2023-10-05</title>
-      <description>Premiere: 2023-10-05 | Finale: 2023-11-09 | Episodes: 6 | Network: Disney+
-Where to watch search: https://www.google.com/search?q=Loki%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:loki:s2</guid>
+      <description>Premiere: 2023-10-05 | Finale: 2023-11-09 | Episodes: 6</description>
+      <comments>https://www.google.com/search?q=Loki%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126281/loki-season-2</guid>
       <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/loki.xml</link>
+      <link>https://www.tvmaze.com/seasons/126281/loki-season-2</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2021-06-09</title>
-      <description>Premiere: 2021-06-09 | Finale: 2021-07-14 | Episodes: 6 | Network: Disney+
-Where to watch search: https://www.google.com/search?q=Loki%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:loki:s1</guid>
+      <description>Premiere: 2021-06-09 | Finale: 2021-07-14 | Episodes: 6</description>
+      <comments>https://www.google.com/search?q=Loki%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/94004/loki-season-1</guid>
       <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/loki.xml</link>
+      <link>https://www.tvmaze.com/seasons/94004/loki-season-1</link>
     </item>
   </channel>
 </rss>

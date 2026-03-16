@@ -3,25 +3,25 @@
   <channel>
     <title>Daredevil: Born Again Season Alerts</title>
     <description>New season notifications for Daredevil: Born Again from TVmaze metadata.</description>
-    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/daredevil-born-again.xml</link>
+    <link>https://www.tvmaze.com/shows/63234/daredevil-born-again</link>
     <language>en</language>
     <lastBuildDate>Fri, 06 Mar 2026 21:56:49 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/daredevil-born-again.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2026-03-24</title>
-      <description>Premiere: 2026-03-24 | Finale: 2026-05-12 | Episodes: 8 | Network: Disney+
-Where to watch search: https://www.google.com/search?q=Daredevil%3A%20Born%20Again%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:daredevil-born-again:s2</guid>
+      <description>Premiere: 2026-03-24 | Finale: 2026-05-12 | Episodes: 8</description>
+      <comments>https://www.google.com/search?q=Daredevil%3A%20Born%20Again%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/183057/daredevil-born-again-season-2</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/daredevil-born-again.xml</link>
+      <link>https://www.tvmaze.com/seasons/183057/daredevil-born-again-season-2</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2025-03-04</title>
-      <description>Premiere: 2025-03-04 | Finale: 2025-04-15 | Episodes: 9 | Network: Disney+
-Where to watch search: https://www.google.com/search?q=Daredevil%3A%20Born%20Again%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:daredevil-born-again:s1</guid>
+      <description>Premiere: 2025-03-04 | Finale: 2025-04-15 | Episodes: 9</description>
+      <comments>https://www.google.com/search?q=Daredevil%3A%20Born%20Again%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/140941/daredevil-born-again-season-1</guid>
       <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/daredevil-born-again.xml</link>
+      <link>https://www.tvmaze.com/seasons/140941/daredevil-born-again-season-1</link>
     </item>
   </channel>
 </rss>

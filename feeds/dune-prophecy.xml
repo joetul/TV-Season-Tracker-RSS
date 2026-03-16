@@ -3,17 +3,17 @@
   <channel>
     <title>Dune: Prophecy Season Alerts</title>
     <description>New season notifications for Dune: Prophecy from TVmaze metadata.</description>
-    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/dune-prophecy.xml</link>
+    <link>https://www.tvmaze.com/shows/42846/dune-prophecy</link>
     <language>en</language>
     <lastBuildDate>Mon, 15 Dec 2025 16:03:50 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/dune-prophecy.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 1 — Premieres 2024-11-17</title>
-      <description>Premiere: 2024-11-17 | Finale: 2024-12-22 | Episodes: 6 | Network: HBO
-Where to watch search: https://www.google.com/search?q=Dune%3A%20Prophecy%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:dune-prophecy:s1</guid>
+      <description>Premiere: 2024-11-17 | Finale: 2024-12-22 | Episodes: 6</description>
+      <comments>https://www.google.com/search?q=Dune%3A%20Prophecy%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97928/dune-prophecy-season-1</guid>
       <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/dune-prophecy.xml</link>
+      <link>https://www.tvmaze.com/seasons/97928/dune-prophecy-season-1</link>
     </item>
   </channel>
 </rss>

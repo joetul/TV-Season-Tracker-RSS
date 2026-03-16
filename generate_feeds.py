@@ -222,8 +222,14 @@ def compute_last_build_date(show_data, seasons):
     return "Thu, 01 Jan 1970 00:00:00 GMT"
 
 
+def build_item_description(premiere, finale, episode_text):
+    # Keep item summaries concise for readers that render only plain text.
+    return f"Premiere: {premiere} | Finale: {finale} | Episodes: {episode_text}"
+
+
 def build_feed(show_data, seasons, slug, site_url):
     show_name = show_data.get("name", "Unknown Show")
+    tvmaze_url = show_data.get("url") or f"https://www.tvmaze.com/shows/{show_data.get('id')}"
     feed_url = f"{site_url}/feeds/{slug}.xml"
     search_url = watch_search_url(show_name)
 
@@ -234,7 +240,7 @@ def build_feed(show_data, seasons, slug, site_url):
     ET.SubElement(channel, "description").text = (
         f"New season notifications for {show_name} from TVmaze metadata."
     )
-    ET.SubElement(channel, "link").text = feed_url
+    ET.SubElement(channel, "link").text = tvmaze_url
     ET.SubElement(channel, "language").text = "en"
     ET.SubElement(channel, "lastBuildDate").text = compute_last_build_date(show_data, seasons)
 
@@ -250,27 +256,22 @@ def build_feed(show_data, seasons, slug, site_url):
 
     dated_seasons = [season for season in seasons if has_valid_premiere_date(season)]
     sorted_seasons = sorted(dated_seasons, key=season_sort_key, reverse=True)
-    show_network = network_name(show_data)
-
     for season in sorted_seasons:
         number = season_number(season)
         premiere = season.get("premiereDate") or "TBD"
         finale = season.get("endDate") or "TBD"
         episode_count = season.get("episodeOrder")
         episode_text = str(episode_count) if episode_count is not None else "Unknown"
+        season_url = season.get("url") or tvmaze_url
 
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = f"Season {number} — Premieres {premiere}"
-        ET.SubElement(item, "description").text = (
-            f"Premiere: {premiere} | Finale: {finale} | Episodes: {episode_text} | Network: {show_network}"
-            f"\nWhere to watch search: {search_url}"
-        )
-
-        guid = ET.SubElement(item, "guid", {"isPermaLink": "false"})
-        guid.text = f"tv-season-rss:{slug}:s{number}"
+        ET.SubElement(item, "description").text = build_item_description(premiere, finale, episode_text)
+        ET.SubElement(item, "comments").text = search_url
+        ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = season_url
 
         ET.SubElement(item, "pubDate").text = date_to_rfc822(season.get("premiereDate"))
-        ET.SubElement(item, "link").text = feed_url
+        ET.SubElement(item, "link").text = season_url
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")

@@ -3,49 +3,49 @@
   <channel>
     <title>Gotham Season Alerts</title>
     <description>New season notifications for Gotham from TVmaze metadata.</description>
-    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+    <link>https://www.tvmaze.com/shows/11/gotham</link>
     <language>en</language>
     <lastBuildDate>Sun, 30 Nov 2025 20:41:33 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 5 — Premieres 2019-01-03</title>
-      <description>Premiere: 2019-01-03 | Finale: 2019-04-25 | Episodes: 12 | Network: FOX
-Where to watch search: https://www.google.com/search?q=Gotham%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:gotham:s5</guid>
+      <description>Premiere: 2019-01-03 | Finale: 2019-04-25 | Episodes: 12</description>
+      <comments>https://www.google.com/search?q=Gotham%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/67975/gotham-season-5</guid>
       <pubDate>Thu, 03 Jan 2019 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+      <link>https://www.tvmaze.com/seasons/67975/gotham-season-5</link>
     </item>
     <item>
       <title>Season 4 — Premieres 2017-09-21</title>
-      <description>Premiere: 2017-09-21 | Finale: 2018-05-17 | Episodes: 22 | Network: FOX
-Where to watch search: https://www.google.com/search?q=Gotham%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:gotham:s4</guid>
+      <description>Premiere: 2017-09-21 | Finale: 2018-05-17 | Episodes: 22</description>
+      <comments>https://www.google.com/search?q=Gotham%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/67819/gotham-season-4</guid>
       <pubDate>Thu, 21 Sep 2017 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+      <link>https://www.tvmaze.com/seasons/67819/gotham-season-4</link>
     </item>
     <item>
       <title>Season 3 — Premieres 2016-09-19</title>
-      <description>Premiere: 2016-09-19 | Finale: 2017-06-05 | Episodes: 22 | Network: FOX
-Where to watch search: https://www.google.com/search?q=Gotham%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:gotham:s3</guid>
+      <description>Premiere: 2016-09-19 | Finale: 2017-06-05 | Episodes: 22</description>
+      <comments>https://www.google.com/search?q=Gotham%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/47924/gotham-season-3</guid>
       <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+      <link>https://www.tvmaze.com/seasons/47924/gotham-season-3</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2015-09-21</title>
-      <description>Premiere: 2015-09-21 | Finale: 2016-05-23 | Episodes: 22 | Network: FOX
-Where to watch search: https://www.google.com/search?q=Gotham%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:gotham:s2</guid>
+      <description>Premiere: 2015-09-21 | Finale: 2016-05-23 | Episodes: 22</description>
+      <comments>https://www.google.com/search?q=Gotham%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7974/gotham-season-2</guid>
       <pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+      <link>https://www.tvmaze.com/seasons/7974/gotham-season-2</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2014-09-22</title>
-      <description>Premiere: 2014-09-22 | Finale: 2015-05-04 | Episodes: 22 | Network: FOX
-Where to watch search: https://www.google.com/search?q=Gotham%20where%20to%20watch</description>
-      <guid isPermaLink="false">tv-season-rss:gotham:s1</guid>
+      <description>Premiere: 2014-09-22 | Finale: 2015-05-04 | Episodes: 22</description>
+      <comments>https://www.google.com/search?q=Gotham%20where%20to%20watch</comments>
+      <guid isPermaLink="true">https://www.tvmaze.com/seasons/31/gotham-season-1</guid>
       <pubDate>Mon, 22 Sep 2014 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/gotham.xml</link>
+      <link>https://www.tvmaze.com/seasons/31/gotham-season-1</link>
     </item>
   </channel>
 </rss>
