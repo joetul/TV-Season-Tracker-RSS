@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2024-11-09</title>
       <description>Premiere: 2024-11-09 | Finale: 2024-11-23 | Episodes: 9</description>
       <comments>https://www.google.com/search?q=Arcane%3A%20League%20of%20Legends%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:arcane-league-of-legends:s2</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/arcane-league-of-legends-s2.html</guid>
       <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/arcane-league-of-legends.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/arcane-league-of-legends-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2021-11-06</title>
       <description>Premiere: 2021-11-06 | Finale: 2021-11-20 | Episodes: 9</description>
       <comments>https://www.google.com/search?q=Arcane%3A%20League%20of%20Legends%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:arcane-league-of-legends:s1</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/arcane-league-of-legends-s1.html</guid>
       <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/arcane-league-of-legends.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/arcane-league-of-legends-s1.html</link>
     </item>
   </channel>
 </rss>

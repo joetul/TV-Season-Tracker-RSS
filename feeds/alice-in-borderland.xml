@@ -11,25 +11,25 @@
       <title>Season 3 — Premieres 2025-09-25</title>
       <description>Premiere: 2025-09-25 | Finale: 2025-09-25 | Episodes: 6</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s3</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s3.html</guid>
       <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s3.html</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2022-12-22</title>
       <description>Premiere: 2022-12-22 | Finale: 2022-12-22 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s2</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s2.html</guid>
       <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2020-12-10</title>
       <description>Premiere: 2020-12-10 | Finale: 2020-12-10 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s1</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s1.html</guid>
       <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/alice-in-borderland-s1.html</link>
     </item>
   </channel>
 </rss>

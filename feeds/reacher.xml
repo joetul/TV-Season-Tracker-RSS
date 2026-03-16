@@ -11,25 +11,25 @@
       <title>Season 3 — Premieres 2025-02-20</title>
       <description>Premiere: 2025-02-20 | Finale: 2025-03-27 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Reacher%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:reacher:s3</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s3.html</guid>
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/reacher.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s3.html</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2023-12-15</title>
       <description>Premiere: 2023-12-15 | Finale: 2024-01-19 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Reacher%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:reacher:s2</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s2.html</guid>
       <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/reacher.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2022-02-04</title>
       <description>Premiere: 2022-02-04 | Finale: 2022-02-04 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Reacher%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:reacher:s1</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s1.html</guid>
       <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/reacher.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/reacher-s1.html</link>
     </item>
   </channel>
 </rss>

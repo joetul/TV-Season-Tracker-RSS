@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2026-03-10</title>
       <description>Premiere: 2026-03-10 | Finale: 2026-03-10 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=One%20Piece%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:one-piece:s2</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/one-piece-s2.html</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/one-piece.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/one-piece-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2023-08-31</title>
       <description>Premiere: 2023-08-31 | Finale: 2023-08-31 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=One%20Piece%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:one-piece:s1</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/one-piece-s1.html</guid>
       <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/one-piece.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/one-piece-s1.html</link>
     </item>
   </channel>
 </rss>

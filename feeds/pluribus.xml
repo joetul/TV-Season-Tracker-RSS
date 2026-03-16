@@ -11,9 +11,9 @@
       <title>Season 1 — Premieres 2025-11-07</title>
       <description>Premiere: 2025-11-07 | Finale: 2025-12-24 | Episodes: 9</description>
       <comments>https://www.google.com/search?q=Pluribus%20where%20to%20watch</comments>
-      <guid isPermaLink="false">tv-season-rss:pluribus:s1</guid>
+      <guid isPermaLink="true">https://joetul.github.io/TV-Season-Tracker-RSS/updates/pluribus-s1.html</guid>
       <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/pluribus.xml</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/updates/pluribus-s1.html</link>
     </item>
   </channel>
 </rss>
