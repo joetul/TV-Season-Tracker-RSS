@@ -3,7 +3,7 @@
   <channel>
     <title>The Mandalorian Season Alerts</title>
     <description>New season notifications for The Mandalorian from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/38963/the-mandalorian</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/the-mandalorian.xml</link>
     <language>en</language>
     <lastBuildDate>Wed, 25 Jun 2025 18:41:30 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/the-mandalorian.xml" rel="self" type="application/rss+xml" />
@@ -11,25 +11,25 @@
       <title>Season 3 — Premieres 2023-03-01</title>
       <description>Premiere: 2023-03-01 | Finale: 2023-04-19 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/117582/the-mandalorian-season-3</guid>
+      <guid isPermaLink="false">tv-season-rss:the-mandalorian:s3</guid>
       <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/117582/the-mandalorian-season-3</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/the-mandalorian.xml</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2020-10-30</title>
       <description>Premiere: 2020-10-30 | Finale: 2020-12-18 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/104171/the-mandalorian-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:the-mandalorian:s2</guid>
       <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/104171/the-mandalorian-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/the-mandalorian.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2019-11-12</title>
       <description>Premiere: 2019-11-12 | Finale: 2019-12-27 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/89531/the-mandalorian-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:the-mandalorian:s1</guid>
       <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/89531/the-mandalorian-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/the-mandalorian.xml</link>
     </item>
   </channel>
 </rss>

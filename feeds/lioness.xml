@@ -3,7 +3,7 @@
   <channel>
     <title>Lioness Season Alerts</title>
     <description>New season notifications for Lioness from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/50415/lioness</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/lioness.xml</link>
     <language>en</language>
     <lastBuildDate>Sun, 09 Nov 2025 18:48:28 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/lioness.xml" rel="self" type="application/rss+xml" />
@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2024-10-27</title>
       <description>Premiere: 2024-10-27 | Finale: 2024-12-08 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Lioness%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/168878/lioness-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:lioness:s2</guid>
       <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/168878/lioness-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/lioness.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2023-07-23</title>
       <description>Premiere: 2023-07-23 | Finale: 2023-09-03 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Lioness%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/114074/lioness-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:lioness:s1</guid>
       <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/114074/lioness-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/lioness.xml</link>
     </item>
   </channel>
 </rss>

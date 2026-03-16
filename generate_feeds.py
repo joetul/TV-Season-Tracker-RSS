@@ -240,7 +240,7 @@ def build_feed(show_data, seasons, slug, site_url):
     ET.SubElement(channel, "description").text = (
         f"New season notifications for {show_name} from TVmaze metadata."
     )
-    ET.SubElement(channel, "link").text = tvmaze_url
+    ET.SubElement(channel, "link").text = feed_url
     ET.SubElement(channel, "language").text = "en"
     ET.SubElement(channel, "lastBuildDate").text = compute_last_build_date(show_data, seasons)
 
@@ -268,10 +268,10 @@ def build_feed(show_data, seasons, slug, site_url):
         ET.SubElement(item, "title").text = f"Season {number} — Premieres {premiere}"
         ET.SubElement(item, "description").text = build_item_description(premiere, finale, episode_text)
         ET.SubElement(item, "comments").text = search_url
-        ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = season_url
+        ET.SubElement(item, "guid", {"isPermaLink": "false"}).text = f"tv-season-rss:{slug}:s{number}"
 
         ET.SubElement(item, "pubDate").text = date_to_rfc822(season.get("premiereDate"))
-        ET.SubElement(item, "link").text = season_url
+        ET.SubElement(item, "link").text = feed_url
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")

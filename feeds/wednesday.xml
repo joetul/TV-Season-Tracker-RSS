@@ -3,7 +3,7 @@
   <channel>
     <title>Wednesday Season Alerts</title>
     <description>New season notifications for Wednesday from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/53647/wednesday</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/wednesday.xml</link>
     <language>en</language>
     <lastBuildDate>Wed, 07 Jan 2026 20:01:38 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/wednesday.xml" rel="self" type="application/rss+xml" />
@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2025-08-06</title>
       <description>Premiere: 2025-08-06 | Finale: 2025-09-03 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Wednesday%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147277/wednesday-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:wednesday:s2</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/147277/wednesday-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/wednesday.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2022-11-23</title>
       <description>Premiere: 2022-11-23 | Finale: 2022-11-23 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Wednesday%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/120562/wednesday-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:wednesday:s1</guid>
       <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/120562/wednesday-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/wednesday.xml</link>
     </item>
   </channel>
 </rss>

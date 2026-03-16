@@ -3,7 +3,7 @@
   <channel>
     <title>Alice in Borderland Season Alerts</title>
     <description>New season notifications for Alice in Borderland from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/50036/alice-in-borderland</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
     <language>en</language>
     <lastBuildDate>Sun, 12 Oct 2025 17:04:57 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml" rel="self" type="application/rss+xml" />
@@ -11,25 +11,25 @@
       <title>Season 3 — Premieres 2025-09-25</title>
       <description>Premiere: 2025-09-25 | Finale: 2025-09-25 | Episodes: 6</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/159968/alice-in-borderland-season-3</guid>
+      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s3</guid>
       <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/159968/alice-in-borderland-season-3</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2022-12-22</title>
       <description>Premiere: 2022-12-22 | Finale: 2022-12-22 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/118292/alice-in-borderland-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s2</guid>
       <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/118292/alice-in-borderland-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2020-12-10</title>
       <description>Premiere: 2020-12-10 | Finale: 2020-12-10 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Alice%20in%20Borderland%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/113368/alice-in-borderland-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:alice-in-borderland:s1</guid>
       <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/113368/alice-in-borderland-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/alice-in-borderland.xml</link>
     </item>
   </channel>
 </rss>

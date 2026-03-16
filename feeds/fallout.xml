@@ -3,7 +3,7 @@
   <channel>
     <title>Fallout Season Alerts</title>
     <description>New season notifications for Fallout from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/49041/fallout</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/fallout.xml</link>
     <language>en</language>
     <lastBuildDate>Thu, 19 Feb 2026 20:57:07 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/fallout.xml" rel="self" type="application/rss+xml" />
@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2025-12-16</title>
       <description>Premiere: 2025-12-16 | Finale: 2026-02-03 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Fallout%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/167629/fallout-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:fallout:s2</guid>
       <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/167629/fallout-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/fallout.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2024-04-10</title>
       <description>Premiere: 2024-04-10 | Finale: 2024-04-10 | Episodes: 8</description>
       <comments>https://www.google.com/search?q=Fallout%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/111551/fallout-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:fallout:s1</guid>
       <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/111551/fallout-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/fallout.xml</link>
     </item>
   </channel>
 </rss>

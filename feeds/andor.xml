@@ -3,7 +3,7 @@
   <channel>
     <title>Andor Season Alerts</title>
     <description>New season notifications for Andor from TVmaze metadata.</description>
-    <link>https://www.tvmaze.com/shows/52341/andor</link>
+    <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/andor.xml</link>
     <language>en</language>
     <lastBuildDate>Wed, 11 Mar 2026 21:05:42 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/TV-Season-Tracker-RSS/feeds/andor.xml" rel="self" type="application/rss+xml" />
@@ -11,17 +11,17 @@
       <title>Season 2 — Premieres 2025-04-22</title>
       <description>Premiere: 2025-04-22 | Finale: 2025-05-13 | Episodes: 12</description>
       <comments>https://www.google.com/search?q=Andor%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/138941/andor-season-2</guid>
+      <guid isPermaLink="false">tv-season-rss:andor:s2</guid>
       <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/138941/andor-season-2</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/andor.xml</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2022-09-21</title>
       <description>Premiere: 2022-09-21 | Finale: 2022-11-23 | Episodes: 12</description>
       <comments>https://www.google.com/search?q=Andor%20where%20to%20watch</comments>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/117570/andor-season-1</guid>
+      <guid isPermaLink="false">tv-season-rss:andor:s1</guid>
       <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
-      <link>https://www.tvmaze.com/seasons/117570/andor-season-1</link>
+      <link>https://joetul.github.io/TV-Season-Tracker-RSS/feeds/andor.xml</link>
     </item>
   </channel>
 </rss>
