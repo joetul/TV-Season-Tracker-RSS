@@ -6,11 +6,12 @@
   <title>TV Season Tracker - RSS Feeds</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    /* Dracula Theme Definitions */
     :root {
       --bg: #282a36;
       --bg-alt: #44475a;
+      --bg-darker: #21222c;
       --fg: #f8f8f2;
+      --fg-muted: #a0a4b8;
       --comment: #6272a4;
       --cyan: #8be9fd;
       --green: #50fa7b;
@@ -19,67 +20,113 @@
       --purple: #bd93f9;
       --red: #ff5555;
       --yellow: #f1fa8c;
-      
-      --border-radius: 8px;
-      --transition: 0.2s ease;
+      --border-radius: 6px;
+      --transition: 0.15s ease;
+      --max-width: 1100px;
     }
 
-    * { box-sizing: border-box; }
-    
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      margin: 0;
-      padding: 0;
       font-family: "Inter", sans-serif;
-      background-color: var(--bg);
+      background: var(--bg);
       color: var(--fg);
       line-height: 1.5;
     }
 
-    .container {
-      max-width: 1000px;
+    /* ── Sticky Header ── */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg-darker);
+      border-bottom: 1px solid var(--bg-alt);
+      padding: 0.75rem 1.5rem;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    .header-inner {
+      max-width: var(--max-width);
       margin: 0 auto;
-      padding: 2rem;
     }
 
-    header {
-      text-align: center;
-      margin-bottom: 3rem;
-      padding-bottom: 2rem;
-      border-bottom: 2px solid var(--bg-alt);
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
     }
 
-    header h1 {
-      color: var(--purple);
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
+    .header-brand {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+    }
+
+    .site-title {
+      font-size: 1.25rem;
       font-weight: 700;
+      color: var(--purple);
+      line-height: 1;
     }
 
-    header p {
+    .site-subtitle {
+      font-size: 0.8rem;
       color: var(--comment);
-      font-size: 1.1rem;
     }
 
-    .controls {
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
-      margin-bottom: 2rem;
-      background: var(--bg-alt);
-      padding: 1.5rem;
+    .missing-show-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.45rem 1rem;
+      background: rgba(255, 121, 198, 0.12);
+      color: var(--pink);
+      border: 1px solid rgba(255, 121, 198, 0.25);
       border-radius: var(--border-radius);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: var(--transition);
+      white-space: nowrap;
     }
 
-    .search-wrapper {
+    .missing-show-link:hover {
+      background: rgba(255, 121, 198, 0.22);
+      border-color: var(--pink);
+    }
+
+    /* Search + Filter Row */
+    .search-filter-row {
       display: flex;
-      gap: 1rem;
+      gap: 0.75rem;
+      align-items: center;
+      margin-bottom: 0.5rem;
     }
 
-    #search {
+    .search-box {
       flex: 1;
-      padding: 1rem;
-      font-size: 1.1rem;
-      border: 2px solid var(--comment);
+      position: relative;
+      max-width: 400px;
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.65rem;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 16px;
+      color: var(--comment);
+      pointer-events: none;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 0.5rem 0.75rem 0.5rem 2.25rem;
+      font-size: 0.9rem;
+      font-family: inherit;
+      border: 1px solid var(--comment);
       border-radius: var(--border-radius);
       background: var(--bg);
       color: var(--fg);
@@ -87,423 +134,695 @@
       transition: var(--transition);
     }
 
-    #search:focus {
-      border-color: var(--pink);
-      box-shadow: 0 0 10px rgba(255, 121, 198, 0.2);
+    .search-box input:focus {
+      border-color: var(--purple);
+      box-shadow: 0 0 0 3px rgba(189, 147, 249, 0.15);
     }
 
-    .actions {
+    .search-box input::placeholder { color: var(--comment); }
+
+    /* Actions Row */
+    .actions-row {
       display: flex;
-      justify-content: space-between;
       align-items: center;
+      gap: 0.75rem;
       flex-wrap: wrap;
-      gap: 1rem;
+    }
+
+    .network-select {
+      padding: 0.4rem 0.5rem;
+      background: var(--bg);
+      color: var(--fg);
+      border: 1px solid var(--comment);
+      border-radius: var(--border-radius);
+      font-size: 0.8rem;
+      font-family: inherit;
+      outline: none;
+      cursor: pointer;
+      min-width: 140px;
+    }
+
+    .network-select:focus {
+      border-color: var(--purple);
     }
 
     .stats {
-      color: var(--cyan);
-      font-weight: 500;
+      color: var(--fg-muted);
+      font-size: 0.8rem;
+      flex: 1;
     }
+
+    .bulk-actions { display: flex; gap: 0.4rem; }
 
     .btn {
-      padding: 0.75rem 1.25rem;
+      padding: 0.4rem 0.75rem;
+      font-size: 0.8rem;
       border: none;
       border-radius: var(--border-radius);
-      font-size: 0.9rem;
       font-weight: 600;
+      font-family: inherit;
       cursor: pointer;
-      transition: var(--transition);
-      background: var(--comment);
-      color: var(--fg);
-    }
-
-    .btn:hover:not(:disabled) {
-      background: var(--purple);
-    }
-
-    .btn-primary {
-      background: var(--pink);
-      color: var(--bg);
-    }
-
-    .btn-primary:hover:not(:disabled) {
-      background: #ff92d0;
-    }
-
-    .btn:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
-    /* Grid layout for shows */
-    .shows-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 1.5rem;
-    }
-
-    .show-card {
       background: var(--bg-alt);
-      border: 1px solid var(--comment);
-      border-radius: var(--border-radius);
-      padding: 1.5rem;
+      color: var(--fg);
       transition: var(--transition);
-      display: flex;
-      flex-direction: column;
     }
 
-    .show-card:hover {
-      border-color: var(--cyan);
-      transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    .btn:hover:not(:disabled) { background: var(--comment); }
+    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-primary { background: var(--pink); color: var(--bg); }
+    .btn-primary:hover:not(:disabled) { background: #ff92d0; }
+
+    /* ── Main Table ── */
+    .main-content {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 0 1.5rem 2rem;
     }
 
-    .show-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      margin-bottom: 1rem;
+    .shows-table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
     }
 
-    .show-title {
-      font-size: 1.25rem;
+    .col-select  { width: 40px; }
+    .col-image   { width: 52px; }
+    .col-name    { width: auto; }
+    .col-network { width: 150px; }
+    .col-status  { width: 100px; }
+    .col-actions { width: 120px; }
+
+    .shows-table thead th {
+      position: sticky;
+      z-index: 10;
+      background: var(--bg);
+      padding: 0.6rem 0.5rem;
+      text-align: left;
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--comment);
+      border-bottom: 2px solid var(--bg-alt);
+      white-space: nowrap;
+    }
+
+    .shows-table thead th.sortable {
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .shows-table thead th.sortable:hover { color: var(--purple); }
+
+    .shows-table thead th.sort-asc::after  { content: " \25B2"; font-size: 0.55rem; }
+    .shows-table thead th.sort-desc::after { content: " \25BC"; font-size: 0.55rem; }
+
+    .show-row {
+      transition: background var(--transition);
+      border-bottom: 1px solid rgba(68, 71, 90, 0.4);
+    }
+
+    .show-row:hover { background: rgba(68, 71, 90, 0.35); }
+
+    .show-row td {
+      padding: 0.4rem 0.5rem;
+      vertical-align: middle;
+      font-size: 0.9rem;
+    }
+
+    .show-thumb {
+      width: 40px;
+      height: 56px;
+      object-fit: cover;
+      border-radius: 4px;
+      display: block;
+      background: var(--bg-alt);
+    }
+
+    .show-name-text {
       font-weight: 600;
       color: var(--fg);
-      margin: 0;
       line-height: 1.2;
     }
 
-    .show-badges {
-      display: flex;
-      gap: 0.5rem;
-      margin-bottom: 1.5rem;
-      flex-wrap: wrap;
-    }
-
-    .badge {
+    .show-year {
       font-size: 0.75rem;
-      padding: 0.25rem 0.5rem;
-      border-radius: 4px;
-      font-weight: 600;
-      text-transform: uppercase;
-    }
-
-    .bg-green { background: rgba(80, 250, 123, 0.2); color: var(--green); }
-    .bg-red { background: rgba(255, 85, 85, 0.2); color: var(--red); border: 1px solid rgba(255, 85, 85, 0.3); }
-    .bg-cyan { background: rgba(139, 233, 253, 0.2); color: var(--cyan); border: 1px solid rgba(139, 233, 253, 0.3); }
-
-    .show-footer {
-      margin-top: auto;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
-    }
-
-    .rss-copy-btn {
-      flex: 1;
-      background: var(--purple);
-      color: var(--fg);
-      padding: 0.5rem;
-      border: none;
-      border-radius: 4px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: var(--transition);
-    }
-
-    .rss-copy-btn:hover {
-      background: var(--pink);
-    }
-    
-    .rss-copy-btn.copied {
-      background: var(--green);
-      color: var(--bg);
-    }
-
-    .checkbox-lbl {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      cursor: pointer;
       color: var(--comment);
-      font-size: 0.9rem;
+      margin-top: 1px;
     }
-    
-    .checkbox-lbl:hover {
-      color: var(--fg);
+
+    .network-tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      padding: 0.15rem 0.5rem;
+      background: rgba(98, 114, 164, 0.15);
+      color: var(--fg-muted);
+      border-radius: 3px;
+      white-space: nowrap;
     }
-    
-    .links a {
-      color: var(--cyan);
+
+    .status-badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.2rem 0.5rem;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .status-running { background: rgba(80, 250, 123, 0.15); color: var(--green); }
+    .status-ended   { background: rgba(255, 85, 85, 0.15); color: var(--red); }
+    .status-tbd     { background: rgba(255, 184, 108, 0.15); color: var(--orange); }
+
+    .btn-action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.3rem 0.55rem;
+      border: 1px solid var(--comment);
+      border-radius: 4px;
+      background: transparent;
+      color: var(--comment);
+      font-size: 0.75rem;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
       text-decoration: none;
-      font-size: 0.85rem;
+      transition: var(--transition);
+      margin-right: 0.25rem;
     }
-    
-    .links a:hover {
-      text-decoration: underline;
+
+    .btn-rss:hover {
+      border-color: var(--purple);
+      color: var(--purple);
+      background: rgba(189, 147, 249, 0.1);
+    }
+
+    .btn-rss.copied {
+      border-color: var(--green);
+      color: var(--green);
+      background: rgba(80, 250, 123, 0.1);
+    }
+
+    .btn-link:hover {
+      border-color: var(--cyan);
+      color: var(--cyan);
+      background: rgba(139, 233, 253, 0.1);
+    }
+
+    .show-cb, #select-all-cb {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--purple);
+      cursor: pointer;
     }
 
     .empty-msg {
       text-align: center;
-      padding: 3rem;
+      padding: 3rem 1rem;
       color: var(--comment);
-      grid-column: 1 / -1;
-      font-size: 1.2rem;
+      font-size: 1rem;
     }
 
-    /* Footer */
-    footer {
-      margin-top: 4rem;
+    /* ── Footer ── */
+    .site-footer {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 1.5rem;
       text-align: center;
-      padding: 2rem;
-      border-top: 2px solid var(--bg-alt);
+      border-top: 1px solid var(--bg-alt);
+      color: var(--comment);
+      font-size: 0.8rem;
+    }
+
+    .site-footer a { color: var(--purple); text-decoration: none; }
+    .site-footer a:hover { color: var(--pink); }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .site-header { padding: 0.5rem 0.75rem; }
+
+      .header-top { margin-bottom: 0.5rem; }
+      .site-subtitle { display: none; }
+
+      .missing-show-link { font-size: 0.75rem; padding: 0.35rem 0.7rem; }
+
+      .search-filter-row { flex-direction: column; gap: 0.5rem; }
+      .search-box { max-width: 100%; }
+
+      .actions-row { gap: 0.5rem; }
+      .network-select { flex: 1; min-width: 0; }
+      .stats { width: 100%; order: -1; }
+
+      .main-content { padding: 0 0.5rem 2rem; }
+
+      .col-network, .col-status { display: none; }
+      .show-mobile-meta { display: flex !important; }
+      .col-image { width: 44px; }
+      .col-actions { width: 90px; }
+      .btn-action { padding: 0.25rem 0.4rem; font-size: 0.7rem; }
+    }
+
+    @media (min-width: 769px) {
+      .show-mobile-meta { display: none !important; }
+    }
+
+    /* ── Kbd hint ── */
+    .kbd-hint {
+      position: absolute;
+      right: 0.6rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.65rem;
+      color: var(--comment);
+      background: var(--bg-alt);
+      padding: 0.1rem 0.35rem;
+      border-radius: 3px;
+      border: 1px solid var(--comment);
+      pointer-events: none;
+      opacity: 0.6;
+      transition: opacity var(--transition);
+    }
+
+    .search-box input:focus ~ .kbd-hint { opacity: 0; }
+
+    /* ── Loading skeleton ── */
+    .loading-indicator {
+      text-align: center;
+      padding: 3rem 1rem;
       color: var(--comment);
     }
 
-    footer a {
-      color: var(--purple);
-      text-decoration: none;
+    .loading-indicator .spinner {
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      border: 3px solid var(--bg-alt);
+      border-top-color: var(--purple);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 0.75rem;
     }
 
-    footer a:hover {
-      color: var(--pink);
-    }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>TV Season Tracker</h1>
-      <p>Never miss a new season again. Get notified via RSS.</p>
-    </header>
 
-    <div class="controls">
-      <div class="search-wrapper">
-        <input type="text" id="search" placeholder="Search shows (e.g., Breaking Bad)..." autofocus autocomplete="off">
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-top">
+        <div class="header-brand">
+          <h1 class="site-title">TV Season Tracker</h1>
+          <span class="site-subtitle">RSS feeds for every season</span>
+        </div>
+        <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]"
+           target="_blank" class="missing-show-link">+ Request a Show</a>
       </div>
-      <div class="actions">
-        <div class="stats" id="stats">Loading shows...</div>
+
+      <div class="search-filter-row">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="search" placeholder="Search shows..." autofocus autocomplete="off">
+          <span class="kbd-hint">/</span>
+        </div>
+      </div>
+
+      <div class="actions-row">
+        <select id="network-filter" class="network-select">
+          <option value="">All Networks</option>
+        </select>
+        <div class="stats" id="stats">Loading...</div>
         <div class="bulk-actions">
           <button id="btn-select-all" class="btn">Select Visible</button>
-          <button id="btn-clear" class="btn">Clear</button>
+          <button id="btn-clear" class="btn" disabled>Clear</button>
           <button id="btn-export" class="btn btn-primary" disabled>Export OPML</button>
         </div>
       </div>
     </div>
+  </header>
 
-    <div id="shows-container" class="shows-grid"></div>
-
-    <div style="margin-top: 3rem; background: var(--bg-alt); padding: 2rem; border-radius: var(--border-radius); border: 1px solid var(--comment); text-align: center;">
-      <h2 style="color: var(--pink); margin-top: 0;">Missing a Show?</h2>
-      <p style="color: var(--fg); font-size: 1.05rem;">The list is maintained by contributors. If a show you want isn't here, you can easily request it or add it yourself.</p>
-      <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 1.5rem; flex-wrap: wrap;">
-        <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]" target="_blank" class="btn btn-primary" style="text-decoration: none;">Request via Issue</a>
-        <a href="https://github.com/joetul/TV-Season-Tracker-RSS/pulls" target="_blank" class="btn" style="text-decoration: none;">Submit a Pull Request</a>
-      </div>
+  <main class="main-content">
+    <table class="shows-table" id="shows-table">
+      <thead>
+        <tr>
+          <th class="col-select"><input type="checkbox" id="select-all-cb" title="Select all visible"></th>
+          <th class="col-image"></th>
+          <th class="col-name sortable" data-sort="name">Name</th>
+          <th class="col-network sortable" data-sort="network">Network</th>
+          <th class="col-status sortable" data-sort="status">Status</th>
+          <th class="col-actions">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="shows-body"></tbody>
+    </table>
+    <div id="empty-msg" class="empty-msg" hidden>No shows found.</div>
+    <div id="loading" class="loading-indicator">
+      <div class="spinner"></div>
+      <div>Loading shows...</div>
     </div>
+  </main>
 
-    <footer>
-      <p>Data provided by <a href="https://www.tvmaze.com/api" target="_blank">TVmaze</a>. View project on <a href="https://github.com/joetul/TV-Season-Tracker-RSS" target="_blank">GitHub</a>.</p>
-    </footer>
-  </div>
+  <footer class="site-footer">
+    <p>Data from <a href="https://www.tvmaze.com/api" target="_blank">TVmaze</a> &middot;
+       <a href="https://github.com/joetul/TV-Season-Tracker-RSS" target="_blank">GitHub</a> &middot;
+       <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]" target="_blank">Request a Show</a></p>
+  </footer>
 
   <script>
+    /* ── State ── */
     let allShows = [];
     let selectedShows = new Set();
-    const INITIAL_LIMIT = 50;
+    let currentFilter = { network: "", query: "" };
+    let currentSort = { field: "name", direction: "asc" };
 
+    /* ── DOM cache ── */
     const els = {
       search: document.getElementById("search"),
-      container: document.getElementById("shows-container"),
+      showsTable: document.getElementById("shows-table"),
+      showsBody: document.getElementById("shows-body"),
+      emptyMsg: document.getElementById("empty-msg"),
+      loading: document.getElementById("loading"),
       stats: document.getElementById("stats"),
+      networkFilter: document.getElementById("network-filter"),
+      selectAllCb: document.getElementById("select-all-cb"),
       btnSelectAll: document.getElementById("btn-select-all"),
       btnClear: document.getElementById("btn-clear"),
       btnExport: document.getElementById("btn-export")
     };
 
+    /* ── Init ── */
     function init() {
       fetch("./feeds/index.json", { cache: "no-store" })
-        .then(res => {
-          if (!res.ok) throw new Error("HTTP error");
-          return res.json();
-        })
+        .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
         .then(data => {
           allShows = Array.isArray(data) ? data : [];
+          els.loading.hidden = true;
+          populateNetworkFilter();
           render();
+          updateStickyOffset();
         })
-        .catch(err => {
-          els.container.innerHTML = '<div class="empty-msg" style="color: var(--red);">Feeds are loading or unavailable. Check back in a moment.</div>';
+        .catch(() => {
+          els.loading.hidden = true;
+          els.showsTable.hidden = true;
+          els.emptyMsg.hidden = false;
+          els.emptyMsg.textContent = "Feeds are loading or unavailable. Check back in a moment.";
+          els.emptyMsg.style.color = "var(--red)";
           els.stats.textContent = "Error";
         });
 
-      els.search.addEventListener("input", render);
-      
-      els.btnSelectAll.addEventListener("click", () => {
-        const query = els.search.value.toLowerCase().trim();
-        const visible = getVisibleShows(query);
-        visible.forEach(show => selectedShows.add(getShowKey(show)));
+      els.search.addEventListener("input", () => {
+        currentFilter.query = els.search.value.trim().toLowerCase();
+        render();
+      });
+
+      els.networkFilter.addEventListener("change", () => {
+        currentFilter.network = els.networkFilter.value;
+        render();
+      });
+
+      document.querySelectorAll(".sortable").forEach(th => {
+        th.addEventListener("click", () => {
+          const field = th.dataset.sort;
+          if (currentSort.field === field) {
+            currentSort.direction = currentSort.direction === "asc" ? "desc" : "asc";
+          } else {
+            currentSort.field = field;
+            currentSort.direction = "asc";
+          }
+          updateSortIndicators();
+          render();
+        });
+      });
+
+      els.selectAllCb.addEventListener("change", () => {
+        const filtered = getFilteredShows();
+        if (els.selectAllCb.checked) {
+          filtered.forEach(s => selectedShows.add(getShowKey(s)));
+        } else {
+          filtered.forEach(s => selectedShows.delete(getShowKey(s)));
+        }
         updateBulkUI();
-        render(false);
+        updateCheckboxes();
+      });
+
+      els.btnSelectAll.addEventListener("click", () => {
+        getFilteredShows().forEach(s => selectedShows.add(getShowKey(s)));
+        updateBulkUI();
+        updateCheckboxes();
+        updateSelectAllCb();
       });
 
       els.btnClear.addEventListener("click", () => {
         selectedShows.clear();
         updateBulkUI();
-        render(false);
+        updateCheckboxes();
+        updateSelectAllCb();
       });
 
       els.btnExport.addEventListener("click", exportOPML);
+
+      // Event delegation on table body
+      els.showsBody.addEventListener("change", e => {
+        if (e.target.classList.contains("show-cb")) {
+          if (e.target.checked) selectedShows.add(e.target.value);
+          else selectedShows.delete(e.target.value);
+          updateBulkUI();
+          updateSelectAllCb();
+        }
+      });
+
+      els.showsBody.addEventListener("click", e => {
+        const rssBtn = e.target.closest(".btn-rss");
+        if (rssBtn) copyRSS(rssBtn);
+      });
+
+      // Keyboard shortcuts
+      document.addEventListener("keydown", e => {
+        if (e.key === "/" && document.activeElement.tagName !== "INPUT" && document.activeElement.tagName !== "TEXTAREA") {
+          e.preventDefault();
+          els.search.focus();
+        }
+        if (e.key === "Escape") {
+          if (els.search.value) {
+            els.search.value = "";
+            currentFilter.query = "";
+            render();
+          }
+          els.search.blur();
+        }
+      });
+
+      window.addEventListener("resize", updateStickyOffset);
     }
 
+    /* ── Helpers ── */
     function getShowKey(s) {
       return s.feed_url || s.slug || s.name;
     }
 
-    function getVisibleShows(query) {
-      if (!query) return allShows;
-      return allShows.filter(s => {
-        const nameMatch = (s.name || "").toLowerCase().includes(query);
-        const statusMatch = (s.status || "").toLowerCase().includes(query);
-        return nameMatch || statusMatch;
+    function escapeHtml(str) {
+      const d = document.createElement("div");
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    /* ── Filtering ── */
+    function getFilteredShows() {
+      let shows = allShows;
+
+      if (currentFilter.network) {
+        shows = shows.filter(s => s.network === currentFilter.network);
+      }
+
+      if (currentFilter.query) {
+        const q = currentFilter.query;
+        shows = shows.filter(s =>
+          (s.name || "").toLowerCase().includes(q) ||
+          (s.network || "").toLowerCase().includes(q)
+        );
+      }
+
+      return shows;
+    }
+
+    /* ── Sorting ── */
+    function sortShows(shows) {
+      const { field, direction } = currentSort;
+      const mult = direction === "asc" ? 1 : -1;
+      return [...shows].sort((a, b) => {
+        let va, vb;
+        if (field === "name") {
+          va = (a.name || "").toLowerCase();
+          vb = (b.name || "").toLowerCase();
+        } else if (field === "network") {
+          va = (a.network || "").toLowerCase();
+          vb = (b.network || "").toLowerCase();
+        } else if (field === "status") {
+          const order = { "Running": 0, "To Be Determined": 1, "In Development": 2, "Ended": 3 };
+          va = order[a.status] ?? 4;
+          vb = order[b.status] ?? 4;
+        }
+        if (va < vb) return -1 * mult;
+        if (va > vb) return  1 * mult;
+        return 0;
       });
     }
 
-    function render(resetLimit = true) {
-      const query = els.search.value.toLowerCase().trim();
-      const visible = getVisibleShows(query);
-      
-      const numSelected = selectedShows.size;
-      const total = allShows.length;
-      
-      if (query) {
-        els.stats.innerHTML = 'Found <span style="color: var(--pink)">' + visible.length + '</span> shows (out of ' + total + ')';
-      } else {
-        els.stats.innerHTML = 'Showing first <span style="color: var(--pink)">' + Math.min(INITIAL_LIMIT, visible.length) + '</span> of ' + total + ' shows. Search to find more!';
-      }
+    function updateSortIndicators() {
+      document.querySelectorAll(".sortable").forEach(th => {
+        th.classList.remove("sort-asc", "sort-desc");
+        if (th.dataset.sort === currentSort.field) {
+          th.classList.add(currentSort.direction === "asc" ? "sort-asc" : "sort-desc");
+        }
+      });
+    }
 
-      els.container.innerHTML = "";
+    /* ── Render ── */
+    function render() {
+      const filtered = getFilteredShows();
+      const sorted = sortShows(filtered);
 
-      if (visible.length === 0) {
-        els.container.innerHTML = '<div class="empty-msg">No shows found matching "' + query + '".</div>';
+      els.stats.textContent = filtered.length + " of " + allShows.length + " shows";
+
+      if (sorted.length === 0) {
+        els.showsTable.hidden = true;
+        els.emptyMsg.hidden = false;
+        els.emptyMsg.textContent = currentFilter.query
+          ? 'No shows found matching "' + currentFilter.query + '".'
+          : "No shows match the current filters.";
         return;
       }
 
-      const displayShows = query ? visible : visible.slice(0, INITIAL_LIMIT);
+      els.showsTable.hidden = false;
+      els.emptyMsg.hidden = true;
 
       const frag = document.createDocumentFragment();
-      displayShows.forEach(show => {
-        const card = document.createElement("div");
-        card.className = "show-card";
-        
-        const key = getShowKey(show);
-        const isSelected = selectedShows.has(key);
-        const year = show.premiered ? show.premiered.substring(0, 4) : "";
-        const title = year ? show.name + " (" + year + ")" : show.name;
-        
-        let statusBadge = "bg-cyan";
-        let statusTxt = show.status || "Unknown";
-        if (statusTxt.toLowerCase() === "running") statusBadge = "bg-green";
-        else if (statusTxt.toLowerCase() === "ended") statusBadge = "bg-red";
+      sorted.forEach(show => frag.appendChild(createRow(show)));
+      els.showsBody.innerHTML = "";
+      els.showsBody.appendChild(frag);
 
-        card.innerHTML = `
-          <div class="show-header">
-            <h3 class="show-title">${title}</h3>
-          </div>
-          <div class="show-badges">
-            <span class="badge ${statusBadge}">${statusTxt}</span>
-            <span class="badge" style="background: var(--bg); color: var(--comment); border: 1px solid var(--comment)">S${show.latest_season || 0}</span>
-          </div>
-          <div style="flex: 1"></div>
-          <div class="links" style="margin-bottom: 1rem;">
-            <a href="${show.tvmaze_url || '#'}" target="_blank">View on TVmaze</a>
-          </div>
-          <div class="show-footer">
-            <label class="checkbox-lbl">
-              <input type="checkbox" class="show-cb" value="${key}" ${isSelected ? "checked" : ""}>
-              Select
-            </label>
-            <button class="rss-copy-btn" data-url="${show.feed_url}">Copy RSS</button>
-          </div>
-        `;
-        frag.appendChild(card);
-      });
+      updateSelectAllCb();
+    }
 
-      els.container.appendChild(frag);
+    function createRow(show) {
+      const tr = document.createElement("tr");
+      tr.className = "show-row";
+      const key = getShowKey(show);
+      const isSelected = selectedShows.has(key);
+      const year = show.premiered ? show.premiered.substring(0, 4) : "";
 
-      document.querySelectorAll(".show-cb").forEach(cb => {
-        cb.addEventListener("change", (e) => {
-          if (e.target.checked) selectedShows.add(e.target.value);
-          else selectedShows.delete(e.target.value);
-          updateBulkUI();
-        });
-      });
+      let statusClass = "status-tbd";
+      let statusLabel = show.status || "Unknown";
+      if (statusLabel === "Running") statusClass = "status-running";
+      else if (statusLabel === "Ended") statusClass = "status-ended";
+      const statusDisplay = statusLabel === "To Be Determined" ? "TBD" : statusLabel;
 
-      document.querySelectorAll(".rss-copy-btn").forEach(btn => {
-        btn.addEventListener("click", async (e) => {
-          const url = e.target.getAttribute("data-url");
-          try {
-            await navigator.clipboard.writeText(url);
-            const originalText = e.target.textContent;
-            e.target.textContent = "Copied!";
-            e.target.classList.add("copied");
-            setTimeout(() => {
-              e.target.textContent = originalText;
-              e.target.classList.remove("copied");
-            }, 2000);
-          } catch (err) {
-            window.open(url, "_blank");
-          }
-        });
+      tr.innerHTML =
+        '<td class="col-select"><input type="checkbox" class="show-cb" value="' + escapeHtml(key) + '"' + (isSelected ? " checked" : "") + '></td>' +
+        '<td class="col-image"><img src="' + (show.image || "") + '" alt="" class="show-thumb" loading="lazy" width="40" height="56"></td>' +
+        '<td class="col-name">' +
+          '<div class="show-name-text">' + escapeHtml(show.name) + '</div>' +
+          '<div class="show-year">' + year + '</div>' +
+          '<div class="show-mobile-meta">' +
+            '<span class="network-tag">' + escapeHtml(show.network || "") + '</span>' +
+            '<span class="status-badge ' + statusClass + '">' + statusDisplay + '</span>' +
+          '</div>' +
+        '</td>' +
+        '<td class="col-network"><span class="network-tag">' + escapeHtml(show.network || "") + '</span></td>' +
+        '<td class="col-status"><span class="status-badge ' + statusClass + '">' + statusDisplay + '</span></td>' +
+        '<td class="col-actions">' +
+          '<button class="btn-action btn-rss" data-url="' + (show.feed_url || "") + '" title="Copy RSS URL">RSS</button>' +
+          '<a href="' + (show.tvmaze_url || "#") + '" target="_blank" class="btn-action btn-link" title="View on TVmaze">&#8599;</a>' +
+        '</td>';
+      return tr;
+    }
+
+    /* ── Network filter ── */
+    function populateNetworkFilter() {
+      const networks = [...new Set(allShows.map(s => s.network).filter(Boolean))].sort();
+      networks.forEach(n => {
+        const opt = document.createElement("option");
+        opt.value = n;
+        opt.textContent = n;
+        els.networkFilter.appendChild(opt);
       });
     }
 
-    function updateBulkUI() {
-      const num = selectedShows.size;
-      if (num > 0) {
-        els.btnExport.textContent = 'Export OPML (' + num + ')';
-        els.btnExport.disabled = false;
-        els.btnClear.disabled = false;
-      } else {
-        els.btnExport.textContent = "Export OPML";
-        els.btnExport.disabled = true;
-        els.btnClear.disabled = true;
+    /* ── Checkbox helpers ── */
+    function updateSelectAllCb() {
+      const filtered = getFilteredShows();
+      if (filtered.length === 0) {
+        els.selectAllCb.checked = false;
+        els.selectAllCb.indeterminate = false;
+        return;
       }
+      const allSelected = filtered.every(s => selectedShows.has(getShowKey(s)));
+      const someSelected = filtered.some(s => selectedShows.has(getShowKey(s)));
+      els.selectAllCb.checked = allSelected;
+      els.selectAllCb.indeterminate = !allSelected && someSelected;
     }
 
+    function updateCheckboxes() {
+      els.showsBody.querySelectorAll(".show-cb").forEach(cb => {
+        cb.checked = selectedShows.has(cb.value);
+      });
+    }
+
+    /* ── Bulk UI ── */
+    function updateBulkUI() {
+      const n = selectedShows.size;
+      els.btnExport.textContent = n > 0 ? "Export OPML (" + n + ")" : "Export OPML";
+      els.btnExport.disabled = n === 0;
+      els.btnClear.disabled = n === 0;
+    }
+
+    /* ── Copy RSS ── */
+    function copyRSS(btn) {
+      const url = btn.dataset.url;
+      navigator.clipboard.writeText(url).then(() => {
+        btn.textContent = "Copied!";
+        btn.classList.add("copied");
+        setTimeout(() => { btn.textContent = "RSS"; btn.classList.remove("copied"); }, 2000);
+      }).catch(() => {
+        window.open(url, "_blank");
+      });
+    }
+
+    /* ── OPML Export ── */
     function exportOPML() {
       if (selectedShows.size === 0) return;
-      
       const toExport = allShows.filter(s => selectedShows.has(getShowKey(s)));
       const createdAt = new Date().toUTCString();
-      
-      let opml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
-'<opml version="2.0">\n' +
-'  <head>\n' +
-'    <title>TV Season Tracker RSS</title>\n' +
-'    <dateCreated>' + createdAt + '</dateCreated>\n' +
-'  </head>\n' +
-'  <body>\n';
-
+      let opml = '<?xml version="1.0" encoding="UTF-8"?>\n<opml version="2.0">\n  <head>\n    <title>TV Season Tracker RSS</title>\n    <dateCreated>' + createdAt + '</dateCreated>\n  </head>\n  <body>\n';
       toExport.forEach(show => {
-        const title = (show.name || "Untitled").replace(/&/g, "&amp;").replace(/</g, "&lt;");
-        const url = (show.feed_url || "").replace(/&/g, "&amp;");
+        const title = (show.name || "Untitled").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
+        const url = (show.feed_url || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
         opml += '    <outline text="' + title + '" title="' + title + '" type="rss" xmlUrl="' + url + '"/>\n';
       });
-
-      opml += '  </body>\n</opml>';
-
+      opml += "  </body>\n</opml>";
       const blob = new Blob([opml], { type: "text/x-opml;charset=utf-8" });
-      const url = URL.createObjectURL(blob);
+      const u = URL.createObjectURL(blob);
       const a = document.createElement("a");
-      a.href = url;
-      a.download = `tv-shows-feeds.opml`;
+      a.href = u;
+      a.download = "tv-shows-feeds.opml";
       document.body.appendChild(a);
       a.click();
       a.remove();
-      URL.revokeObjectURL(url);
+      URL.revokeObjectURL(u);
     }
 
+    /* ── Sticky offset for thead ── */
+    function updateStickyOffset() {
+      const h = document.querySelector(".site-header").offsetHeight;
+      document.querySelectorAll(".shows-table thead th").forEach(th => {
+        th.style.top = h + "px";
+      });
+    }
+
+    /* ── Boot ── */
+    updateSortIndicators();
     updateBulkUI();
     init();
   </script>
