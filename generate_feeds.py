@@ -125,23 +125,23 @@ def watch_search_url(show_name):
 
 
 def update_page_name(slug, season_number_value):
-        return f"{slug}-s{season_number_value}.html"
+    return f"{slug}-s{season_number_value}.html"
 
 
 def update_page_url(site_url, slug, season_number_value):
-        return f"{site_url}/updates/{update_page_name(slug, season_number_value)}"
+    return f"{site_url}/updates/{update_page_name(slug, season_number_value)}"
 
 
 def build_update_page(show_name, season_number_value, premiere, finale, episode_text, feed_url, search_url, season_url):
-        safe_show = html.escape(show_name)
-        safe_premiere = html.escape(premiere)
-        safe_finale = html.escape(finale)
-        safe_episodes = html.escape(episode_text)
-        safe_feed_url = html.escape(feed_url)
-        safe_search_url = html.escape(search_url)
-        safe_season_url = html.escape(season_url)
+    safe_show = html.escape(show_name)
+    safe_premiere = html.escape(premiere)
+    safe_finale = html.escape(finale)
+    safe_episodes = html.escape(episode_text)
+    safe_feed_url = html.escape(feed_url)
+    safe_search_url = html.escape(search_url)
+    safe_season_url = html.escape(season_url)
 
-        return f"""<!doctype html>
+    return f"""<!doctype html>
 <html lang=\"en\">
 <head>
     <meta charset=\"utf-8\">
@@ -432,15 +432,15 @@ def main():
             print(f"NEW SEASON DETECTED: {show_name} ({previous_latest} -> {latest})")
 
         dated_seasons = [season for season in seasons if has_valid_premiere_date(season)]
+        search_url = watch_search_url(show_name)
+        feed_url = f"{site_url}/feeds/{slug}.xml"
         for season in sorted(dated_seasons, key=season_sort_key, reverse=True):
             number = season_number(season)
             premiere = season.get("premiereDate") or "TBD"
             finale = season.get("endDate") or "TBD"
             episode_count = season.get("episodeOrder")
             episode_text = str(episode_count) if episode_count is not None else "Unknown"
-            search_url = watch_search_url(show_name)
             season_url = season.get("url") or f"https://www.tvmaze.com/shows/{show_id}"
-            feed_url = f"{site_url}/feeds/{slug}.xml"
             page_name = update_page_name(slug, number)
             page_html = build_update_page(
                 show_name,
@@ -466,7 +466,7 @@ def main():
             {
                 "name": show_name,
                 "slug": slug,
-                "feed_url": f"{site_url}/feeds/{slug}.xml",
+                "feed_url": feed_url,
                 "tvmaze_url": tvmaze_url,
                 "network": network_name(show_data),
                 "status": show_data.get("status") or "Unknown",

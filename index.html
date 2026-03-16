@@ -19,7 +19,6 @@
       --pink: #ff79c6;
       --purple: #bd93f9;
       --red: #ff5555;
-      --yellow: #f1fa8c;
       --border-radius: 6px;
       --transition: 0.15s ease;
       --max-width: 1100px;
@@ -61,6 +60,14 @@
       display: flex;
       align-items: baseline;
       gap: 0.75rem;
+      min-width: 0;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-shrink: 0;
     }
 
     .site-title {
@@ -96,12 +103,33 @@
       border-color: var(--pink);
     }
 
+    .icon-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 34px;
+      height: 34px;
+      border-radius: var(--border-radius);
+      border: 1px solid var(--comment);
+      background: transparent;
+      color: var(--fg-muted);
+      text-decoration: none;
+      transition: var(--transition);
+    }
+
+    .icon-btn:hover {
+      border-color: var(--purple);
+      color: var(--fg);
+      background: rgba(189, 147, 249, 0.1);
+    }
+
+    .icon-btn svg { width: 18px; height: 18px; }
+
     /* Search + Filter Row */
     .search-filter-row {
       display: flex;
       gap: 0.75rem;
       align-items: center;
-      margin-bottom: 0.5rem;
     }
 
     .search-box {
@@ -141,21 +169,11 @@
 
     .search-box input::placeholder { color: var(--comment); }
 
-    /* Actions Row */
-    .actions-row {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-    }
-
     .stats {
       color: var(--fg-muted);
       font-size: 0.8rem;
-      flex: 1;
+      white-space: nowrap;
     }
-
-    .bulk-actions { display: flex; gap: 0.4rem; }
 
     .btn {
       padding: 0.4rem 0.75rem;
@@ -382,14 +400,13 @@
 
       .header-top { margin-bottom: 0.5rem; }
       .site-subtitle { display: none; }
+      .site-title { font-size: 1.1rem; }
 
-      .missing-show-link { font-size: 0.75rem; padding: 0.35rem 0.7rem; }
+      .missing-show-link span { display: none; }
+      .missing-show-link { padding: 0.35rem 0.55rem; font-size: 0.8rem; }
 
-      .search-filter-row { flex-direction: column; gap: 0.5rem; }
-      .search-box { max-width: 100%; }
-
-      .actions-row { gap: 0.5rem; }
-      .stats { width: 100%; order: -1; }
+      .search-filter-row { flex-wrap: wrap; gap: 0.5rem; }
+      .search-box { max-width: 100%; order: -1; width: 100%; }
 
       .main-content { padding: 0 0.5rem 2rem; }
 
@@ -453,8 +470,13 @@
           <h1 class="site-title">TV Season Tracker</h1>
           <span class="site-subtitle">RSS feeds for every season</span>
         </div>
-        <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]"
-           target="_blank" class="missing-show-link">+ Request a Show</a>
+        <div class="header-actions">
+          <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]"
+             target="_blank" rel="noopener" class="missing-show-link"><span>+&nbsp;</span>Request a Show</a>
+          <a href="https://github.com/joetul/TV-Season-Tracker-RSS" target="_blank" rel="noopener" class="icon-btn" title="View on GitHub">
+            <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          </a>
+        </div>
       </div>
 
       <div class="search-filter-row">
@@ -463,13 +485,8 @@
           <input type="text" id="search" placeholder="Search shows..." autofocus autocomplete="off">
           <span class="kbd-hint">/</span>
         </div>
-      </div>
-
-      <div class="actions-row">
         <div class="stats" id="stats">Loading...</div>
-        <div class="bulk-actions">
-          <button id="btn-export" class="btn btn-primary" disabled>Export OPML</button>
-        </div>
+        <button id="btn-export" class="btn btn-primary" disabled>Export OPML</button>
       </div>
     </div>
   </header>
@@ -495,16 +512,16 @@
   </main>
 
   <footer class="site-footer">
-    <p>Data from <a href="https://www.tvmaze.com/api" target="_blank">TVmaze</a> &middot;
-       <a href="https://github.com/joetul/TV-Season-Tracker-RSS" target="_blank">GitHub</a> &middot;
-       <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]" target="_blank">Request a Show</a></p>
+    <p>Data from <a href="https://www.tvmaze.com/api" target="_blank" rel="noopener">TVmaze</a> &middot;
+       <a href="https://github.com/joetul/TV-Season-Tracker-RSS" target="_blank" rel="noopener">GitHub</a> &middot;
+       <a href="https://github.com/joetul/TV-Season-Tracker-RSS/issues/new?labels=show-request&title=Request%3A+Add+[SHOW+NAME]" target="_blank" rel="noopener">Request a Show</a></p>
   </footer>
 
   <script>
     /* ── State ── */
     let allShows = [];
     let selectedShows = new Set();
-    let currentFilter = { query: "" };
+    let searchQuery = "";
     let currentSort = { field: "name", direction: "asc" };
 
     /* ── DOM cache ── */
@@ -538,9 +555,13 @@
           els.stats.textContent = "Error";
         });
 
+      let searchTimer;
       els.search.addEventListener("input", () => {
-        currentFilter.query = els.search.value.trim().toLowerCase();
-        render();
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => {
+          searchQuery = els.search.value.trim().toLowerCase();
+          render();
+        }, 150);
       });
 
       document.querySelectorAll(".sortable").forEach(th => {
@@ -565,7 +586,7 @@
           filtered.forEach(s => selectedShows.delete(getShowKey(s)));
         }
         updateBulkUI();
-        updateCheckboxes();
+        updateRowCheckboxes();
       });
 
       els.btnExport.addEventListener("click", exportOPML);
@@ -576,7 +597,7 @@
           if (e.target.checked) selectedShows.add(e.target.value);
           else selectedShows.delete(e.target.value);
           updateBulkUI();
-          updateSelectAllCb();
+          updateSelectAllState(getFilteredShows());
         }
       });
 
@@ -594,14 +615,14 @@
         if (e.key === "Escape") {
           if (els.search.value) {
             els.search.value = "";
-            currentFilter.query = "";
+            searchQuery = "";
             render();
           }
           els.search.blur();
         }
       });
 
-      window.addEventListener("resize", updateStickyOffset);
+      window.addEventListener("resize", onResize);
     }
 
     /* ── Helpers ── */
@@ -610,23 +631,15 @@
     }
 
     function escapeHtml(str) {
-      const d = document.createElement("div");
-      d.textContent = str;
-      return d.innerHTML;
+      return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
     }
 
     /* ── Filtering ── */
     function getFilteredShows() {
-      let shows = allShows;
-
-      if (currentFilter.query) {
-        const q = currentFilter.query;
-        shows = shows.filter(s =>
-          (s.name || "").toLowerCase().includes(q)
-        );
-      }
-
-      return shows;
+      if (!searchQuery) return allShows;
+      return allShows.filter(s =>
+        (s.name || "").toLowerCase().includes(searchQuery)
+      );
     }
 
     /* ── Sorting ── */
@@ -642,6 +655,8 @@
           const order = { "Running": 0, "To Be Determined": 1, "In Development": 2, "Ended": 3 };
           va = order[a.status] ?? 4;
           vb = order[b.status] ?? 4;
+        } else {
+          return 0;
         }
         if (va < vb) return -1 * mult;
         if (va > vb) return  1 * mult;
@@ -668,9 +683,10 @@
       if (sorted.length === 0) {
         els.showsTable.hidden = true;
         els.emptyMsg.hidden = false;
-        els.emptyMsg.textContent = currentFilter.query
-          ? 'No shows found matching "' + currentFilter.query + '".'
-          : "No shows match the current filters.";
+        els.emptyMsg.textContent = searchQuery
+          ? 'No shows found matching "' + searchQuery + '".'
+          : "No shows available.";
+        updateSelectAllState(filtered);
         return;
       }
 
@@ -682,7 +698,7 @@
       els.showsBody.innerHTML = "";
       els.showsBody.appendChild(frag);
 
-      updateSelectAllCb();
+      updateSelectAllState(filtered);
     }
 
     function createRow(show) {
@@ -691,52 +707,54 @@
       const key = getShowKey(show);
       const isSelected = selectedShows.has(key);
       const year = show.premiered ? show.premiered.substring(0, 4) : "";
+      const imgSrc = show.image ? escapeHtml(show.image) : "";
+      const feedUrl = escapeHtml(show.feed_url || "");
+      const tvmazeUrl = escapeHtml(show.tvmaze_url || "#");
 
       let statusClass = "status-tbd";
       let statusLabel = show.status || "Unknown";
       if (statusLabel === "Running") statusClass = "status-running";
       else if (statusLabel === "Ended") statusClass = "status-ended";
-      const statusDisplay = statusLabel === "To Be Determined" ? "TBD" : statusLabel;
+      const statusDisplay = statusLabel === "To Be Determined" ? "TBD" : escapeHtml(statusLabel);
 
       tr.innerHTML =
         '<td class="col-select"><input type="checkbox" class="show-cb" value="' + escapeHtml(key) + '"' + (isSelected ? " checked" : "") + '></td>' +
-        '<td class="col-image"><img src="' + (show.image || "") + '" alt="" class="show-thumb" loading="lazy" width="40" height="56"></td>' +
+        '<td class="col-image">' + (imgSrc ? '<img src="' + imgSrc + '" alt="" class="show-thumb" loading="lazy" width="40" height="56" onerror="this.style.display=\'none\'">' : '<div class="show-thumb"></div>') + '</td>' +
         '<td class="col-name">' +
-          '<div class="show-name-text">' + escapeHtml(show.name) + '</div>' +
-          '<div class="show-year">' + year + '</div>' +
+          '<div class="show-name-text">' + escapeHtml(show.name || "") + '</div>' +
+          '<div class="show-year">' + escapeHtml(year) + '</div>' +
           '<div class="show-mobile-meta">' +
             '<span class="status-badge ' + statusClass + '">' + statusDisplay + '</span>' +
           '</div>' +
         '</td>' +
         '<td class="col-status"><span class="status-badge ' + statusClass + '">' + statusDisplay + '</span></td>' +
         '<td class="col-actions">' +
-          '<button class="btn-action btn-rss" data-url="' + (show.feed_url || "") + '" title="Copy RSS URL">RSS</button>' +
-          '<a href="' + (show.tvmaze_url || "#") + '" target="_blank" class="btn-action btn-link" title="View on TVmaze">&#8599;</a>' +
+          '<button class="btn-action btn-rss" data-url="' + feedUrl + '" title="Copy RSS URL">RSS</button>' +
+          '<a href="' + tvmazeUrl + '" target="_blank" rel="noopener" class="btn-action btn-link" title="View on TVmaze">&#8599;</a>' +
         '</td>';
       return tr;
     }
 
     /* ── Checkbox helpers ── */
-    function updateSelectAllCb() {
-      const filtered = getFilteredShows();
+    function updateSelectAllState(filtered) {
       if (filtered.length === 0) {
         els.selectAllCb.checked = false;
         els.selectAllCb.indeterminate = false;
         return;
       }
       const allSelected = filtered.every(s => selectedShows.has(getShowKey(s)));
-      const someSelected = filtered.some(s => selectedShows.has(getShowKey(s)));
+      const someSelected = !allSelected && filtered.some(s => selectedShows.has(getShowKey(s)));
       els.selectAllCb.checked = allSelected;
-      els.selectAllCb.indeterminate = !allSelected && someSelected;
+      els.selectAllCb.indeterminate = someSelected;
     }
 
-    function updateCheckboxes() {
+    /* ── Bulk UI ── */
+    function updateRowCheckboxes() {
       els.showsBody.querySelectorAll(".show-cb").forEach(cb => {
         cb.checked = selectedShows.has(cb.value);
       });
     }
 
-    /* ── Bulk UI ── */
     function updateBulkUI() {
       const n = selectedShows.size;
       els.btnExport.textContent = n > 0 ? "Export OPML (" + n + ")" : "Export OPML";
@@ -746,6 +764,10 @@
     /* ── Copy RSS ── */
     function copyRSS(btn) {
       const url = btn.dataset.url;
+      if (!navigator.clipboard) {
+        window.open(url, "_blank");
+        return;
+      }
       navigator.clipboard.writeText(url).then(() => {
         btn.textContent = "Copied!";
         btn.classList.add("copied");
@@ -760,10 +782,13 @@
       if (selectedShows.size === 0) return;
       const toExport = allShows.filter(s => selectedShows.has(getShowKey(s)));
       const createdAt = new Date().toUTCString();
-      let opml = '<?xml version="1.0" encoding="UTF-8"?>\n<opml version="2.0">\n  <head>\n    <title>TV Season Tracker RSS</title>\n    <dateCreated>' + createdAt + '</dateCreated>\n  </head>\n  <body>\n';
+      function escapeXml(str) {
+        return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
+      }
+      let opml = '<?xml version="1.0" encoding="UTF-8"?>\n<opml version="2.0">\n  <head>\n    <title>TV Season Tracker RSS</title>\n    <dateCreated>' + escapeXml(createdAt) + '</dateCreated>\n  </head>\n  <body>\n';
       toExport.forEach(show => {
-        const title = (show.name || "Untitled").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
-        const url = (show.feed_url || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+        const title = escapeXml(show.name || "Untitled");
+        const url = escapeXml(show.feed_url || "");
         opml += '    <outline text="' + title + '" title="' + title + '" type="rss" xmlUrl="' + url + '"/>\n';
       });
       opml += "  </body>\n</opml>";
@@ -781,9 +806,14 @@
     /* ── Sticky offset for thead ── */
     function updateStickyOffset() {
       const h = document.querySelector(".site-header").offsetHeight;
-      document.querySelectorAll(".shows-table thead th").forEach(th => {
-        th.style.top = h + "px";
-      });
+      const ths = document.querySelectorAll(".shows-table thead th");
+      for (let i = 0; i < ths.length; i++) ths[i].style.top = h + "px";
+    }
+
+    let resizeTimer;
+    function onResize() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(updateStickyOffset, 100);
     }
 
     /* ── Boot ── */
