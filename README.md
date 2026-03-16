@@ -1,7 +1,7 @@
 
 # SeasonFeed
 
-Never miss a new TV season. Subscribe to RSS feeds for your favorite shows and get notified when a new season is announced.
+Never miss a new TV season. Subscribe to RSS feeds for your favorite shows and get notified when a new season has a premiere date added to TVmaze.
 
 **Live site:** [joetul.github.io/SeasonFeed](https://joetul.github.io/SeasonFeed/)
 
