@@ -149,23 +149,6 @@
       flex-wrap: wrap;
     }
 
-    .network-select {
-      padding: 0.4rem 0.5rem;
-      background: var(--bg);
-      color: var(--fg);
-      border: 1px solid var(--comment);
-      border-radius: var(--border-radius);
-      font-size: 0.8rem;
-      font-family: inherit;
-      outline: none;
-      cursor: pointer;
-      min-width: 140px;
-    }
-
-    .network-select:focus {
-      border-color: var(--purple);
-    }
-
     .stats {
       color: var(--fg-muted);
       font-size: 0.8rem;
@@ -208,7 +191,6 @@
     .col-select  { width: 40px; }
     .col-image   { width: 52px; }
     .col-name    { width: auto; }
-    .col-network { width: 150px; }
     .col-status  { width: 100px; }
     .col-actions { width: 120px; }
 
@@ -269,16 +251,6 @@
       font-size: 0.75rem;
       color: var(--comment);
       margin-top: 1px;
-    }
-
-    .network-tag {
-      display: inline-block;
-      font-size: 0.75rem;
-      padding: 0.15rem 0.5rem;
-      background: rgba(98, 114, 164, 0.15);
-      color: var(--fg-muted);
-      border-radius: 3px;
-      white-space: nowrap;
     }
 
     .status-badge {
@@ -372,12 +344,11 @@
       .search-box { max-width: 100%; }
 
       .actions-row { gap: 0.5rem; }
-      .network-select { flex: 1; min-width: 0; }
       .stats { width: 100%; order: -1; }
 
       .main-content { padding: 0 0.5rem 2rem; }
 
-      .col-network, .col-status { display: none; }
+      .col-status { display: none; }
       .show-mobile-meta { display: flex !important; }
       .col-image { width: 44px; }
       .col-actions { width: 90px; }
@@ -450,9 +421,6 @@
       </div>
 
       <div class="actions-row">
-        <select id="network-filter" class="network-select">
-          <option value="">All Networks</option>
-        </select>
         <div class="stats" id="stats">Loading...</div>
         <div class="bulk-actions">
           <button id="btn-select-all" class="btn">Select Visible</button>
@@ -470,7 +438,6 @@
           <th class="col-select"><input type="checkbox" id="select-all-cb" title="Select all visible"></th>
           <th class="col-image"></th>
           <th class="col-name sortable" data-sort="name">Name</th>
-          <th class="col-network sortable" data-sort="network">Network</th>
           <th class="col-status sortable" data-sort="status">Status</th>
           <th class="col-actions">Actions</th>
         </tr>
@@ -494,7 +461,7 @@
     /* ── State ── */
     let allShows = [];
     let selectedShows = new Set();
-    let currentFilter = { network: "", query: "" };
+    let currentFilter = { query: "" };
     let currentSort = { field: "name", direction: "asc" };
 
     /* ── DOM cache ── */
@@ -505,7 +472,6 @@
       emptyMsg: document.getElementById("empty-msg"),
       loading: document.getElementById("loading"),
       stats: document.getElementById("stats"),
-      networkFilter: document.getElementById("network-filter"),
       selectAllCb: document.getElementById("select-all-cb"),
       btnSelectAll: document.getElementById("btn-select-all"),
       btnClear: document.getElementById("btn-clear"),
@@ -519,7 +485,6 @@
         .then(data => {
           allShows = Array.isArray(data) ? data : [];
           els.loading.hidden = true;
-          populateNetworkFilter();
           render();
           updateStickyOffset();
         })
@@ -534,11 +499,6 @@
 
       els.search.addEventListener("input", () => {
         currentFilter.query = els.search.value.trim().toLowerCase();
-        render();
-      });
-
-      els.networkFilter.addEventListener("change", () => {
-        currentFilter.network = els.networkFilter.value;
         render();
       });
 
@@ -632,15 +592,10 @@
     function getFilteredShows() {
       let shows = allShows;
 
-      if (currentFilter.network) {
-        shows = shows.filter(s => s.network === currentFilter.network);
-      }
-
       if (currentFilter.query) {
         const q = currentFilter.query;
         shows = shows.filter(s =>
-          (s.name || "").toLowerCase().includes(q) ||
-          (s.network || "").toLowerCase().includes(q)
+          (s.name || "").toLowerCase().includes(q)
         );
       }
 
@@ -656,9 +611,6 @@
         if (field === "name") {
           va = (a.name || "").toLowerCase();
           vb = (b.name || "").toLowerCase();
-        } else if (field === "network") {
-          va = (a.network || "").toLowerCase();
-          vb = (b.network || "").toLowerCase();
         } else if (field === "status") {
           const order = { "Running": 0, "To Be Determined": 1, "In Development": 2, "Ended": 3 };
           va = order[a.status] ?? 4;
@@ -726,28 +678,15 @@
           '<div class="show-name-text">' + escapeHtml(show.name) + '</div>' +
           '<div class="show-year">' + year + '</div>' +
           '<div class="show-mobile-meta">' +
-            '<span class="network-tag">' + escapeHtml(show.network || "") + '</span>' +
             '<span class="status-badge ' + statusClass + '">' + statusDisplay + '</span>' +
           '</div>' +
         '</td>' +
-        '<td class="col-network"><span class="network-tag">' + escapeHtml(show.network || "") + '</span></td>' +
         '<td class="col-status"><span class="status-badge ' + statusClass + '">' + statusDisplay + '</span></td>' +
         '<td class="col-actions">' +
           '<button class="btn-action btn-rss" data-url="' + (show.feed_url || "") + '" title="Copy RSS URL">RSS</button>' +
           '<a href="' + (show.tvmaze_url || "#") + '" target="_blank" class="btn-action btn-link" title="View on TVmaze">&#8599;</a>' +
         '</td>';
       return tr;
-    }
-
-    /* ── Network filter ── */
-    function populateNetworkFilter() {
-      const networks = [...new Set(allShows.map(s => s.network).filter(Boolean))].sort();
-      networks.forEach(n => {
-        const opt = document.createElement("option");
-        opt.value = n;
-        opt.textContent = n;
-        els.networkFilter.appendChild(opt);
-      });
     }
 
     /* ── Checkbox helpers ── */
