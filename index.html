@@ -313,9 +313,7 @@
     .btn-rss.copied {
       border-color: var(--green);
       color: var(--green);
-      background: rgba(80, 250, 123, 0.18);
-      box-shadow: 0 0 0 2px var(--green);
-      transition: box-shadow 0.2s, background 0.2s, color 0.2s;
+      background: rgba(80, 250, 123, 0.1);
     }
 
     .btn-link:hover {
@@ -779,8 +777,9 @@
         return;
       }
       navigator.clipboard.writeText(url).then(() => {
+        btn.textContent = "Copied!";
         btn.classList.add("copied");
-        setTimeout(() => { btn.classList.remove("copied"); }, 1200);
+        setTimeout(() => { btn.textContent = "RSS URL"; btn.classList.remove("copied"); }, 2000);
       }).catch(() => {
         window.open(url, "_blank");
       });
