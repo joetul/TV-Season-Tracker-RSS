@@ -5,11 +5,11 @@
     <description>New season notifications for Shrinking from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/shrinking.xml</link>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 03:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:20:46 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/shrinking.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 3 — Premieres 2026-01-28</title>
-      <description>Premiere: 2026-01-28 | Finale: 2026-04-08 | Episodes: 11</description>
+      <description>Premiere: 2026-01-28 | Finale: 2026-04-08 | Episodes: 12</description>
       <comments>https://www.google.com/search?q=Shrinking%20where%20to%20watch</comments>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/shrinking-s3.html</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
