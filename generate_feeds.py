@@ -44,6 +44,13 @@ def slugify(name):
     return slug or "show"
 
 
+def make_file_slug(show_name, premiered):
+    """Slug with premiere year appended to reduce collision risk."""
+    base = slugify(show_name)
+    year = (premiered or "")[:4]
+    return f"{base}-{year}" if year else base
+
+
 def read_json(path, fallback):
     if not path.exists():
         return fallback
@@ -111,6 +118,12 @@ def build_update_page(show_name, season_number_value, premiere, finale, episode_
     s = html.escape
     title = f"{s(show_name)} — Season {season_number_value}"
     desc = f"{s(show_name)} Season {season_number_value}: premieres {s(format_date_human(premiere))}, {s(episode_text)} episodes."
+    body_parts = [f"<p>{s(show_name)} Season {season_number_value} premieres on {s(format_date_human(premiere))}.</p>"]
+    if finale and finale != "TBD":
+        body_parts.append(f"<p>The season finale is scheduled for {s(format_date_human(finale))}.</p>")
+    if episode_text and episode_text != "Unknown":
+        body_parts.append(f"<p>The season has {s(episode_text)} episodes.</p>")
+    body_html = "\n".join(body_parts)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -125,9 +138,7 @@ def build_update_page(show_name, season_number_value, premiere, finale, episode_
 <main id="MainContent">
 <article>
 <h1>{title}</h1>
-<p>{s(show_name)} Season {season_number_value} premieres on {s(format_date_human(premiere))}.</p>
-<p>The season finale is scheduled for {s(format_date_human(finale))}.</p>
-<p>The season has {s(episode_text)} episodes.</p>
+{body_html}
 <p>Adapted from <a href="https://www.tvmaze.com">TVmaze</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
 </article>
 </main>
@@ -256,15 +267,18 @@ def format_date_human(date_text):
         return date_text or "TBD"
     try:
         dt = datetime.strptime(date_text, "%Y-%m-%d")
-        return dt.strftime("%-d %B %Y")
+        return f"{dt.day} {dt.strftime('%B %Y')}"
     except ValueError:
         return date_text
 
 
 def build_item_description(premiere, finale, episode_text):
-    p = format_date_human(premiere)
-    f = format_date_human(finale)
-    return f"Premiere: {p}<br>Finale: {f}<br>Episodes: {episode_text}"
+    parts = [f"Premiere: {format_date_human(premiere)}"]
+    if finale and finale != "TBD":
+        parts.append(f"Finale: {format_date_human(finale)}")
+    if episode_text and episode_text != "Unknown":
+        parts.append(f"Episodes: {episode_text}")
+    return "\n".join(parts)
 
 
 def build_feed(show_data, seasons, slug, site_url):
@@ -342,6 +356,7 @@ def main():
     manifest = []
     generated_slugs = set()
     generated_updates = set()
+    active_state_keys = set()
 
     for spec in show_specs:
         show_data = resolve_show(spec, state, client)
@@ -355,7 +370,12 @@ def main():
             continue
 
         show_name = show_data.get("name", "Unknown Show")
-        slug = slugify(show_name)
+        name_slug = slugify(show_name)
+        file_slug = make_file_slug(show_name, show_data.get("premiered"))
+
+        if file_slug in generated_slugs:
+            print(f"WARNING: duplicate slug '{file_slug}' for {show_name}. Skipping.")
+            continue
 
         seasons = client.get_json(f"{API_BASE}/shows/{show_id}/seasons")
         if seasons is None:
@@ -366,7 +386,7 @@ def main():
             continue
 
         latest = latest_season_number(seasons)
-        previous_latest = state.get(slug, {}).get("latest_season")
+        previous_latest = state.get(name_slug, {}).get("latest_season")
         try:
             previous_latest = int(previous_latest) if previous_latest is not None else None
         except (TypeError, ValueError):
@@ -375,7 +395,7 @@ def main():
         if previous_latest is not None and latest > previous_latest:
             print(f"NEW SEASON DETECTED: {show_name} ({previous_latest} -> {latest})")
 
-        feed_url = f"{site_url}/feeds/{slug}.xml"
+        feed_url = f"{site_url}/feeds/{file_slug}.xml"
 
         dated_seasons = [season for season in seasons if has_valid_premiere_date(season)]
         for season in dated_seasons:
@@ -384,7 +404,7 @@ def main():
             finale = season.get("endDate") or "TBD"
             episode_count = season.get("episodeOrder")
             episode_text = str(episode_count) if episode_count is not None else "Unknown"
-            page_name = f"{slug}-s{number}.html"
+            page_name = f"{file_slug}-s{number}.html"
             page_html = build_update_page(show_name, number, premiere, finale, episode_text)
             page_path = UPDATES_DIR / page_name
             page_bytes = page_html.encode("utf-8")
@@ -392,11 +412,11 @@ def main():
                 page_path.write_text(page_html, encoding="utf-8")
             generated_updates.add(page_name)
 
-        feed_bytes = build_feed(show_data, seasons, slug, site_url)
-        feed_path = FEEDS_DIR / f"{slug}.xml"
+        feed_bytes = build_feed(show_data, seasons, file_slug, site_url)
+        feed_path = FEEDS_DIR / f"{file_slug}.xml"
         if not feed_path.exists() or feed_path.read_bytes() != feed_bytes:
             feed_path.write_bytes(feed_bytes)
-        generated_slugs.add(slug)
+        generated_slugs.add(file_slug)
 
         image_data = show_data.get("image") or {}
         tvmaze_url = show_data.get("url") or f"https://www.tvmaze.com/shows/{show_id}"
@@ -404,7 +424,7 @@ def main():
         manifest.append(
             {
                 "name": show_name,
-                "slug": slug,
+                "slug": file_slug,
                 "feed_url": feed_url,
                 "tvmaze_url": tvmaze_url,
                 "network": network_name(show_data),
@@ -415,7 +435,8 @@ def main():
             }
         )
 
-        existing_state = state.get(slug, {})
+        active_state_keys.add(name_slug)
+        existing_state = state.get(name_slug, {})
         if (
             existing_state.get("tvmaze_id") == show_id
             and existing_state.get("name") == show_name
@@ -425,7 +446,7 @@ def main():
         else:
             last_checked = now_iso_utc()
 
-        state[slug] = {
+        state[name_slug] = {
             "tvmaze_id": show_id,
             "name": show_name,
             "latest_season": latest,
@@ -439,6 +460,10 @@ def main():
     for existing_update in UPDATES_DIR.glob("*.html"):
         if existing_update.name not in generated_updates:
             existing_update.unlink()
+
+    # Prune stale state entries for shows no longer tracked
+    for stale_key in set(state) - active_state_keys:
+        del state[stale_key]
 
     manifest.sort(key=lambda item: item.get("name", "").lower())
     write_json(INDEX_PATH, manifest)
