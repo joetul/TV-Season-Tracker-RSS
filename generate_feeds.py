@@ -372,6 +372,8 @@ def main():
         if previous_latest is not None and latest > previous_latest:
             print(f"NEW SEASON DETECTED: {show_name} ({previous_latest} -> {latest})")
 
+        feed_url = f"{site_url}/feeds/{slug}.xml"
+
         dated_seasons = [season for season in seasons if has_valid_premiere_date(season)]
         for season in dated_seasons:
             number = season_number(season)
