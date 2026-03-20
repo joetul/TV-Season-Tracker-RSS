@@ -12,8 +12,8 @@
       <description>Premiere: 22 August 2023
 Finale: 3 October 2023
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/ahsoka.xml</link>
-      <guid isPermaLink="false">seasonfeed:ahsoka:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/ahsoka-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/ahsoka-s1.html</guid>
       <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>

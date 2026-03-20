@@ -12,8 +12,8 @@
       <description>Premiere: 1 January 2026
 Finale: 1 February 2026
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-night-manager.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-night-manager:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-night-manager-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-night-manager-s2.html</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 6</description>
       <description>Premiere: 21 February 2016
 Finale: 27 March 2016
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-night-manager.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-night-manager:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-night-manager-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-night-manager-s1.html</guid>
       <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>

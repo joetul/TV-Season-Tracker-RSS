@@ -12,8 +12,8 @@
       <description>Premiere: 15 January 2021
 Finale: 5 March 2021
 Episodes: 9</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/wandavision.xml</link>
-      <guid isPermaLink="false">seasonfeed:wandavision:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/wandavision-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/wandavision-s1.html</guid>
       <pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>

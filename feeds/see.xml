@@ -12,8 +12,8 @@
       <description>Premiere: 26 August 2022
 Finale: 14 October 2022
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/see.xml</link>
-      <guid isPermaLink="false">seasonfeed:see:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/see-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/see-s3.html</guid>
       <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 27 August 2021
 Finale: 15 October 2021
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/see.xml</link>
-      <guid isPermaLink="false">seasonfeed:see:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/see-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/see-s2.html</guid>
       <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 8</description>
       <description>Premiere: 1 November 2019
 Finale: 6 December 2019
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/see.xml</link>
-      <guid isPermaLink="false">seasonfeed:see:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/see-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/see-s1.html</guid>
       <pubDate>Fri, 01 Nov 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>

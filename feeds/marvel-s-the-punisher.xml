@@ -12,8 +12,8 @@
       <description>Premiere: 18 January 2019
 Finale: 18 January 2019
 Episodes: 13</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/marvel-s-the-punisher.xml</link>
-      <guid isPermaLink="false">seasonfeed:marvel-s-the-punisher:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/marvel-s-the-punisher-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/marvel-s-the-punisher-s2.html</guid>
       <pubDate>Fri, 18 Jan 2019 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 13</description>
       <description>Premiere: 17 November 2017
 Finale: 17 November 2017
 Episodes: 13</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/marvel-s-the-punisher.xml</link>
-      <guid isPermaLink="false">seasonfeed:marvel-s-the-punisher:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/marvel-s-the-punisher-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/marvel-s-the-punisher-s1.html</guid>
       <pubDate>Fri, 17 Nov 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>

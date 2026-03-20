@@ -12,8 +12,8 @@
       <description>Premiere: 26 November 2025
 Finale: 31 December 2025
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/stranger-things.xml</link>
-      <guid isPermaLink="false">seasonfeed:stranger-things:s5</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/stranger-things-s5.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/stranger-things-s5.html</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 27 May 2022
 Finale: 1 July 2022
 Episodes: 9</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/stranger-things.xml</link>
-      <guid isPermaLink="false">seasonfeed:stranger-things:s4</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/stranger-things-s4.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/stranger-things-s4.html</guid>
       <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 9</description>
       <description>Premiere: 4 July 2019
 Finale: 4 July 2019
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/stranger-things.xml</link>
-      <guid isPermaLink="false">seasonfeed:stranger-things:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/stranger-things-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/stranger-things-s3.html</guid>
       <pubDate>Thu, 04 Jul 2019 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -39,8 +39,8 @@ Episodes: 8</description>
       <description>Premiere: 27 October 2017
 Finale: 27 October 2017
 Episodes: 9</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/stranger-things.xml</link>
-      <guid isPermaLink="false">seasonfeed:stranger-things:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/stranger-things-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/stranger-things-s2.html</guid>
       <pubDate>Fri, 27 Oct 2017 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -48,8 +48,8 @@ Episodes: 9</description>
       <description>Premiere: 15 July 2016
 Finale: 15 July 2016
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/stranger-things.xml</link>
-      <guid isPermaLink="false">seasonfeed:stranger-things:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/stranger-things-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/stranger-things-s1.html</guid>
       <pubDate>Fri, 15 Jul 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>

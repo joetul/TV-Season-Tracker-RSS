@@ -12,8 +12,8 @@
       <description>Premiere: 30 January 2025
 Finale: 30 January 2025
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-recruit:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-recruit-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-recruit-s2.html</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 6</description>
       <description>Premiere: 16 December 2022
 Finale: 16 December 2022
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-recruit:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-recruit-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-recruit-s1.html</guid>
       <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>

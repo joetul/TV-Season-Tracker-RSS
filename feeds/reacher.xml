@@ -12,8 +12,8 @@
       <description>Premiere: 20 February 2025
 Finale: 27 March 2025
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/reacher.xml</link>
-      <guid isPermaLink="false">seasonfeed:reacher:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/reacher-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/reacher-s3.html</guid>
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 15 December 2023
 Finale: 19 January 2024
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/reacher.xml</link>
-      <guid isPermaLink="false">seasonfeed:reacher:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/reacher-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/reacher-s2.html</guid>
       <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 8</description>
       <description>Premiere: 4 February 2022
 Finale: 4 February 2022
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/reacher.xml</link>
-      <guid isPermaLink="false">seasonfeed:reacher:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/reacher-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/reacher-s1.html</guid>
       <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>

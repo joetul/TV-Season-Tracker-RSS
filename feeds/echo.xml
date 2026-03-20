@@ -12,8 +12,8 @@
       <description>Premiere: 9 January 2024
 Finale: 9 January 2024
 Episodes: 5</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/echo.xml</link>
-      <guid isPermaLink="false">seasonfeed:echo:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/echo-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/echo-s1.html</guid>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>

@@ -12,8 +12,8 @@
       <description>Premiere: 30 October 2025
 Finale: 30 October 2025
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-witcher.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-witcher:s4</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-witcher-s4.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-witcher-s4.html</guid>
       <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 29 June 2023
 Finale: 27 July 2023
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-witcher.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-witcher:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-witcher-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-witcher-s3.html</guid>
       <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 8</description>
       <description>Premiere: 17 December 2021
 Finale: 17 December 2021
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-witcher.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-witcher:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-witcher-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-witcher-s2.html</guid>
       <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -39,8 +39,8 @@ Episodes: 8</description>
       <description>Premiere: 20 December 2019
 Finale: 20 December 2019
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-witcher.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-witcher:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-witcher-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-witcher-s1.html</guid>
       <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>

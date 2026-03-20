@@ -12,8 +12,8 @@
       <description>Premiere: 11 July 2024
 Finale: 11 July 2024
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/vikings-valhalla.xml</link>
-      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s3.html</guid>
       <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 12 January 2023
 Finale: 12 January 2023
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/vikings-valhalla.xml</link>
-      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s2.html</guid>
       <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 8</description>
       <description>Premiere: 25 February 2022
 Finale: 25 February 2022
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/vikings-valhalla.xml</link>
-      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/vikings-valhalla-s1.html</guid>
       <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>

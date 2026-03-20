@@ -12,8 +12,8 @@
       <description>Premiere: 4 March 2019
 Finale: 8 April 2019
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/fleabag.xml</link>
-      <guid isPermaLink="false">seasonfeed:fleabag:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/fleabag-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/fleabag-s2.html</guid>
       <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 6</description>
       <description>Premiere: 21 July 2016
 Finale: 25 August 2016
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/fleabag.xml</link>
-      <guid isPermaLink="false">seasonfeed:fleabag:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/fleabag-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/fleabag-s1.html</guid>
       <pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>

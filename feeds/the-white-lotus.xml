@@ -12,8 +12,8 @@
       <description>Premiere: 16 February 2025
 Finale: 6 April 2025
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-white-lotus.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-white-lotus:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s3.html</guid>
       <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 30 October 2022
 Finale: 11 December 2022
 Episodes: 7</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-white-lotus.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-white-lotus:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s2.html</guid>
       <pubDate>Sun, 30 Oct 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 7</description>
       <description>Premiere: 11 July 2021
 Finale: 15 August 2021
 Episodes: 6</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/the-white-lotus.xml</link>
-      <guid isPermaLink="false">seasonfeed:the-white-lotus:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-white-lotus-s1.html</guid>
       <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>

@@ -12,8 +12,8 @@
       <description>Premiere: 29 January 2026
 Finale: 26 February 2026
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/bridgerton.xml</link>
-      <guid isPermaLink="false">seasonfeed:bridgerton:s4</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/bridgerton-s4.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/bridgerton-s4.html</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -21,8 +21,8 @@ Episodes: 8</description>
       <description>Premiere: 16 May 2024
 Finale: 13 June 2024
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/bridgerton.xml</link>
-      <guid isPermaLink="false">seasonfeed:bridgerton:s3</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/bridgerton-s3.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/bridgerton-s3.html</guid>
       <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -30,8 +30,8 @@ Episodes: 8</description>
       <description>Premiere: 25 March 2022
 Finale: 25 March 2022
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/bridgerton.xml</link>
-      <guid isPermaLink="false">seasonfeed:bridgerton:s2</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/bridgerton-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/bridgerton-s2.html</guid>
       <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -39,8 +39,8 @@ Episodes: 8</description>
       <description>Premiere: 25 December 2020
 Finale: 25 December 2020
 Episodes: 8</description>
-      <link>https://joetul.github.io/SeasonFeed/feeds/bridgerton.xml</link>
-      <guid isPermaLink="false">seasonfeed:bridgerton:s1</guid>
+      <link>https://joetul.github.io/SeasonFeed/updates/bridgerton-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/bridgerton-s1.html</guid>
       <pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
