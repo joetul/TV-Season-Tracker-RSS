@@ -5,20 +5,18 @@
     <description>New season notifications for The Last of Us from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/the-last-of-us.xml</link>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Aug 2025 22:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-last-of-us.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2025-04-13</title>
-      <description>Premiere: 2025-04-13 | Finale: 2025-05-25 | Episodes: 7</description>
-      <comments>https://www.google.com/search?q=The%20Last%20of%20Us%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 13 April 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 25 May 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 7&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-last-of-us-s2.html</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-last-of-us-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2023-01-15</title>
-      <description>Premiere: 2023-01-15 | Finale: 2023-03-12 | Episodes: 9</description>
-      <comments>https://www.google.com/search?q=The%20Last%20of%20Us%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 15 January 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 12 March 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 9&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-last-of-us-s1.html</guid>
       <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-last-of-us-s1.html</link>

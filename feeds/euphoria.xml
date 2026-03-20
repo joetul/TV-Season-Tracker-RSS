@@ -5,28 +5,25 @@
     <description>New season notifications for Euphoria from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/euphoria.xml</link>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/euphoria.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 3 — Premieres 2026-04-12</title>
-      <description>Premiere: 2026-04-12 | Finale: 2026-05-31 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Euphoria%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 12 April 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 31 May 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/euphoria-s3.html</guid>
       <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/euphoria-s3.html</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2022-01-09</title>
-      <description>Premiere: 2022-01-09 | Finale: 2022-02-27 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Euphoria%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 9 January 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 27 February 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/euphoria-s2.html</guid>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/euphoria-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2019-06-16</title>
-      <description>Premiere: 2019-06-16 | Finale: 2021-01-22 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Euphoria%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 16 June 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 22 January 2021&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/euphoria-s1.html</guid>
       <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/euphoria-s1.html</link>

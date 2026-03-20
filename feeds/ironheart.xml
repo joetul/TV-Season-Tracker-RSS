@@ -5,12 +5,11 @@
     <description>New season notifications for Ironheart from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/ironheart.xml</link>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Aug 2025 21:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/ironheart.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 1 — Premieres 2025-06-24</title>
-      <description>Premiere: 2025-06-24 | Finale: 2025-07-01 | Episodes: 6</description>
-      <comments>https://www.google.com/search?q=Ironheart%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 24 June 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 1 July 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 6&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/ironheart-s1.html</guid>
       <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/ironheart-s1.html</link>

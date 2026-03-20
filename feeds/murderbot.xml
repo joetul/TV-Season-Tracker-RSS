@@ -5,12 +5,11 @@
     <description>New season notifications for Murderbot from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/murderbot.xml</link>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jul 2025 14:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/murderbot.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 1 — Premieres 2025-05-16</title>
-      <description>Premiere: 2025-05-16 | Finale: 2025-07-11 | Episodes: 10</description>
-      <comments>https://www.google.com/search?q=Murderbot%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 16 May 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 11 July 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 10&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/murderbot-s1.html</guid>
       <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/murderbot-s1.html</link>

@@ -5,20 +5,18 @@
     <description>New season notifications for Fleabag from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/fleabag.xml</link>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Apr 2025 18:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/fleabag.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2019-03-04</title>
-      <description>Premiere: 2019-03-04 | Finale: 2019-04-08 | Episodes: 6</description>
-      <comments>https://www.google.com/search?q=Fleabag%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 4 March 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 8 April 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 6&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/fleabag-s2.html</guid>
       <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/fleabag-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2016-07-21</title>
-      <description>Premiere: 2016-07-21 | Finale: 2016-08-25 | Episodes: 6</description>
-      <comments>https://www.google.com/search?q=Fleabag%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 21 July 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 25 August 2016&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 6&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/fleabag-s1.html</guid>
       <pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/fleabag-s1.html</link>

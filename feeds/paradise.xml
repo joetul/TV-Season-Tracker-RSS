@@ -5,20 +5,18 @@
     <description>New season notifications for Paradise from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/paradise.xml</link>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 18:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/paradise.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2026-02-23</title>
-      <description>Premiere: 2026-02-23 | Finale: 2026-03-30 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Paradise%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 23 February 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 30 March 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/paradise-s2.html</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/paradise-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2025-01-26</title>
-      <description>Premiere: 2025-01-26 | Finale: 2025-03-04 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Paradise%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 26 January 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 4 March 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/paradise-s1.html</guid>
       <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/paradise-s1.html</link>

@@ -5,20 +5,18 @@
     <description>New season notifications for Pachinko from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/pachinko.xml</link>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 22:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/pachinko.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2024-08-23</title>
-      <description>Premiere: 2024-08-23 | Finale: 2024-10-11 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Pachinko%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 23 August 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 11 October 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/pachinko-s2.html</guid>
       <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/pachinko-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2022-03-25</title>
-      <description>Premiere: 2022-03-25 | Finale: 2022-04-29 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Pachinko%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 25 March 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 29 April 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/pachinko-s1.html</guid>
       <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/pachinko-s1.html</link>

@@ -5,12 +5,11 @@
     <description>New season notifications for Ms. Marvel from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/ms-marvel.xml</link>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 06:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/ms-marvel.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 1 — Premieres 2022-06-08</title>
-      <description>Premiere: 2022-06-08 | Finale: 2022-07-13 | Episodes: 6</description>
-      <comments>https://www.google.com/search?q=Ms.%20Marvel%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 8 June 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 13 July 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 6&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/ms-marvel-s1.html</guid>
       <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/ms-marvel-s1.html</link>

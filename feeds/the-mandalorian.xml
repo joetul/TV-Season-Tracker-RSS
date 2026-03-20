@@ -5,28 +5,25 @@
     <description>New season notifications for The Mandalorian from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/the-mandalorian.xml</link>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 18:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-mandalorian.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 3 — Premieres 2023-03-01</title>
-      <description>Premiere: 2023-03-01 | Finale: 2023-04-19 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 1 March 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 19 April 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s3.html</guid>
       <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s3.html</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2020-10-30</title>
-      <description>Premiere: 2020-10-30 | Finale: 2020-12-18 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 30 October 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 18 December 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s2.html</guid>
       <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2019-11-12</title>
-      <description>Premiere: 2019-11-12 | Finale: 2019-12-27 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=The%20Mandalorian%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 12 November 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 27 December 2019&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s1.html</guid>
       <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-mandalorian-s1.html</link>

@@ -132,12 +132,11 @@ def update_page_url(site_url, slug, season_number_value):
     return f"{site_url}/updates/{update_page_name(slug, season_number_value)}"
 
 
-def build_update_page(show_name, season_number_value, premiere, finale, episode_text, feed_url, search_url, season_url):
+def build_update_page(show_name, season_number_value, premiere, finale, episode_text, search_url, season_url):
     safe_show = html.escape(show_name)
-    safe_premiere = html.escape(premiere)
-    safe_finale = html.escape(finale)
+    safe_premiere = html.escape(format_date_human(premiere))
+    safe_finale = html.escape(format_date_human(finale))
     safe_episodes = html.escape(episode_text)
-    safe_feed_url = html.escape(feed_url)
     safe_search_url = html.escape(search_url)
     safe_season_url = html.escape(season_url)
 
@@ -178,18 +177,17 @@ def build_update_page(show_name, season_number_value, premiere, finale, episode_
     <main>
         <article>
             <header>
-                <h1>{safe_show} Season {season_number_value} Update</h1>
-                    <p class="meta">SeasonFeed</p>
+                <h1>{safe_show} Season {season_number_value}</h1>
+                <p class="meta">SeasonFeed</p>
             </header>
-            <p>This page summarizes the latest season information for <strong>{safe_show}</strong>.</p>
             <ul>
-                <li><strong>Premiere date:</strong> {safe_premiere}</li>
-                <li><strong>Finale date:</strong> {safe_finale}</li>
-                <li><strong>Episode count:</strong> {safe_episodes}</li>
+                <li><strong>Premiere:</strong> {safe_premiere}</li>
+                <li><strong>Finale:</strong> {safe_finale}</li>
+                <li><strong>Episodes:</strong> {safe_episodes}</li>
             </ul>
+            <p><a href=\"{safe_season_url}\">Season details on TVmaze</a></p>
             <p><a href=\"{safe_search_url}\">Where to watch (Google search)</a></p>
-            <p><a href=\"{safe_season_url}\">Open season details on TVmaze</a></p>
-            <p><a href=\"{safe_feed_url}\">Open RSS feed link</a></p>
+            <p><a href=\"https://github.com/joetul/SeasonFeed\">SeasonFeed on GitHub</a></p>
         </article>
     </main>
 </body>
@@ -293,11 +291,8 @@ def season_number(season):
         return 0
 
 
-def compute_last_build_date(show_data, seasons):
-    updated_based = unix_to_rfc822(show_data.get("updated"))
-    if updated_based:
-        return updated_based
-
+def compute_last_build_date(seasons):
+    """Return the RFC 822 date of the most recent season premiere, or epoch."""
     parsed_dates = []
     for season in seasons:
         date_text = season.get("premiereDate")
@@ -314,9 +309,25 @@ def compute_last_build_date(show_data, seasons):
     return "Thu, 01 Jan 1970 00:00:00 GMT"
 
 
+def format_date_human(date_text):
+    """Convert YYYY-MM-DD to a human-readable date, e.g. '18 March 2026'."""
+    if not date_text or date_text == "TBD":
+        return date_text or "TBD"
+    try:
+        dt = datetime.strptime(date_text, "%Y-%m-%d")
+        return dt.strftime("%-d %B %Y")
+    except ValueError:
+        return date_text
+
+
 def build_item_description(premiere, finale, episode_text):
-    # Keep item summaries concise for readers that render only plain text.
-    return f"Premiere: {premiere} | Finale: {finale} | Episodes: {episode_text}"
+    p = format_date_human(premiere)
+    f = format_date_human(finale)
+    return (
+        f"<p><strong>Premiere:</strong> {p}</p>"
+        f"<p><strong>Finale:</strong> {f}</p>"
+        f"<p><strong>Episodes:</strong> {episode_text}</p>"
+    )
 
 
 def build_feed(show_data, seasons, slug, site_url):
@@ -334,7 +345,7 @@ def build_feed(show_data, seasons, slug, site_url):
     )
     ET.SubElement(channel, "link").text = feed_url
     ET.SubElement(channel, "language").text = "en"
-    ET.SubElement(channel, "lastBuildDate").text = compute_last_build_date(show_data, seasons)
+    ET.SubElement(channel, "lastBuildDate").text = compute_last_build_date(seasons)
 
     ET.SubElement(
         channel,
@@ -360,9 +371,7 @@ def build_feed(show_data, seasons, slug, site_url):
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = f"Season {number} — Premieres {premiere}"
         ET.SubElement(item, "description").text = build_item_description(premiere, finale, episode_text)
-        ET.SubElement(item, "comments").text = search_url
         ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = item_url
-
         ET.SubElement(item, "pubDate").text = date_to_rfc822(season.get("premiereDate"))
         ET.SubElement(item, "link").text = item_url
 
@@ -448,15 +457,19 @@ def main():
                 premiere,
                 finale,
                 episode_text,
-                feed_url,
                 search_url,
                 season_url,
             )
-            (UPDATES_DIR / page_name).write_text(page_html, encoding="utf-8")
+            page_path = UPDATES_DIR / page_name
+            page_bytes = page_html.encode("utf-8")
+            if not page_path.exists() or page_path.read_bytes() != page_bytes:
+                page_path.write_text(page_html, encoding="utf-8")
             generated_updates.add(page_name)
 
         feed_bytes = build_feed(show_data, seasons, slug, site_url)
-        (FEEDS_DIR / f"{slug}.xml").write_bytes(feed_bytes)
+        feed_path = FEEDS_DIR / f"{slug}.xml"
+        if not feed_path.exists() or feed_path.read_bytes() != feed_bytes:
+            feed_path.write_bytes(feed_bytes)
         generated_slugs.add(slug)
 
         image_data = show_data.get("image") or {}

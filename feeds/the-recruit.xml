@@ -5,20 +5,18 @@
     <description>New season notifications for The Recruit from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml</link>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 08:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 2 — Premieres 2025-01-30</title>
-      <description>Premiere: 2025-01-30 | Finale: 2025-01-30 | Episodes: 6</description>
-      <comments>https://www.google.com/search?q=The%20Recruit%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 30 January 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 30 January 2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 6&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-recruit-s2.html</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-recruit-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2022-12-16</title>
-      <description>Premiere: 2022-12-16 | Finale: 2022-12-16 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=The%20Recruit%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 16 December 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 16 December 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/the-recruit-s1.html</guid>
       <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/the-recruit-s1.html</link>

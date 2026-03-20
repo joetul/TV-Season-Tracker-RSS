@@ -5,36 +5,32 @@
     <description>New season notifications for Industry from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/industry.xml</link>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 12:43:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/industry.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 4 — Premieres 2026-01-11</title>
-      <description>Premiere: 2026-01-11 | Finale: 2026-03-01 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Industry%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 11 January 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 1 March 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/industry-s4.html</guid>
       <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/industry-s4.html</link>
     </item>
     <item>
       <title>Season 3 — Premieres 2024-08-11</title>
-      <description>Premiere: 2024-08-11 | Finale: 2024-09-29 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Industry%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 11 August 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 29 September 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/industry-s3.html</guid>
       <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/industry-s3.html</link>
     </item>
     <item>
       <title>Season 2 — Premieres 2022-08-01</title>
-      <description>Premiere: 2022-08-01 | Finale: 2022-09-19 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Industry%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 1 August 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 19 September 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/industry-s2.html</guid>
       <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/industry-s2.html</link>
     </item>
     <item>
       <title>Season 1 — Premieres 2020-11-09</title>
-      <description>Premiere: 2020-11-09 | Finale: 2020-11-27 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Industry%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 9 November 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 27 November 2020&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/industry-s1.html</guid>
       <pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/industry-s1.html</link>

@@ -5,12 +5,11 @@
     <description>New season notifications for Presumed Innocent from TVmaze metadata.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/presumed-innocent.xml</link>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 21:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/presumed-innocent.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Season 1 — Premieres 2024-06-12</title>
-      <description>Premiere: 2024-06-12 | Finale: 2024-07-24 | Episodes: 8</description>
-      <comments>https://www.google.com/search?q=Presumed%20Innocent%20where%20to%20watch</comments>
+      <description>&lt;p&gt;&lt;strong&gt;Premiere:&lt;/strong&gt; 12 June 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Finale:&lt;/strong&gt; 24 July 2024&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Episodes:&lt;/strong&gt; 8&lt;/p&gt;</description>
       <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/presumed-innocent-s1.html</guid>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <link>https://joetul.github.io/SeasonFeed/updates/presumed-innocent-s1.html</link>
