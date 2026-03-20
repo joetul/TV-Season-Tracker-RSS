@@ -291,7 +291,7 @@ def build_feed(show_data, seasons, slug, site_url):
     ET.SubElement(channel, "title").text = f"{show_name} Season Alerts"
     ET.SubElement(channel, "description").text = (
         f"New season notifications for {show_name}."
-        f" Adapted from TVmaze (tvmaze.com) under CC BY-SA 4.0."
+        f" Data from TVmaze (tvmaze.com) under CC BY-SA 4.0."
     )
     ET.SubElement(channel, "link").text = feed_url
     ET.SubElement(channel, "language").text = "en"
