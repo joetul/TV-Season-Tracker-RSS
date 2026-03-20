@@ -5,7 +5,6 @@ import json
 import os
 import re
 import time
-import html
 from datetime import datetime, timezone
 from pathlib import Path
 import urllib.error
@@ -17,7 +16,6 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parent
 SHOWS_PATH = ROOT / "shows.json"
 FEEDS_DIR = ROOT / "feeds"
-UPDATES_DIR = ROOT / "updates"
 DATA_DIR = ROOT / "data"
 STATE_PATH = DATA_DIR / "state.json"
 INDEX_PATH = FEEDS_DIR / "index.json"
@@ -122,77 +120,6 @@ def watch_search_url(show_name):
         return "https://www.google.com"
     encoded_query = urllib.parse.quote(query, safe="")
     return f"https://www.google.com/search?q={encoded_query}"
-
-
-def update_page_name(slug, season_number_value):
-    return f"{slug}-s{season_number_value}.html"
-
-
-def update_page_url(site_url, slug, season_number_value):
-    return f"{site_url}/updates/{update_page_name(slug, season_number_value)}"
-
-
-def build_update_page(show_name, season_number_value, premiere, finale, episode_text, search_url, season_url):
-    safe_show = html.escape(show_name)
-    safe_premiere = html.escape(format_date_human(premiere))
-    safe_finale = html.escape(format_date_human(finale))
-    safe_episodes = html.escape(episode_text)
-    safe_search_url = html.escape(search_url)
-    safe_season_url = html.escape(season_url)
-
-    return f"""<!doctype html>
-<html lang=\"en\">
-<head>
-    <meta charset=\"utf-8\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <title>{safe_show} Season {season_number_value} Update</title>
-    <meta name=\"description\" content=\"{safe_show} Season {season_number_value} update with premiere, finale, and episode count.\">
-    <style>
-        * {{ box-sizing: border-box; }}
-        body {{
-            margin: 0;
-            font-family: Georgia, "Times New Roman", serif;
-            color: #1f2328;
-            background: #f7f7f6;
-            line-height: 1.6;
-        }}
-        main {{
-            max-width: 760px;
-            margin: 0 auto;
-            background: #ffffff;
-            border: 1px solid #e2e5e8;
-            border-radius: 12px;
-            padding: 1.2rem;
-            margin-top: 1.2rem;
-            margin-bottom: 1.2rem;
-        }}
-        h1 {{ margin: 0 0 0.25rem; font-size: 1.9rem; line-height: 1.25; }}
-        .meta {{ color: #5b6470; margin: 0 0 1rem; font-family: "Segoe UI", sans-serif; }}
-        p {{ margin: 0 0 0.8rem; }}
-        ul {{ margin: 0 0 1rem 1.1rem; }}
-        a {{ color: #0450a3; text-underline-offset: 2px; }}
-    </style>
-</head>
-<body>
-    <main>
-        <article>
-            <header>
-                <h1>{safe_show} Season {season_number_value}</h1>
-                <p class="meta">SeasonFeed</p>
-            </header>
-            <ul>
-                <li><strong>Premiere:</strong> {safe_premiere}</li>
-                <li><strong>Finale:</strong> {safe_finale}</li>
-                <li><strong>Episodes:</strong> {safe_episodes}</li>
-            </ul>
-            <p><a href=\"{safe_season_url}\">Season details on TVmaze</a></p>
-            <p><a href=\"{safe_search_url}\">Where to watch (Google search)</a></p>
-            <p><a href=\"https://github.com/joetul/SeasonFeed\">SeasonFeed on GitHub</a></p>
-        </article>
-    </main>
-</body>
-</html>
-"""
 
 
 class TVmazeClient:
@@ -320,13 +247,13 @@ def format_date_human(date_text):
         return date_text
 
 
-def build_item_description(premiere, finale, episode_text):
+def build_item_description(premiere, finale, episode_text, season_url, search_url):
     p = format_date_human(premiere)
     f = format_date_human(finale)
     return (
-        f"<p><strong>Premiere:</strong> {p}</p>"
-        f"<p><strong>Finale:</strong> {f}</p>"
-        f"<p><strong>Episodes:</strong> {episode_text}</p>"
+        f"<p>Premiere: {p}<br>Finale: {f}<br>Episodes: {episode_text}</p>"
+        f"<p><a href=\"{season_url}\">Season details on TVmaze</a><br>"
+        f"<a href=\"{search_url}\">Where to watch</a></p>"
     )
 
 
@@ -366,14 +293,13 @@ def build_feed(show_data, seasons, slug, site_url):
         episode_count = season.get("episodeOrder")
         episode_text = str(episode_count) if episode_count is not None else "Unknown"
         season_url = season.get("url") or tvmaze_url
-        item_url = update_page_url(site_url, slug, number)
 
         item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = f"Season {number} — Premieres {premiere}"
-        ET.SubElement(item, "description").text = build_item_description(premiere, finale, episode_text)
-        ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = item_url
+        ET.SubElement(item, "title").text = f"{show_name} — Season {number}"
+        ET.SubElement(item, "description").text = build_item_description(premiere, finale, episode_text, season_url, search_url)
+        ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = season_url
         ET.SubElement(item, "pubDate").text = date_to_rfc822(season.get("premiereDate"))
-        ET.SubElement(item, "link").text = item_url
+        ET.SubElement(item, "link").text = season_url
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
@@ -388,7 +314,6 @@ def latest_season_number(seasons):
 
 def main():
     FEEDS_DIR.mkdir(parents=True, exist_ok=True)
-    UPDATES_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     shows_doc = read_json(SHOWS_PATH, {"shows": []})
@@ -406,7 +331,6 @@ def main():
 
     manifest = []
     generated_slugs = set()
-    generated_updates = set()
 
     for spec in show_specs:
         show_data = resolve_show(spec, state, client)
@@ -440,31 +364,8 @@ def main():
         if previous_latest is not None and latest > previous_latest:
             print(f"NEW SEASON DETECTED: {show_name} ({previous_latest} -> {latest})")
 
-        dated_seasons = [season for season in seasons if has_valid_premiere_date(season)]
         search_url = watch_search_url(show_name)
         feed_url = f"{site_url}/feeds/{slug}.xml"
-        for season in sorted(dated_seasons, key=season_sort_key, reverse=True):
-            number = season_number(season)
-            premiere = season.get("premiereDate") or "TBD"
-            finale = season.get("endDate") or "TBD"
-            episode_count = season.get("episodeOrder")
-            episode_text = str(episode_count) if episode_count is not None else "Unknown"
-            season_url = season.get("url") or f"https://www.tvmaze.com/shows/{show_id}"
-            page_name = update_page_name(slug, number)
-            page_html = build_update_page(
-                show_name,
-                number,
-                premiere,
-                finale,
-                episode_text,
-                search_url,
-                season_url,
-            )
-            page_path = UPDATES_DIR / page_name
-            page_bytes = page_html.encode("utf-8")
-            if not page_path.exists() or page_path.read_bytes() != page_bytes:
-                page_path.write_text(page_html, encoding="utf-8")
-            generated_updates.add(page_name)
 
         feed_bytes = build_feed(show_data, seasons, slug, site_url)
         feed_path = FEEDS_DIR / f"{slug}.xml"
@@ -509,10 +410,6 @@ def main():
     for existing_feed in FEEDS_DIR.glob("*.xml"):
         if existing_feed.stem not in generated_slugs:
             existing_feed.unlink()
-
-    for existing_update in UPDATES_DIR.glob("*.html"):
-        if existing_update.name not in generated_updates:
-            existing_update.unlink()
 
     manifest.sort(key=lambda item: item.get("name", "").lower())
     write_json(INDEX_PATH, manifest)
