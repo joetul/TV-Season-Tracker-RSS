@@ -37,6 +37,10 @@ Shows can be added by name or with an explicit TVmaze ID:
 }
 ```
 
+## Data Attribution
+
+TV show data (season dates, episode counts, images) is provided by [TVmaze](https://www.tvmaze.com) and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The generated feeds and update pages inherit this license for the data they contain.
+
 ## License
 
-MIT
+The source code for this project is licensed under the [MIT License](LICENSE). The TV show data in the generated feeds is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by TVmaze.
