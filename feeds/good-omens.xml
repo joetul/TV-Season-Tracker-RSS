@@ -3,28 +3,40 @@
   <channel>
     <title>Good Omens Season Alerts</title>
     <description>New season notifications for Good Omens from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/good-omens.xml</link>
+    <link>https://www.tvmaze.com/shows/28717/good-omens</link>
     <language>en</language>
     <lastBuildDate>Wed, 13 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/good-omens.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good Omens — Season 3</title>
-      <description>&lt;p&gt;Premiere: 13 May 2026&lt;br&gt;Finale: 13 May 2026&lt;br&gt;Episodes: 1&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/161941/good-omens-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Good%20Omens%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/161941/good-omens-season-3</guid>
+      <description>Premiere: 13 May 2026
+Finale: 13 May 2026
+Episodes: 1
+
+https://www.tvmaze.com/seasons/161941/good-omens-season-3</description>
+      <guid isPermaLink="false">seasonfeed:good-omens:s3</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/161941/good-omens-season-3</link>
     </item>
     <item>
       <title>Good Omens — Season 2</title>
-      <description>&lt;p&gt;Premiere: 28 July 2023&lt;br&gt;Finale: 28 July 2023&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/125940/good-omens-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Good%20Omens%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/125940/good-omens-season-2</guid>
+      <description>Premiere: 28 July 2023
+Finale: 28 July 2023
+Episodes: 6
+
+https://www.tvmaze.com/seasons/125940/good-omens-season-2</description>
+      <guid isPermaLink="false">seasonfeed:good-omens:s2</guid>
       <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/125940/good-omens-season-2</link>
     </item>
     <item>
       <title>Good Omens — Season 1</title>
-      <description>&lt;p&gt;Premiere: 31 May 2019&lt;br&gt;Finale: 31 May 2019&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/69122/good-omens-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Good%20Omens%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/69122/good-omens-season-1</guid>
+      <description>Premiere: 31 May 2019
+Finale: 31 May 2019
+Episodes: 6
+
+https://www.tvmaze.com/seasons/69122/good-omens-season-1</description>
+      <guid isPermaLink="false">seasonfeed:good-omens:s1</guid>
       <pubDate>Fri, 31 May 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/69122/good-omens-season-1</link>
     </item>

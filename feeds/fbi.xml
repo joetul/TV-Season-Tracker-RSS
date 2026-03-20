@@ -3,63 +3,95 @@
   <channel>
     <title>FBI Season Alerts</title>
     <description>New season notifications for FBI from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/fbi.xml</link>
+    <link>https://www.tvmaze.com/shows/32158/fbi</link>
     <language>en</language>
     <lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/fbi.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FBI — Season 8</title>
-      <description>&lt;p&gt;Premiere: 13 October 2025&lt;br&gt;Finale: 13 April 2026&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/186500/fbi-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/186500/fbi-season-8</guid>
+      <description>Premiere: 13 October 2025
+Finale: 13 April 2026
+Episodes: 22
+
+https://www.tvmaze.com/seasons/186500/fbi-season-8</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s8</guid>
       <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/186500/fbi-season-8</link>
     </item>
     <item>
       <title>FBI — Season 7</title>
-      <description>&lt;p&gt;Premiere: 15 October 2024&lt;br&gt;Finale: 20 May 2025&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/167182/fbi-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/167182/fbi-season-7</guid>
+      <description>Premiere: 15 October 2024
+Finale: 20 May 2025
+Episodes: 22
+
+https://www.tvmaze.com/seasons/167182/fbi-season-7</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s7</guid>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/167182/fbi-season-7</link>
     </item>
     <item>
       <title>FBI — Season 6</title>
-      <description>&lt;p&gt;Premiere: 13 February 2024&lt;br&gt;Finale: 21 May 2024&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/150815/fbi-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/150815/fbi-season-6</guid>
+      <description>Premiere: 13 February 2024
+Finale: 21 May 2024
+Episodes: 13
+
+https://www.tvmaze.com/seasons/150815/fbi-season-6</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s6</guid>
       <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/150815/fbi-season-6</link>
     </item>
     <item>
       <title>FBI — Season 5</title>
-      <description>&lt;p&gt;Premiere: 20 September 2022&lt;br&gt;Finale: 23 May 2023&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/139917/fbi-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/139917/fbi-season-5</guid>
+      <description>Premiere: 20 September 2022
+Finale: 23 May 2023
+Episodes: 23
+
+https://www.tvmaze.com/seasons/139917/fbi-season-5</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s5</guid>
       <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/139917/fbi-season-5</link>
     </item>
     <item>
       <title>FBI — Season 4</title>
-      <description>&lt;p&gt;Premiere: 21 September 2021&lt;br&gt;Finale: 17 May 2022&lt;br&gt;Episodes: 21&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/124573/fbi-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/124573/fbi-season-4</guid>
+      <description>Premiere: 21 September 2021
+Finale: 17 May 2022
+Episodes: 21
+
+https://www.tvmaze.com/seasons/124573/fbi-season-4</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s4</guid>
       <pubDate>Tue, 21 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/124573/fbi-season-4</link>
     </item>
     <item>
       <title>FBI — Season 3</title>
-      <description>&lt;p&gt;Premiere: 17 November 2020&lt;br&gt;Finale: 25 May 2021&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/115792/fbi-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/115792/fbi-season-3</guid>
+      <description>Premiere: 17 November 2020
+Finale: 25 May 2021
+Episodes: 15
+
+https://www.tvmaze.com/seasons/115792/fbi-season-3</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s3</guid>
       <pubDate>Tue, 17 Nov 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/115792/fbi-season-3</link>
     </item>
     <item>
       <title>FBI — Season 2</title>
-      <description>&lt;p&gt;Premiere: 24 September 2019&lt;br&gt;Finale: 31 March 2020&lt;br&gt;Episodes: 19&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/93116/fbi-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/93116/fbi-season-2</guid>
+      <description>Premiere: 24 September 2019
+Finale: 31 March 2020
+Episodes: 19
+
+https://www.tvmaze.com/seasons/93116/fbi-season-2</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s2</guid>
       <pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/93116/fbi-season-2</link>
     </item>
     <item>
       <title>FBI — Season 1</title>
-      <description>&lt;p&gt;Premiere: 25 September 2018&lt;br&gt;Finale: 14 May 2019&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/75481/fbi-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=FBI%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/75481/fbi-season-1</guid>
+      <description>Premiere: 25 September 2018
+Finale: 14 May 2019
+Episodes: 22
+
+https://www.tvmaze.com/seasons/75481/fbi-season-1</description>
+      <guid isPermaLink="false">seasonfeed:fbi:s1</guid>
       <pubDate>Tue, 25 Sep 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/75481/fbi-season-1</link>
     </item>

@@ -3,49 +3,73 @@
   <channel>
     <title>Superstore Season Alerts</title>
     <description>New season notifications for Superstore from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/superstore.xml</link>
+    <link>https://www.tvmaze.com/shows/1864/superstore</link>
     <language>en</language>
     <lastBuildDate>Thu, 29 Oct 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/superstore.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Superstore — Season 6</title>
-      <description>&lt;p&gt;Premiere: 29 October 2020&lt;br&gt;Finale: 25 March 2021&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/106056/superstore-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/106056/superstore-season-6</guid>
+      <description>Premiere: 29 October 2020
+Finale: 25 March 2021
+Episodes: 15
+
+https://www.tvmaze.com/seasons/106056/superstore-season-6</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s6</guid>
       <pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/106056/superstore-season-6</link>
     </item>
     <item>
       <title>Superstore — Season 5</title>
-      <description>&lt;p&gt;Premiere: 26 September 2019&lt;br&gt;Finale: 23 April 2020&lt;br&gt;Episodes: 21&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97073/superstore-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97073/superstore-season-5</guid>
+      <description>Premiere: 26 September 2019
+Finale: 23 April 2020
+Episodes: 21
+
+https://www.tvmaze.com/seasons/97073/superstore-season-5</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s5</guid>
       <pubDate>Thu, 26 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97073/superstore-season-5</link>
     </item>
     <item>
       <title>Superstore — Season 4</title>
-      <description>&lt;p&gt;Premiere: 4 October 2018&lt;br&gt;Finale: 16 May 2019&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/81678/superstore-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/81678/superstore-season-4</guid>
+      <description>Premiere: 4 October 2018
+Finale: 16 May 2019
+Episodes: 22
+
+https://www.tvmaze.com/seasons/81678/superstore-season-4</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s4</guid>
       <pubDate>Thu, 04 Oct 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/81678/superstore-season-4</link>
     </item>
     <item>
       <title>Superstore — Season 3</title>
-      <description>&lt;p&gt;Premiere: 28 September 2017&lt;br&gt;Finale: 3 May 2018&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/61889/superstore-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/61889/superstore-season-3</guid>
+      <description>Premiere: 28 September 2017
+Finale: 3 May 2018
+Episodes: 22
+
+https://www.tvmaze.com/seasons/61889/superstore-season-3</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s3</guid>
       <pubDate>Thu, 28 Sep 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/61889/superstore-season-3</link>
     </item>
     <item>
       <title>Superstore — Season 2</title>
-      <description>&lt;p&gt;Premiere: 19 August 2016&lt;br&gt;Finale: 4 May 2017&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/47856/superstore-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/47856/superstore-season-2</guid>
+      <description>Premiere: 19 August 2016
+Finale: 4 May 2017
+Episodes: 22
+
+https://www.tvmaze.com/seasons/47856/superstore-season-2</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s2</guid>
       <pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/47856/superstore-season-2</link>
     </item>
     <item>
       <title>Superstore — Season 1</title>
-      <description>&lt;p&gt;Premiere: 30 November 2015&lt;br&gt;Finale: 22 February 2016&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/22144/superstore-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Superstore%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/22144/superstore-season-1</guid>
+      <description>Premiere: 30 November 2015
+Finale: 22 February 2016
+Episodes: 11
+
+https://www.tvmaze.com/seasons/22144/superstore-season-1</description>
+      <guid isPermaLink="false">seasonfeed:superstore:s1</guid>
       <pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/22144/superstore-season-1</link>
     </item>

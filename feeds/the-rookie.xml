@@ -3,63 +3,95 @@
   <channel>
     <title>The Rookie Season Alerts</title>
     <description>New season notifications for The Rookie from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-rookie.xml</link>
+    <link>https://www.tvmaze.com/shows/32938/the-rookie</link>
     <language>en</language>
     <lastBuildDate>Tue, 06 Jan 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-rookie.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rookie — Season 8</title>
-      <description>&lt;p&gt;Premiere: 6 January 2026&lt;br&gt;Finale: 4 May 2026&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/191989/the-rookie-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/191989/the-rookie-season-8</guid>
+      <description>Premiere: 6 January 2026
+Finale: 4 May 2026
+Episodes: 18
+
+https://www.tvmaze.com/seasons/191989/the-rookie-season-8</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s8</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/191989/the-rookie-season-8</link>
     </item>
     <item>
       <title>The Rookie — Season 7</title>
-      <description>&lt;p&gt;Premiere: 7 January 2025&lt;br&gt;Finale: 13 May 2025&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/167382/the-rookie-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/167382/the-rookie-season-7</guid>
+      <description>Premiere: 7 January 2025
+Finale: 13 May 2025
+Episodes: 18
+
+https://www.tvmaze.com/seasons/167382/the-rookie-season-7</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s7</guid>
       <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/167382/the-rookie-season-7</link>
     </item>
     <item>
       <title>The Rookie — Season 6</title>
-      <description>&lt;p&gt;Premiere: 20 February 2024&lt;br&gt;Finale: 21 May 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/151014/the-rookie-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/151014/the-rookie-season-6</guid>
+      <description>Premiere: 20 February 2024
+Finale: 21 May 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/151014/the-rookie-season-6</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s6</guid>
       <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/151014/the-rookie-season-6</link>
     </item>
     <item>
       <title>The Rookie — Season 5</title>
-      <description>&lt;p&gt;Premiere: 25 September 2022&lt;br&gt;Finale: 2 May 2023&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137103/the-rookie-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137103/the-rookie-season-5</guid>
+      <description>Premiere: 25 September 2022
+Finale: 2 May 2023
+Episodes: 22
+
+https://www.tvmaze.com/seasons/137103/the-rookie-season-5</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s5</guid>
       <pubDate>Sun, 25 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137103/the-rookie-season-5</link>
     </item>
     <item>
       <title>The Rookie — Season 4</title>
-      <description>&lt;p&gt;Premiere: 26 September 2021&lt;br&gt;Finale: 15 May 2022&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/126340/the-rookie-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126340/the-rookie-season-4</guid>
+      <description>Premiere: 26 September 2021
+Finale: 15 May 2022
+Episodes: 22
+
+https://www.tvmaze.com/seasons/126340/the-rookie-season-4</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s4</guid>
       <pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/126340/the-rookie-season-4</link>
     </item>
     <item>
       <title>The Rookie — Season 3</title>
-      <description>&lt;p&gt;Premiere: 3 January 2021&lt;br&gt;Finale: 16 May 2021&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/116891/the-rookie-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/116891/the-rookie-season-3</guid>
+      <description>Premiere: 3 January 2021
+Finale: 16 May 2021
+Episodes: 14
+
+https://www.tvmaze.com/seasons/116891/the-rookie-season-3</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s3</guid>
       <pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/116891/the-rookie-season-3</link>
     </item>
     <item>
       <title>The Rookie — Season 2</title>
-      <description>&lt;p&gt;Premiere: 29 September 2019&lt;br&gt;Finale: 10 May 2020&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/96371/the-rookie-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/96371/the-rookie-season-2</guid>
+      <description>Premiere: 29 September 2019
+Finale: 10 May 2020
+Episodes: 20
+
+https://www.tvmaze.com/seasons/96371/the-rookie-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s2</guid>
       <pubDate>Sun, 29 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/96371/the-rookie-season-2</link>
     </item>
     <item>
       <title>The Rookie — Season 1</title>
-      <description>&lt;p&gt;Premiere: 16 October 2018&lt;br&gt;Finale: 16 April 2019&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/77232/the-rookie-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Rookie%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/77232/the-rookie-season-1</guid>
+      <description>Premiere: 16 October 2018
+Finale: 16 April 2019
+Episodes: 20
+
+https://www.tvmaze.com/seasons/77232/the-rookie-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-rookie:s1</guid>
       <pubDate>Tue, 16 Oct 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/77232/the-rookie-season-1</link>
     </item>

@@ -3,14 +3,18 @@
   <channel>
     <title>The Gentlemen Season Alerts</title>
     <description>New season notifications for The Gentlemen from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-gentlemen.xml</link>
+    <link>https://www.tvmaze.com/shows/64992/the-gentlemen</link>
     <language>en</language>
     <lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-gentlemen.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Gentlemen — Season 1</title>
-      <description>&lt;p&gt;Premiere: 7 March 2024&lt;br&gt;Finale: 7 March 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/144540/the-gentlemen-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Gentlemen%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/144540/the-gentlemen-season-1</guid>
+      <description>Premiere: 7 March 2024
+Finale: 7 March 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/144540/the-gentlemen-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-gentlemen:s1</guid>
       <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/144540/the-gentlemen-season-1</link>
     </item>

@@ -3,14 +3,18 @@
   <channel>
     <title>Dexter: New Blood Season Alerts</title>
     <description>New season notifications for Dexter: New Blood from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/dexter-new-blood.xml</link>
+    <link>https://www.tvmaze.com/shows/58846/dexter-new-blood</link>
     <language>en</language>
     <lastBuildDate>Sun, 07 Nov 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/dexter-new-blood.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dexter: New Blood — Season 1</title>
-      <description>&lt;p&gt;Premiere: 7 November 2021&lt;br&gt;Finale: 9 January 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/131531/dexter-new-blood-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%3A%20New%20Blood%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/131531/dexter-new-blood-season-1</guid>
+      <description>Premiere: 7 November 2021
+Finale: 9 January 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/131531/dexter-new-blood-season-1</description>
+      <guid isPermaLink="false">seasonfeed:dexter-new-blood:s1</guid>
       <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/131531/dexter-new-blood-season-1</link>
     </item>

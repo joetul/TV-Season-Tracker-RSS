@@ -3,28 +3,40 @@
   <channel>
     <title>What If...? Season Alerts</title>
     <description>New season notifications for What If...? from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/what-if.xml</link>
+    <link>https://www.tvmaze.com/shows/41750/what-if</link>
     <language>en</language>
     <lastBuildDate>Sun, 22 Dec 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/what-if.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What If...? — Season 3</title>
-      <description>&lt;p&gt;Premiere: 22 December 2024&lt;br&gt;Finale: 29 December 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/162301/what-if-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=What%20If...%3F%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/162301/what-if-season-3</guid>
+      <description>Premiere: 22 December 2024
+Finale: 29 December 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/162301/what-if-season-3</description>
+      <guid isPermaLink="false">seasonfeed:what-if:s3</guid>
       <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/162301/what-if-season-3</link>
     </item>
     <item>
       <title>What If...? — Season 2</title>
-      <description>&lt;p&gt;Premiere: 22 December 2023&lt;br&gt;Finale: 30 December 2023&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/126101/what-if-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=What%20If...%3F%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126101/what-if-season-2</guid>
+      <description>Premiere: 22 December 2023
+Finale: 30 December 2023
+Episodes: 9
+
+https://www.tvmaze.com/seasons/126101/what-if-season-2</description>
+      <guid isPermaLink="false">seasonfeed:what-if:s2</guid>
       <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/126101/what-if-season-2</link>
     </item>
     <item>
       <title>What If...? — Season 1</title>
-      <description>&lt;p&gt;Premiere: 11 August 2021&lt;br&gt;Finale: 6 October 2021&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/95591/what-if-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=What%20If...%3F%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/95591/what-if-season-1</guid>
+      <description>Premiere: 11 August 2021
+Finale: 6 October 2021
+Episodes: 9
+
+https://www.tvmaze.com/seasons/95591/what-if-season-1</description>
+      <guid isPermaLink="false">seasonfeed:what-if:s1</guid>
       <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/95591/what-if-season-1</link>
     </item>

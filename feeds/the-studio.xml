@@ -3,14 +3,18 @@
   <channel>
     <title>The Studio Season Alerts</title>
     <description>New season notifications for The Studio from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-studio.xml</link>
+    <link>https://www.tvmaze.com/shows/75605/the-studio</link>
     <language>en</language>
     <lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-studio.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Studio — Season 1</title>
-      <description>&lt;p&gt;Premiere: 26 March 2025&lt;br&gt;Finale: 21 May 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/166159/the-studio-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Studio%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/166159/the-studio-season-1</guid>
+      <description>Premiere: 26 March 2025
+Finale: 21 May 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/166159/the-studio-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-studio:s1</guid>
       <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/166159/the-studio-season-1</link>
     </item>

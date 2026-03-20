@@ -3,14 +3,18 @@
   <channel>
     <title>Black Doves Season Alerts</title>
     <description>New season notifications for Black Doves from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/black-doves.xml</link>
+    <link>https://www.tvmaze.com/shows/68407/black-doves</link>
     <language>en</language>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/black-doves.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Doves — Season 1</title>
-      <description>&lt;p&gt;Premiere: 5 December 2024&lt;br&gt;Finale: 5 December 2024&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/151574/black-doves-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Black%20Doves%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/151574/black-doves-season-1</guid>
+      <description>Premiere: 5 December 2024
+Finale: 5 December 2024
+Episodes: 6
+
+https://www.tvmaze.com/seasons/151574/black-doves-season-1</description>
+      <guid isPermaLink="false">seasonfeed:black-doves:s1</guid>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/151574/black-doves-season-1</link>
     </item>

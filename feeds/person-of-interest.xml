@@ -3,42 +3,62 @@
   <channel>
     <title>Person of Interest Season Alerts</title>
     <description>New season notifications for Person of Interest from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/person-of-interest.xml</link>
+    <link>https://www.tvmaze.com/shows/2/person-of-interest</link>
     <language>en</language>
     <lastBuildDate>Tue, 03 May 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/person-of-interest.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Person of Interest — Season 5</title>
-      <description>&lt;p&gt;Premiere: 3 May 2016&lt;br&gt;Finale: 21 June 2016&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/35934/person-of-interest-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Person%20of%20Interest%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/35934/person-of-interest-season-5</guid>
+      <description>Premiere: 3 May 2016
+Finale: 21 June 2016
+Episodes: 13
+
+https://www.tvmaze.com/seasons/35934/person-of-interest-season-5</description>
+      <guid isPermaLink="false">seasonfeed:person-of-interest:s5</guid>
       <pubDate>Tue, 03 May 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/35934/person-of-interest-season-5</link>
     </item>
     <item>
       <title>Person of Interest — Season 4</title>
-      <description>&lt;p&gt;Premiere: 23 September 2014&lt;br&gt;Finale: 5 May 2015&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/6/person-of-interest-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Person%20of%20Interest%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/6/person-of-interest-season-4</guid>
+      <description>Premiere: 23 September 2014
+Finale: 5 May 2015
+Episodes: 22
+
+https://www.tvmaze.com/seasons/6/person-of-interest-season-4</description>
+      <guid isPermaLink="false">seasonfeed:person-of-interest:s4</guid>
       <pubDate>Tue, 23 Sep 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/6/person-of-interest-season-4</link>
     </item>
     <item>
       <title>Person of Interest — Season 3</title>
-      <description>&lt;p&gt;Premiere: 24 September 2013&lt;br&gt;Finale: 13 May 2014&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/5/person-of-interest-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Person%20of%20Interest%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/5/person-of-interest-season-3</guid>
+      <description>Premiere: 24 September 2013
+Finale: 13 May 2014
+Episodes: 23
+
+https://www.tvmaze.com/seasons/5/person-of-interest-season-3</description>
+      <guid isPermaLink="false">seasonfeed:person-of-interest:s3</guid>
       <pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/5/person-of-interest-season-3</link>
     </item>
     <item>
       <title>Person of Interest — Season 2</title>
-      <description>&lt;p&gt;Premiere: 27 September 2012&lt;br&gt;Finale: 9 May 2013&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/4/person-of-interest-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Person%20of%20Interest%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/4/person-of-interest-season-2</guid>
+      <description>Premiere: 27 September 2012
+Finale: 9 May 2013
+Episodes: 22
+
+https://www.tvmaze.com/seasons/4/person-of-interest-season-2</description>
+      <guid isPermaLink="false">seasonfeed:person-of-interest:s2</guid>
       <pubDate>Thu, 27 Sep 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/4/person-of-interest-season-2</link>
     </item>
     <item>
       <title>Person of Interest — Season 1</title>
-      <description>&lt;p&gt;Premiere: 22 September 2011&lt;br&gt;Finale: 17 May 2012&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/3/person-of-interest-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Person%20of%20Interest%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/3/person-of-interest-season-1</guid>
+      <description>Premiere: 22 September 2011
+Finale: 17 May 2012
+Episodes: 23
+
+https://www.tvmaze.com/seasons/3/person-of-interest-season-1</description>
+      <guid isPermaLink="false">seasonfeed:person-of-interest:s1</guid>
       <pubDate>Thu, 22 Sep 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/3/person-of-interest-season-1</link>
     </item>

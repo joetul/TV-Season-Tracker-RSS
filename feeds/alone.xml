@@ -3,91 +3,139 @@
   <channel>
     <title>Alone Season Alerts</title>
     <description>New season notifications for Alone from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/alone.xml</link>
+    <link>https://www.tvmaze.com/shows/1869/alone</link>
     <language>en</language>
     <lastBuildDate>Thu, 12 Jun 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/alone.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alone — Season 12</title>
-      <description>&lt;p&gt;Premiere: 12 June 2025&lt;br&gt;Finale: 21 August 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/185199/alone-season-12"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/185199/alone-season-12</guid>
+      <description>Premiere: 12 June 2025
+Finale: 21 August 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/185199/alone-season-12</description>
+      <guid isPermaLink="false">seasonfeed:alone:s12</guid>
       <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/185199/alone-season-12</link>
     </item>
     <item>
       <title>Alone — Season 11</title>
-      <description>&lt;p&gt;Premiere: 13 June 2024&lt;br&gt;Finale: 29 August 2024&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/168765/alone-season-11"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/168765/alone-season-11</guid>
+      <description>Premiere: 13 June 2024
+Finale: 29 August 2024
+Episodes: 12
+
+https://www.tvmaze.com/seasons/168765/alone-season-11</description>
+      <guid isPermaLink="false">seasonfeed:alone:s11</guid>
       <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/168765/alone-season-11</link>
     </item>
     <item>
       <title>Alone — Season 10</title>
-      <description>&lt;p&gt;Premiere: 8 June 2023&lt;br&gt;Finale: 17 August 2023&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/151596/alone-season-10"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/151596/alone-season-10</guid>
+      <description>Premiere: 8 June 2023
+Finale: 17 August 2023
+Episodes: 11
+
+https://www.tvmaze.com/seasons/151596/alone-season-10</description>
+      <guid isPermaLink="false">seasonfeed:alone:s10</guid>
       <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/151596/alone-season-10</link>
     </item>
     <item>
       <title>Alone — Season 9</title>
-      <description>&lt;p&gt;Premiere: 26 May 2022&lt;br&gt;Finale: 4 August 2022&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137865/alone-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137865/alone-season-9</guid>
+      <description>Premiere: 26 May 2022
+Finale: 4 August 2022
+Episodes: 11
+
+https://www.tvmaze.com/seasons/137865/alone-season-9</description>
+      <guid isPermaLink="false">seasonfeed:alone:s9</guid>
       <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137865/alone-season-9</link>
     </item>
     <item>
       <title>Alone — Season 8</title>
-      <description>&lt;p&gt;Premiere: 3 June 2021&lt;br&gt;Finale: 19 August 2021&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/123677/alone-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/123677/alone-season-8</guid>
+      <description>Premiere: 3 June 2021
+Finale: 19 August 2021
+Episodes: 11
+
+https://www.tvmaze.com/seasons/123677/alone-season-8</description>
+      <guid isPermaLink="false">seasonfeed:alone:s8</guid>
       <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/123677/alone-season-8</link>
     </item>
     <item>
       <title>Alone — Season 7</title>
-      <description>&lt;p&gt;Premiere: 11 June 2020&lt;br&gt;Finale: 20 August 2020&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108629/alone-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108629/alone-season-7</guid>
+      <description>Premiere: 11 June 2020
+Finale: 20 August 2020
+Episodes: 11
+
+https://www.tvmaze.com/seasons/108629/alone-season-7</description>
+      <guid isPermaLink="false">seasonfeed:alone:s7</guid>
       <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108629/alone-season-7</link>
     </item>
     <item>
       <title>Alone — Season 6</title>
-      <description>&lt;p&gt;Premiere: 6 June 2019&lt;br&gt;Finale: 22 August 2019&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/89689/alone-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/89689/alone-season-6</guid>
+      <description>Premiere: 6 June 2019
+Finale: 22 August 2019
+Episodes: 11
+
+https://www.tvmaze.com/seasons/89689/alone-season-6</description>
+      <guid isPermaLink="false">seasonfeed:alone:s6</guid>
       <pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/89689/alone-season-6</link>
     </item>
     <item>
       <title>Alone — Season 5</title>
-      <description>&lt;p&gt;Premiere: 14 June 2018&lt;br&gt;Finale: 23 August 2018&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/85011/alone-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/85011/alone-season-5</guid>
+      <description>Premiere: 14 June 2018
+Finale: 23 August 2018
+Episodes: 10
+
+https://www.tvmaze.com/seasons/85011/alone-season-5</description>
+      <guid isPermaLink="false">seasonfeed:alone:s5</guid>
       <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/85011/alone-season-5</link>
     </item>
     <item>
       <title>Alone — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 June 2017&lt;br&gt;Finale: 17 August 2017&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/68308/alone-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/68308/alone-season-4</guid>
+      <description>Premiere: 15 June 2017
+Finale: 17 August 2017
+Episodes: 11
+
+https://www.tvmaze.com/seasons/68308/alone-season-4</description>
+      <guid isPermaLink="false">seasonfeed:alone:s4</guid>
       <pubDate>Thu, 15 Jun 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/68308/alone-season-4</link>
     </item>
     <item>
       <title>Alone — Season 3</title>
-      <description>&lt;p&gt;Premiere: 8 December 2016&lt;br&gt;Finale: 9 February 2017&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/56277/alone-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/56277/alone-season-3</guid>
+      <description>Premiere: 8 December 2016
+Finale: 9 February 2017
+Episodes: 10
+
+https://www.tvmaze.com/seasons/56277/alone-season-3</description>
+      <guid isPermaLink="false">seasonfeed:alone:s3</guid>
       <pubDate>Thu, 08 Dec 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/56277/alone-season-3</link>
     </item>
     <item>
       <title>Alone — Season 2</title>
-      <description>&lt;p&gt;Premiere: 21 April 2016&lt;br&gt;Finale: 21 July 2016&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/39149/alone-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/39149/alone-season-2</guid>
+      <description>Premiere: 21 April 2016
+Finale: 21 July 2016
+Episodes: 13
+
+https://www.tvmaze.com/seasons/39149/alone-season-2</description>
+      <guid isPermaLink="false">seasonfeed:alone:s2</guid>
       <pubDate>Thu, 21 Apr 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/39149/alone-season-2</link>
     </item>
     <item>
       <title>Alone — Season 1</title>
-      <description>&lt;p&gt;Premiere: 18 June 2015&lt;br&gt;Finale: 20 August 2015&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/6897/alone-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Alone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/6897/alone-season-1</guid>
+      <description>Premiere: 18 June 2015
+Finale: 20 August 2015
+Episodes: 10
+
+https://www.tvmaze.com/seasons/6897/alone-season-1</description>
+      <guid isPermaLink="false">seasonfeed:alone:s1</guid>
       <pubDate>Thu, 18 Jun 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/6897/alone-season-1</link>
     </item>

@@ -3,21 +3,29 @@
   <channel>
     <title>Silo Season Alerts</title>
     <description>New season notifications for Silo from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/silo.xml</link>
+    <link>https://www.tvmaze.com/shows/38052/silo</link>
     <language>en</language>
     <lastBuildDate>Fri, 15 Nov 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/silo.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Silo — Season 2</title>
-      <description>&lt;p&gt;Premiere: 15 November 2024&lt;br&gt;Finale: 17 January 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/153476/silo-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Silo%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/153476/silo-season-2</guid>
+      <description>Premiere: 15 November 2024
+Finale: 17 January 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/153476/silo-season-2</description>
+      <guid isPermaLink="false">seasonfeed:silo:s2</guid>
       <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/153476/silo-season-2</link>
     </item>
     <item>
       <title>Silo — Season 1</title>
-      <description>&lt;p&gt;Premiere: 5 May 2023&lt;br&gt;Finale: 30 June 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/87578/silo-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Silo%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/87578/silo-season-1</guid>
+      <description>Premiere: 5 May 2023
+Finale: 30 June 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/87578/silo-season-1</description>
+      <guid isPermaLink="false">seasonfeed:silo:s1</guid>
       <pubDate>Fri, 05 May 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/87578/silo-season-1</link>
     </item>

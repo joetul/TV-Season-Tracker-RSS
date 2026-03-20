@@ -3,357 +3,557 @@
   <channel>
     <title>Survivor Season Alerts</title>
     <description>New season notifications for Survivor from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/survivor.xml</link>
+    <link>https://www.tvmaze.com/shows/114/survivor</link>
     <language>en</language>
     <lastBuildDate>Wed, 25 Feb 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/survivor.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Survivor — Season 50</title>
-      <description>&lt;p&gt;Premiere: 25 February 2026&lt;br&gt;Finale: 20 May 2026&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/192414/survivor-season-50"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/192414/survivor-season-50</guid>
+      <description>Premiere: 25 February 2026
+Finale: 20 May 2026
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/192414/survivor-season-50</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s50</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/192414/survivor-season-50</link>
     </item>
     <item>
       <title>Survivor — Season 49</title>
-      <description>&lt;p&gt;Premiere: 24 September 2025&lt;br&gt;Finale: 17 December 2025&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/186502/survivor-season-49"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/186502/survivor-season-49</guid>
+      <description>Premiere: 24 September 2025
+Finale: 17 December 2025
+Episodes: 14
+
+https://www.tvmaze.com/seasons/186502/survivor-season-49</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s49</guid>
       <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/186502/survivor-season-49</link>
     </item>
     <item>
       <title>Survivor — Season 48</title>
-      <description>&lt;p&gt;Premiere: 26 February 2025&lt;br&gt;Finale: 21 May 2025&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/168420/survivor-season-48"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/168420/survivor-season-48</guid>
+      <description>Premiere: 26 February 2025
+Finale: 21 May 2025
+Episodes: 13
+
+https://www.tvmaze.com/seasons/168420/survivor-season-48</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s48</guid>
       <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/168420/survivor-season-48</link>
     </item>
     <item>
       <title>Survivor — Season 47</title>
-      <description>&lt;p&gt;Premiere: 18 September 2024&lt;br&gt;Finale: 18 December 2024&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/168417/survivor-season-47"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/168417/survivor-season-47</guid>
+      <description>Premiere: 18 September 2024
+Finale: 18 December 2024
+Episodes: 14
+
+https://www.tvmaze.com/seasons/168417/survivor-season-47</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s47</guid>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/168417/survivor-season-47</link>
     </item>
     <item>
       <title>Survivor — Season 46</title>
-      <description>&lt;p&gt;Premiere: 28 February 2024&lt;br&gt;Finale: 22 May 2024&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/160012/survivor-season-46"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/160012/survivor-season-46</guid>
+      <description>Premiere: 28 February 2024
+Finale: 22 May 2024
+Episodes: 13
+
+https://www.tvmaze.com/seasons/160012/survivor-season-46</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s46</guid>
       <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/160012/survivor-season-46</link>
     </item>
     <item>
       <title>Survivor — Season 45</title>
-      <description>&lt;p&gt;Premiere: 27 September 2023&lt;br&gt;Finale: 20 December 2023&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/149097/survivor-season-45"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/149097/survivor-season-45</guid>
+      <description>Premiere: 27 September 2023
+Finale: 20 December 2023
+Episodes: 13
+
+https://www.tvmaze.com/seasons/149097/survivor-season-45</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s45</guid>
       <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/149097/survivor-season-45</link>
     </item>
     <item>
       <title>Survivor — Season 44</title>
-      <description>&lt;p&gt;Premiere: 1 March 2023&lt;br&gt;Finale: 24 May 2023&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/144978/survivor-season-44"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/144978/survivor-season-44</guid>
+      <description>Premiere: 1 March 2023
+Finale: 24 May 2023
+Episodes: 13
+
+https://www.tvmaze.com/seasons/144978/survivor-season-44</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s44</guid>
       <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/144978/survivor-season-44</link>
     </item>
     <item>
       <title>Survivor — Season 43</title>
-      <description>&lt;p&gt;Premiere: 21 September 2022&lt;br&gt;Finale: 14 December 2022&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/138756/survivor-season-43"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/138756/survivor-season-43</guid>
+      <description>Premiere: 21 September 2022
+Finale: 14 December 2022
+Episodes: 13
+
+https://www.tvmaze.com/seasons/138756/survivor-season-43</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s43</guid>
       <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/138756/survivor-season-43</link>
     </item>
     <item>
       <title>Survivor — Season 42</title>
-      <description>&lt;p&gt;Premiere: 9 March 2022&lt;br&gt;Finale: 25 May 2022&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/131709/survivor-season-42"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/131709/survivor-season-42</guid>
+      <description>Premiere: 9 March 2022
+Finale: 25 May 2022
+Episodes: 13
+
+https://www.tvmaze.com/seasons/131709/survivor-season-42</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s42</guid>
       <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/131709/survivor-season-42</link>
     </item>
     <item>
       <title>Survivor — Season 41</title>
-      <description>&lt;p&gt;Premiere: 22 September 2021&lt;br&gt;Finale: 15 December 2021&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/111904/survivor-season-41"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/111904/survivor-season-41</guid>
+      <description>Premiere: 22 September 2021
+Finale: 15 December 2021
+Episodes: 13
+
+https://www.tvmaze.com/seasons/111904/survivor-season-41</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s41</guid>
       <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/111904/survivor-season-41</link>
     </item>
     <item>
       <title>Survivor — Season 40</title>
-      <description>&lt;p&gt;Premiere: 12 February 2020&lt;br&gt;Finale: 13 May 2020&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/102691/survivor-season-40"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/102691/survivor-season-40</guid>
+      <description>Premiere: 12 February 2020
+Finale: 13 May 2020
+Episodes: 14
+
+https://www.tvmaze.com/seasons/102691/survivor-season-40</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s40</guid>
       <pubDate>Wed, 12 Feb 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/102691/survivor-season-40</link>
     </item>
     <item>
       <title>Survivor — Season 39</title>
-      <description>&lt;p&gt;Premiere: 25 September 2019&lt;br&gt;Finale: 18 December 2019&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97370/survivor-season-39"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97370/survivor-season-39</guid>
+      <description>Premiere: 25 September 2019
+Finale: 18 December 2019
+Episodes: 14
+
+https://www.tvmaze.com/seasons/97370/survivor-season-39</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s39</guid>
       <pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97370/survivor-season-39</link>
     </item>
     <item>
       <title>Survivor — Season 38</title>
-      <description>&lt;p&gt;Premiere: 20 February 2019&lt;br&gt;Finale: 15 May 2019&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/91404/survivor-season-38"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/91404/survivor-season-38</guid>
+      <description>Premiere: 20 February 2019
+Finale: 15 May 2019
+Episodes: 14
+
+https://www.tvmaze.com/seasons/91404/survivor-season-38</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s38</guid>
       <pubDate>Wed, 20 Feb 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/91404/survivor-season-38</link>
     </item>
     <item>
       <title>Survivor — Season 37</title>
-      <description>&lt;p&gt;Premiere: 26 September 2018&lt;br&gt;Finale: 19 December 2018&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/84177/survivor-season-37"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/84177/survivor-season-37</guid>
+      <description>Premiere: 26 September 2018
+Finale: 19 December 2018
+Episodes: 14
+
+https://www.tvmaze.com/seasons/84177/survivor-season-37</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s37</guid>
       <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/84177/survivor-season-37</link>
     </item>
     <item>
       <title>Survivor — Season 36</title>
-      <description>&lt;p&gt;Premiere: 28 February 2018&lt;br&gt;Finale: 23 May 2018&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/78550/survivor-season-36"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/78550/survivor-season-36</guid>
+      <description>Premiere: 28 February 2018
+Finale: 23 May 2018
+Episodes: 15
+
+https://www.tvmaze.com/seasons/78550/survivor-season-36</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s36</guid>
       <pubDate>Wed, 28 Feb 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/78550/survivor-season-36</link>
     </item>
     <item>
       <title>Survivor — Season 35</title>
-      <description>&lt;p&gt;Premiere: 27 September 2017&lt;br&gt;Finale: 20 December 2017&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/63793/survivor-season-35"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/63793/survivor-season-35</guid>
+      <description>Premiere: 27 September 2017
+Finale: 20 December 2017
+Episodes: 15
+
+https://www.tvmaze.com/seasons/63793/survivor-season-35</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s35</guid>
       <pubDate>Wed, 27 Sep 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/63793/survivor-season-35</link>
     </item>
     <item>
       <title>Survivor — Season 34</title>
-      <description>&lt;p&gt;Premiere: 8 March 2017&lt;br&gt;Finale: 24 May 2017&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/57770/survivor-season-34"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/57770/survivor-season-34</guid>
+      <description>Premiere: 8 March 2017
+Finale: 24 May 2017
+Episodes: 13
+
+https://www.tvmaze.com/seasons/57770/survivor-season-34</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s34</guid>
       <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/57770/survivor-season-34</link>
     </item>
     <item>
       <title>Survivor — Season 33</title>
-      <description>&lt;p&gt;Premiere: 21 September 2016&lt;br&gt;Finale: 14 December 2016&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/48389/survivor-season-33"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/48389/survivor-season-33</guid>
+      <description>Premiere: 21 September 2016
+Finale: 14 December 2016
+Episodes: 14
+
+https://www.tvmaze.com/seasons/48389/survivor-season-33</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s33</guid>
       <pubDate>Wed, 21 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/48389/survivor-season-33</link>
     </item>
     <item>
       <title>Survivor — Season 32</title>
-      <description>&lt;p&gt;Premiere: 17 February 2016&lt;br&gt;Finale: 18 May 2016&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/28713/survivor-season-32"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/28713/survivor-season-32</guid>
+      <description>Premiere: 17 February 2016
+Finale: 18 May 2016
+Episodes: 15
+
+https://www.tvmaze.com/seasons/28713/survivor-season-32</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s32</guid>
       <pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/28713/survivor-season-32</link>
     </item>
     <item>
       <title>Survivor — Season 31</title>
-      <description>&lt;p&gt;Premiere: 23 September 2015&lt;br&gt;Finale: 16 December 2015&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/7515/survivor-season-31"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7515/survivor-season-31</guid>
+      <description>Premiere: 23 September 2015
+Finale: 16 December 2015
+Episodes: 15
+
+https://www.tvmaze.com/seasons/7515/survivor-season-31</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s31</guid>
       <pubDate>Wed, 23 Sep 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/7515/survivor-season-31</link>
     </item>
     <item>
       <title>Survivor — Season 30</title>
-      <description>&lt;p&gt;Premiere: 25 February 2015&lt;br&gt;Finale: 20 May 2015&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/4273/survivor-season-30"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/4273/survivor-season-30</guid>
+      <description>Premiere: 25 February 2015
+Finale: 20 May 2015
+Episodes: 15
+
+https://www.tvmaze.com/seasons/4273/survivor-season-30</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s30</guid>
       <pubDate>Wed, 25 Feb 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/4273/survivor-season-30</link>
     </item>
     <item>
       <title>Survivor — Season 29</title>
-      <description>&lt;p&gt;Premiere: 24 September 2014&lt;br&gt;Finale: 17 December 2014&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/532/survivor-season-29"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/532/survivor-season-29</guid>
+      <description>Premiere: 24 September 2014
+Finale: 17 December 2014
+Episodes: 14
+
+https://www.tvmaze.com/seasons/532/survivor-season-29</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s29</guid>
       <pubDate>Wed, 24 Sep 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/532/survivor-season-29</link>
     </item>
     <item>
       <title>Survivor — Season 28</title>
-      <description>&lt;p&gt;Premiere: 26 February 2014&lt;br&gt;Finale: 21 May 2014&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/531/survivor-season-28"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/531/survivor-season-28</guid>
+      <description>Premiere: 26 February 2014
+Finale: 21 May 2014
+Episodes: 14
+
+https://www.tvmaze.com/seasons/531/survivor-season-28</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s28</guid>
       <pubDate>Wed, 26 Feb 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/531/survivor-season-28</link>
     </item>
     <item>
       <title>Survivor — Season 27</title>
-      <description>&lt;p&gt;Premiere: 18 September 2013&lt;br&gt;Finale: 15 December 2013&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/530/survivor-season-27"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/530/survivor-season-27</guid>
+      <description>Premiere: 18 September 2013
+Finale: 15 December 2013
+Episodes: 15
+
+https://www.tvmaze.com/seasons/530/survivor-season-27</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s27</guid>
       <pubDate>Wed, 18 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/530/survivor-season-27</link>
     </item>
     <item>
       <title>Survivor — Season 26</title>
-      <description>&lt;p&gt;Premiere: 13 February 2013&lt;br&gt;Finale: 12 May 2013&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/529/survivor-season-26"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/529/survivor-season-26</guid>
+      <description>Premiere: 13 February 2013
+Finale: 12 May 2013
+Episodes: 15
+
+https://www.tvmaze.com/seasons/529/survivor-season-26</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s26</guid>
       <pubDate>Wed, 13 Feb 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/529/survivor-season-26</link>
     </item>
     <item>
       <title>Survivor — Season 25</title>
-      <description>&lt;p&gt;Premiere: 19 September 2012&lt;br&gt;Finale: 16 December 2012&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/528/survivor-season-25"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/528/survivor-season-25</guid>
+      <description>Premiere: 19 September 2012
+Finale: 16 December 2012
+Episodes: 15
+
+https://www.tvmaze.com/seasons/528/survivor-season-25</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s25</guid>
       <pubDate>Wed, 19 Sep 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/528/survivor-season-25</link>
     </item>
     <item>
       <title>Survivor — Season 24</title>
-      <description>&lt;p&gt;Premiere: 15 February 2012&lt;br&gt;Finale: 13 May 2012&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/527/survivor-season-24"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/527/survivor-season-24</guid>
+      <description>Premiere: 15 February 2012
+Finale: 13 May 2012
+Episodes: 15
+
+https://www.tvmaze.com/seasons/527/survivor-season-24</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s24</guid>
       <pubDate>Wed, 15 Feb 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/527/survivor-season-24</link>
     </item>
     <item>
       <title>Survivor — Season 23</title>
-      <description>&lt;p&gt;Premiere: 14 September 2011&lt;br&gt;Finale: 18 December 2011&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/526/survivor-season-23"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/526/survivor-season-23</guid>
+      <description>Premiere: 14 September 2011
+Finale: 18 December 2011
+Episodes: 16
+
+https://www.tvmaze.com/seasons/526/survivor-season-23</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s23</guid>
       <pubDate>Wed, 14 Sep 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/526/survivor-season-23</link>
     </item>
     <item>
       <title>Survivor — Season 22</title>
-      <description>&lt;p&gt;Premiere: 16 February 2011&lt;br&gt;Finale: 15 May 2011&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/525/survivor-season-22"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/525/survivor-season-22</guid>
+      <description>Premiere: 16 February 2011
+Finale: 15 May 2011
+Episodes: 15
+
+https://www.tvmaze.com/seasons/525/survivor-season-22</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s22</guid>
       <pubDate>Wed, 16 Feb 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/525/survivor-season-22</link>
     </item>
     <item>
       <title>Survivor — Season 21</title>
-      <description>&lt;p&gt;Premiere: 15 September 2010&lt;br&gt;Finale: 19 December 2010&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/524/survivor-season-21"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/524/survivor-season-21</guid>
+      <description>Premiere: 15 September 2010
+Finale: 19 December 2010
+Episodes: 16
+
+https://www.tvmaze.com/seasons/524/survivor-season-21</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s21</guid>
       <pubDate>Wed, 15 Sep 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/524/survivor-season-21</link>
     </item>
     <item>
       <title>Survivor — Season 20</title>
-      <description>&lt;p&gt;Premiere: 11 February 2010&lt;br&gt;Finale: 16 May 2010&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/523/survivor-season-20"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/523/survivor-season-20</guid>
+      <description>Premiere: 11 February 2010
+Finale: 16 May 2010
+Episodes: 15
+
+https://www.tvmaze.com/seasons/523/survivor-season-20</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s20</guid>
       <pubDate>Thu, 11 Feb 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/523/survivor-season-20</link>
     </item>
     <item>
       <title>Survivor — Season 19</title>
-      <description>&lt;p&gt;Premiere: 17 September 2009&lt;br&gt;Finale: 20 December 2009&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/522/survivor-season-19"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/522/survivor-season-19</guid>
+      <description>Premiere: 17 September 2009
+Finale: 20 December 2009
+Episodes: 16
+
+https://www.tvmaze.com/seasons/522/survivor-season-19</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s19</guid>
       <pubDate>Thu, 17 Sep 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/522/survivor-season-19</link>
     </item>
     <item>
       <title>Survivor — Season 18</title>
-      <description>&lt;p&gt;Premiere: 12 February 2009&lt;br&gt;Finale: 17 May 2009&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/521/survivor-season-18"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/521/survivor-season-18</guid>
+      <description>Premiere: 12 February 2009
+Finale: 17 May 2009
+Episodes: 15
+
+https://www.tvmaze.com/seasons/521/survivor-season-18</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s18</guid>
       <pubDate>Thu, 12 Feb 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/521/survivor-season-18</link>
     </item>
     <item>
       <title>Survivor — Season 17</title>
-      <description>&lt;p&gt;Premiere: 25 September 2008&lt;br&gt;Finale: 14 December 2008&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/520/survivor-season-17"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/520/survivor-season-17</guid>
+      <description>Premiere: 25 September 2008
+Finale: 14 December 2008
+Episodes: 14
+
+https://www.tvmaze.com/seasons/520/survivor-season-17</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s17</guid>
       <pubDate>Thu, 25 Sep 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/520/survivor-season-17</link>
     </item>
     <item>
       <title>Survivor — Season 16</title>
-      <description>&lt;p&gt;Premiere: 7 February 2008&lt;br&gt;Finale: 11 May 2008&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/519/survivor-season-16"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/519/survivor-season-16</guid>
+      <description>Premiere: 7 February 2008
+Finale: 11 May 2008
+Episodes: 15
+
+https://www.tvmaze.com/seasons/519/survivor-season-16</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s16</guid>
       <pubDate>Thu, 07 Feb 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/519/survivor-season-16</link>
     </item>
     <item>
       <title>Survivor — Season 15</title>
-      <description>&lt;p&gt;Premiere: 20 September 2007&lt;br&gt;Finale: 16 December 2007&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/518/survivor-season-15"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/518/survivor-season-15</guid>
+      <description>Premiere: 20 September 2007
+Finale: 16 December 2007
+Episodes: 15
+
+https://www.tvmaze.com/seasons/518/survivor-season-15</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s15</guid>
       <pubDate>Thu, 20 Sep 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/518/survivor-season-15</link>
     </item>
     <item>
       <title>Survivor — Season 14</title>
-      <description>&lt;p&gt;Premiere: 8 February 2007&lt;br&gt;Finale: 13 May 2007&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/517/survivor-season-14"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/517/survivor-season-14</guid>
+      <description>Premiere: 8 February 2007
+Finale: 13 May 2007
+Episodes: 15
+
+https://www.tvmaze.com/seasons/517/survivor-season-14</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s14</guid>
       <pubDate>Thu, 08 Feb 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/517/survivor-season-14</link>
     </item>
     <item>
       <title>Survivor — Season 13</title>
-      <description>&lt;p&gt;Premiere: 14 September 2006&lt;br&gt;Finale: 17 December 2006&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/516/survivor-season-13"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/516/survivor-season-13</guid>
+      <description>Premiere: 14 September 2006
+Finale: 17 December 2006
+Episodes: 16
+
+https://www.tvmaze.com/seasons/516/survivor-season-13</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s13</guid>
       <pubDate>Thu, 14 Sep 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/516/survivor-season-13</link>
     </item>
     <item>
       <title>Survivor — Season 12</title>
-      <description>&lt;p&gt;Premiere: 2 February 2006&lt;br&gt;Finale: 14 May 2006&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/515/survivor-season-12"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/515/survivor-season-12</guid>
+      <description>Premiere: 2 February 2006
+Finale: 14 May 2006
+Episodes: 16
+
+https://www.tvmaze.com/seasons/515/survivor-season-12</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s12</guid>
       <pubDate>Thu, 02 Feb 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/515/survivor-season-12</link>
     </item>
     <item>
       <title>Survivor — Season 11</title>
-      <description>&lt;p&gt;Premiere: 15 September 2005&lt;br&gt;Finale: 11 December 2005&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/514/survivor-season-11"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/514/survivor-season-11</guid>
+      <description>Premiere: 15 September 2005
+Finale: 11 December 2005
+Episodes: 15
+
+https://www.tvmaze.com/seasons/514/survivor-season-11</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s11</guid>
       <pubDate>Thu, 15 Sep 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/514/survivor-season-11</link>
     </item>
     <item>
       <title>Survivor — Season 10</title>
-      <description>&lt;p&gt;Premiere: 17 February 2005&lt;br&gt;Finale: 15 May 2005&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/513/survivor-season-10"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/513/survivor-season-10</guid>
+      <description>Premiere: 17 February 2005
+Finale: 15 May 2005
+Episodes: 15
+
+https://www.tvmaze.com/seasons/513/survivor-season-10</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s10</guid>
       <pubDate>Thu, 17 Feb 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/513/survivor-season-10</link>
     </item>
     <item>
       <title>Survivor — Season 9</title>
-      <description>&lt;p&gt;Premiere: 16 September 2004&lt;br&gt;Finale: 12 December 2004&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/512/survivor-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/512/survivor-season-9</guid>
+      <description>Premiere: 16 September 2004
+Finale: 12 December 2004
+Episodes: 15
+
+https://www.tvmaze.com/seasons/512/survivor-season-9</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s9</guid>
       <pubDate>Thu, 16 Sep 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/512/survivor-season-9</link>
     </item>
     <item>
       <title>Survivor — Season 8</title>
-      <description>&lt;p&gt;Premiere: 1 February 2004&lt;br&gt;Finale: 13 May 2004&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/511/survivor-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/511/survivor-season-8</guid>
+      <description>Premiere: 1 February 2004
+Finale: 13 May 2004
+Episodes: 18
+
+https://www.tvmaze.com/seasons/511/survivor-season-8</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s8</guid>
       <pubDate>Sun, 01 Feb 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/511/survivor-season-8</link>
     </item>
     <item>
       <title>Survivor — Season 7</title>
-      <description>&lt;p&gt;Premiere: 18 September 2003&lt;br&gt;Finale: 14 December 2003&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/510/survivor-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/510/survivor-season-7</guid>
+      <description>Premiere: 18 September 2003
+Finale: 14 December 2003
+Episodes: 15
+
+https://www.tvmaze.com/seasons/510/survivor-season-7</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s7</guid>
       <pubDate>Thu, 18 Sep 2003 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/510/survivor-season-7</link>
     </item>
     <item>
       <title>Survivor — Season 6</title>
-      <description>&lt;p&gt;Premiere: 13 February 2003&lt;br&gt;Finale: 11 May 2003&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/509/survivor-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/509/survivor-season-6</guid>
+      <description>Premiere: 13 February 2003
+Finale: 11 May 2003
+Episodes: 15
+
+https://www.tvmaze.com/seasons/509/survivor-season-6</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s6</guid>
       <pubDate>Thu, 13 Feb 2003 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/509/survivor-season-6</link>
     </item>
     <item>
       <title>Survivor — Season 5</title>
-      <description>&lt;p&gt;Premiere: 19 September 2002&lt;br&gt;Finale: 19 December 2002&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/508/survivor-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/508/survivor-season-5</guid>
+      <description>Premiere: 19 September 2002
+Finale: 19 December 2002
+Episodes: 15
+
+https://www.tvmaze.com/seasons/508/survivor-season-5</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s5</guid>
       <pubDate>Thu, 19 Sep 2002 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/508/survivor-season-5</link>
     </item>
     <item>
       <title>Survivor — Season 4</title>
-      <description>&lt;p&gt;Premiere: 28 February 2002&lt;br&gt;Finale: 19 May 2002&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/507/survivor-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/507/survivor-season-4</guid>
+      <description>Premiere: 28 February 2002
+Finale: 19 May 2002
+Episodes: 15
+
+https://www.tvmaze.com/seasons/507/survivor-season-4</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s4</guid>
       <pubDate>Thu, 28 Feb 2002 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/507/survivor-season-4</link>
     </item>
     <item>
       <title>Survivor — Season 3</title>
-      <description>&lt;p&gt;Premiere: 11 October 2001&lt;br&gt;Finale: 10 January 2002&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/506/survivor-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/506/survivor-season-3</guid>
+      <description>Premiere: 11 October 2001
+Finale: 10 January 2002
+Episodes: 15
+
+https://www.tvmaze.com/seasons/506/survivor-season-3</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s3</guid>
       <pubDate>Thu, 11 Oct 2001 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/506/survivor-season-3</link>
     </item>
     <item>
       <title>Survivor — Season 2</title>
-      <description>&lt;p&gt;Premiere: 28 January 2001&lt;br&gt;Finale: 10 May 2001&lt;br&gt;Episodes: 17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/505/survivor-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/505/survivor-season-2</guid>
+      <description>Premiere: 28 January 2001
+Finale: 10 May 2001
+Episodes: 17
+
+https://www.tvmaze.com/seasons/505/survivor-season-2</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s2</guid>
       <pubDate>Sun, 28 Jan 2001 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/505/survivor-season-2</link>
     </item>
     <item>
       <title>Survivor — Season 1</title>
-      <description>&lt;p&gt;Premiere: 31 May 2000&lt;br&gt;Finale: 23 August 2000&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/504/survivor-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Survivor%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/504/survivor-season-1</guid>
+      <description>Premiere: 31 May 2000
+Finale: 23 August 2000
+Episodes: 14
+
+https://www.tvmaze.com/seasons/504/survivor-season-1</description>
+      <guid isPermaLink="false">seasonfeed:survivor:s1</guid>
       <pubDate>Wed, 31 May 2000 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/504/survivor-season-1</link>
     </item>

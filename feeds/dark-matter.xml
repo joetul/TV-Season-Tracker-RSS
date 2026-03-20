@@ -3,14 +3,18 @@
   <channel>
     <title>Dark Matter Season Alerts</title>
     <description>New season notifications for Dark Matter from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/dark-matter.xml</link>
+    <link>https://www.tvmaze.com/shows/61315/dark-matter</link>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/dark-matter.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark Matter — Season 1</title>
-      <description>&lt;p&gt;Premiere: 8 May 2024&lt;br&gt;Finale: 26 June 2024&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137012/dark-matter-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dark%20Matter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137012/dark-matter-season-1</guid>
+      <description>Premiere: 8 May 2024
+Finale: 26 June 2024
+Episodes: 9
+
+https://www.tvmaze.com/seasons/137012/dark-matter-season-1</description>
+      <guid isPermaLink="false">seasonfeed:dark-matter:s1</guid>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137012/dark-matter-season-1</link>
     </item>

@@ -3,21 +3,29 @@
   <channel>
     <title>Arcane: League of Legends Season Alerts</title>
     <description>New season notifications for Arcane: League of Legends from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/arcane-league-of-legends.xml</link>
+    <link>https://www.tvmaze.com/shows/55138/arcane-league-of-legends</link>
     <language>en</language>
     <lastBuildDate>Sat, 09 Nov 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/arcane-league-of-legends.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcane: League of Legends — Season 2</title>
-      <description>&lt;p&gt;Premiere: 9 November 2024&lt;br&gt;Finale: 23 November 2024&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/154762/arcane-league-of-legends-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arcane%3A%20League%20of%20Legends%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/154762/arcane-league-of-legends-season-2</guid>
+      <description>Premiere: 9 November 2024
+Finale: 23 November 2024
+Episodes: 9
+
+https://www.tvmaze.com/seasons/154762/arcane-league-of-legends-season-2</description>
+      <guid isPermaLink="false">seasonfeed:arcane-league-of-legends:s2</guid>
       <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/154762/arcane-league-of-legends-season-2</link>
     </item>
     <item>
       <title>Arcane: League of Legends — Season 1</title>
-      <description>&lt;p&gt;Premiere: 6 November 2021&lt;br&gt;Finale: 20 November 2021&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/123688/arcane-league-of-legends-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arcane%3A%20League%20of%20Legends%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/123688/arcane-league-of-legends-season-1</guid>
+      <description>Premiere: 6 November 2021
+Finale: 20 November 2021
+Episodes: 9
+
+https://www.tvmaze.com/seasons/123688/arcane-league-of-legends-season-1</description>
+      <guid isPermaLink="false">seasonfeed:arcane-league-of-legends:s1</guid>
       <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/123688/arcane-league-of-legends-season-1</link>
     </item>

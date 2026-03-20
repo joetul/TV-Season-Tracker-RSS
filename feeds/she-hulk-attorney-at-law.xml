@@ -3,14 +3,18 @@
   <channel>
     <title>She-Hulk: Attorney at Law Season Alerts</title>
     <description>New season notifications for She-Hulk: Attorney at Law from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/she-hulk-attorney-at-law.xml</link>
+    <link>https://www.tvmaze.com/shows/43517/she-hulk-attorney-at-law</link>
     <language>en</language>
     <lastBuildDate>Thu, 18 Aug 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/she-hulk-attorney-at-law.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>She-Hulk: Attorney at Law — Season 1</title>
-      <description>&lt;p&gt;Premiere: 18 August 2022&lt;br&gt;Finale: 13 October 2022&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/99545/she-hulk-attorney-at-law-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=She-Hulk%3A%20Attorney%20at%20Law%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/99545/she-hulk-attorney-at-law-season-1</guid>
+      <description>Premiere: 18 August 2022
+Finale: 13 October 2022
+Episodes: 9
+
+https://www.tvmaze.com/seasons/99545/she-hulk-attorney-at-law-season-1</description>
+      <guid isPermaLink="false">seasonfeed:she-hulk-attorney-at-law:s1</guid>
       <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/99545/she-hulk-attorney-at-law-season-1</link>
     </item>

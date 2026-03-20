@@ -3,28 +3,40 @@
   <channel>
     <title>Star Wars: Visions Season Alerts</title>
     <description>New season notifications for Star Wars: Visions from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/star-wars-visions.xml</link>
+    <link>https://www.tvmaze.com/shows/52340/star-wars-visions</link>
     <language>en</language>
     <lastBuildDate>Wed, 29 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/star-wars-visions.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Wars: Visions — Season 3</title>
-      <description>&lt;p&gt;Premiere: 29 October 2025&lt;br&gt;Finale: 29 October 2025&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/177718/star-wars-visions-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Visions%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/177718/star-wars-visions-season-3</guid>
+      <description>Premiere: 29 October 2025
+Finale: 29 October 2025
+Episodes: 9
+
+https://www.tvmaze.com/seasons/177718/star-wars-visions-season-3</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-visions:s3</guid>
       <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/177718/star-wars-visions-season-3</link>
     </item>
     <item>
       <title>Star Wars: Visions — Season 2</title>
-      <description>&lt;p&gt;Premiere: 4 May 2023&lt;br&gt;Finale: 4 May 2023&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/139031/star-wars-visions-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Visions%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/139031/star-wars-visions-season-2</guid>
+      <description>Premiere: 4 May 2023
+Finale: 4 May 2023
+Episodes: 9
+
+https://www.tvmaze.com/seasons/139031/star-wars-visions-season-2</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-visions:s2</guid>
       <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/139031/star-wars-visions-season-2</link>
     </item>
     <item>
       <title>Star Wars: Visions — Season 1</title>
-      <description>&lt;p&gt;Premiere: 22 September 2021&lt;br&gt;Finale: 22 September 2021&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/117569/star-wars-visions-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Visions%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/117569/star-wars-visions-season-1</guid>
+      <description>Premiere: 22 September 2021
+Finale: 22 September 2021
+Episodes: 9
+
+https://www.tvmaze.com/seasons/117569/star-wars-visions-season-1</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-visions:s1</guid>
       <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/117569/star-wars-visions-season-1</link>
     </item>

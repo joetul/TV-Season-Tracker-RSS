@@ -3,49 +3,73 @@
   <channel>
     <title>Lucifer Season Alerts</title>
     <description>New season notifications for Lucifer from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/lucifer.xml</link>
+    <link>https://www.tvmaze.com/shows/1859/lucifer</link>
     <language>en</language>
     <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/lucifer.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lucifer — Season 6</title>
-      <description>&lt;p&gt;Premiere: 10 September 2021&lt;br&gt;Finale: 10 September 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/107210/lucifer-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/107210/lucifer-season-6</guid>
+      <description>Premiere: 10 September 2021
+Finale: 10 September 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/107210/lucifer-season-6</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s6</guid>
       <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/107210/lucifer-season-6</link>
     </item>
     <item>
       <title>Lucifer — Season 5</title>
-      <description>&lt;p&gt;Premiere: 21 August 2020&lt;br&gt;Finale: 28 May 2021&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97127/lucifer-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97127/lucifer-season-5</guid>
+      <description>Premiere: 21 August 2020
+Finale: 28 May 2021
+Episodes: 16
+
+https://www.tvmaze.com/seasons/97127/lucifer-season-5</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s5</guid>
       <pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97127/lucifer-season-5</link>
     </item>
     <item>
       <title>Lucifer — Season 4</title>
-      <description>&lt;p&gt;Premiere: 8 May 2019&lt;br&gt;Finale: 8 May 2019&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/85928/lucifer-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/85928/lucifer-season-4</guid>
+      <description>Premiere: 8 May 2019
+Finale: 8 May 2019
+Episodes: 10
+
+https://www.tvmaze.com/seasons/85928/lucifer-season-4</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s4</guid>
       <pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/85928/lucifer-season-4</link>
     </item>
     <item>
       <title>Lucifer — Season 3</title>
-      <description>&lt;p&gt;Premiere: 2 October 2017&lt;br&gt;Finale: 28 May 2018&lt;br&gt;Episodes: 26&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/61841/lucifer-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/61841/lucifer-season-3</guid>
+      <description>Premiere: 2 October 2017
+Finale: 28 May 2018
+Episodes: 26
+
+https://www.tvmaze.com/seasons/61841/lucifer-season-3</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s3</guid>
       <pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/61841/lucifer-season-3</link>
     </item>
     <item>
       <title>Lucifer — Season 2</title>
-      <description>&lt;p&gt;Premiere: 19 September 2016&lt;br&gt;Finale: 29 May 2017&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/40839/lucifer-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/40839/lucifer-season-2</guid>
+      <description>Premiere: 19 September 2016
+Finale: 29 May 2017
+Episodes: 18
+
+https://www.tvmaze.com/seasons/40839/lucifer-season-2</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s2</guid>
       <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/40839/lucifer-season-2</link>
     </item>
     <item>
       <title>Lucifer — Season 1</title>
-      <description>&lt;p&gt;Premiere: 25 January 2016&lt;br&gt;Finale: 25 April 2016&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/8993/lucifer-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lucifer%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/8993/lucifer-season-1</guid>
+      <description>Premiere: 25 January 2016
+Finale: 25 April 2016
+Episodes: 13
+
+https://www.tvmaze.com/seasons/8993/lucifer-season-1</description>
+      <guid isPermaLink="false">seasonfeed:lucifer:s1</guid>
       <pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/8993/lucifer-season-1</link>
     </item>

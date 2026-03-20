@@ -3,84 +3,128 @@
   <channel>
     <title>Chicago Med Season Alerts</title>
     <description>New season notifications for Chicago Med from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/chicago-med.xml</link>
+    <link>https://www.tvmaze.com/shows/2246/chicago-med</link>
     <language>en</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/chicago-med.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicago Med — Season 11</title>
-      <description>&lt;p&gt;Premiere: 1 October 2025&lt;br&gt;Finale: 15 April 2026&lt;br&gt;Episodes: 21&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/185374/chicago-med-season-11"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/185374/chicago-med-season-11</guid>
+      <description>Premiere: 1 October 2025
+Finale: 15 April 2026
+Episodes: 21
+
+https://www.tvmaze.com/seasons/185374/chicago-med-season-11</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s11</guid>
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/185374/chicago-med-season-11</link>
     </item>
     <item>
       <title>Chicago Med — Season 10</title>
-      <description>&lt;p&gt;Premiere: 25 September 2024&lt;br&gt;Finale: 21 May 2025&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/167347/chicago-med-season-10"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/167347/chicago-med-season-10</guid>
+      <description>Premiere: 25 September 2024
+Finale: 21 May 2025
+Episodes: 22
+
+https://www.tvmaze.com/seasons/167347/chicago-med-season-10</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s10</guid>
       <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/167347/chicago-med-season-10</link>
     </item>
     <item>
       <title>Chicago Med — Season 9</title>
-      <description>&lt;p&gt;Premiere: 17 January 2024&lt;br&gt;Finale: 22 May 2024&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/150808/chicago-med-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/150808/chicago-med-season-9</guid>
+      <description>Premiere: 17 January 2024
+Finale: 22 May 2024
+Episodes: 13
+
+https://www.tvmaze.com/seasons/150808/chicago-med-season-9</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s9</guid>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/150808/chicago-med-season-9</link>
     </item>
     <item>
       <title>Chicago Med — Season 8</title>
-      <description>&lt;p&gt;Premiere: 21 September 2022&lt;br&gt;Finale: 24 May 2023&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108298/chicago-med-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108298/chicago-med-season-8</guid>
+      <description>Premiere: 21 September 2022
+Finale: 24 May 2023
+Episodes: 22
+
+https://www.tvmaze.com/seasons/108298/chicago-med-season-8</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s8</guid>
       <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108298/chicago-med-season-8</link>
     </item>
     <item>
       <title>Chicago Med — Season 7</title>
-      <description>&lt;p&gt;Premiere: 22 September 2021&lt;br&gt;Finale: 25 May 2022&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108297/chicago-med-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108297/chicago-med-season-7</guid>
+      <description>Premiere: 22 September 2021
+Finale: 25 May 2022
+Episodes: 22
+
+https://www.tvmaze.com/seasons/108297/chicago-med-season-7</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s7</guid>
       <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108297/chicago-med-season-7</link>
     </item>
     <item>
       <title>Chicago Med — Season 6</title>
-      <description>&lt;p&gt;Premiere: 11 November 2020&lt;br&gt;Finale: 26 May 2021&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108296/chicago-med-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108296/chicago-med-season-6</guid>
+      <description>Premiere: 11 November 2020
+Finale: 26 May 2021
+Episodes: 16
+
+https://www.tvmaze.com/seasons/108296/chicago-med-season-6</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s6</guid>
       <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108296/chicago-med-season-6</link>
     </item>
     <item>
       <title>Chicago Med — Season 5</title>
-      <description>&lt;p&gt;Premiere: 25 September 2019&lt;br&gt;Finale: 15 April 2020&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97057/chicago-med-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97057/chicago-med-season-5</guid>
+      <description>Premiere: 25 September 2019
+Finale: 15 April 2020
+Episodes: 20
+
+https://www.tvmaze.com/seasons/97057/chicago-med-season-5</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s5</guid>
       <pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97057/chicago-med-season-5</link>
     </item>
     <item>
       <title>Chicago Med — Season 4</title>
-      <description>&lt;p&gt;Premiere: 26 September 2018&lt;br&gt;Finale: 22 May 2019&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/84942/chicago-med-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/84942/chicago-med-season-4</guid>
+      <description>Premiere: 26 September 2018
+Finale: 22 May 2019
+Episodes: 22
+
+https://www.tvmaze.com/seasons/84942/chicago-med-season-4</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s4</guid>
       <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/84942/chicago-med-season-4</link>
     </item>
     <item>
       <title>Chicago Med — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 November 2017&lt;br&gt;Finale: 15 May 2018&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/68027/chicago-med-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/68027/chicago-med-season-3</guid>
+      <description>Premiere: 21 November 2017
+Finale: 15 May 2018
+Episodes: 20
+
+https://www.tvmaze.com/seasons/68027/chicago-med-season-3</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s3</guid>
       <pubDate>Tue, 21 Nov 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/68027/chicago-med-season-3</link>
     </item>
     <item>
       <title>Chicago Med — Season 2</title>
-      <description>&lt;p&gt;Premiere: 22 September 2016&lt;br&gt;Finale: 11 May 2017&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/47149/chicago-med-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/47149/chicago-med-season-2</guid>
+      <description>Premiere: 22 September 2016
+Finale: 11 May 2017
+Episodes: 23
+
+https://www.tvmaze.com/seasons/47149/chicago-med-season-2</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s2</guid>
       <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/47149/chicago-med-season-2</link>
     </item>
     <item>
       <title>Chicago Med — Season 1</title>
-      <description>&lt;p&gt;Premiere: 17 November 2015&lt;br&gt;Finale: 17 May 2016&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/7936/chicago-med-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Chicago%20Med%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7936/chicago-med-season-1</guid>
+      <description>Premiere: 17 November 2015
+Finale: 17 May 2016
+Episodes: 18
+
+https://www.tvmaze.com/seasons/7936/chicago-med-season-1</description>
+      <guid isPermaLink="false">seasonfeed:chicago-med:s1</guid>
       <pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/7936/chicago-med-season-1</link>
     </item>

@@ -3,28 +3,40 @@
   <channel>
     <title>Star Trek: Picard Season Alerts</title>
     <description>New season notifications for Star Trek: Picard from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/star-trek-picard.xml</link>
+    <link>https://www.tvmaze.com/shows/42193/star-trek-picard</link>
     <language>en</language>
     <lastBuildDate>Thu, 16 Feb 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/star-trek-picard.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Trek: Picard — Season 3</title>
-      <description>&lt;p&gt;Premiere: 16 February 2023&lt;br&gt;Finale: 20 April 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/136631/star-trek-picard-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Trek%3A%20Picard%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/136631/star-trek-picard-season-3</guid>
+      <description>Premiere: 16 February 2023
+Finale: 20 April 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/136631/star-trek-picard-season-3</description>
+      <guid isPermaLink="false">seasonfeed:star-trek-picard:s3</guid>
       <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/136631/star-trek-picard-season-3</link>
     </item>
     <item>
       <title>Star Trek: Picard — Season 2</title>
-      <description>&lt;p&gt;Premiere: 3 March 2022&lt;br&gt;Finale: 5 May 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/103930/star-trek-picard-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Trek%3A%20Picard%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/103930/star-trek-picard-season-2</guid>
+      <description>Premiere: 3 March 2022
+Finale: 5 May 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/103930/star-trek-picard-season-2</description>
+      <guid isPermaLink="false">seasonfeed:star-trek-picard:s2</guid>
       <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/103930/star-trek-picard-season-2</link>
     </item>
     <item>
       <title>Star Trek: Picard — Season 1</title>
-      <description>&lt;p&gt;Premiere: 23 January 2020&lt;br&gt;Finale: 26 March 2020&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/96496/star-trek-picard-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Trek%3A%20Picard%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/96496/star-trek-picard-season-1</guid>
+      <description>Premiere: 23 January 2020
+Finale: 26 March 2020
+Episodes: 10
+
+https://www.tvmaze.com/seasons/96496/star-trek-picard-season-1</description>
+      <guid isPermaLink="false">seasonfeed:star-trek-picard:s1</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/96496/star-trek-picard-season-1</link>
     </item>

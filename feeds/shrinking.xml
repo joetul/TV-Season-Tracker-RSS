@@ -3,28 +3,40 @@
   <channel>
     <title>Shrinking Season Alerts</title>
     <description>New season notifications for Shrinking from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/shrinking.xml</link>
+    <link>https://www.tvmaze.com/shows/58323/shrinking</link>
     <language>en</language>
     <lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/shrinking.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shrinking — Season 3</title>
-      <description>&lt;p&gt;Premiere: 28 January 2026&lt;br&gt;Finale: 8 April 2026&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/176157/shrinking-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Shrinking%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/176157/shrinking-season-3</guid>
+      <description>Premiere: 28 January 2026
+Finale: 8 April 2026
+Episodes: 12
+
+https://www.tvmaze.com/seasons/176157/shrinking-season-3</description>
+      <guid isPermaLink="false">seasonfeed:shrinking:s3</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/176157/shrinking-season-3</link>
     </item>
     <item>
       <title>Shrinking — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 October 2024&lt;br&gt;Finale: 24 December 2024&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/149649/shrinking-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Shrinking%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/149649/shrinking-season-2</guid>
+      <description>Premiere: 16 October 2024
+Finale: 24 December 2024
+Episodes: 12
+
+https://www.tvmaze.com/seasons/149649/shrinking-season-2</description>
+      <guid isPermaLink="false">seasonfeed:shrinking:s2</guid>
       <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/149649/shrinking-season-2</link>
     </item>
     <item>
       <title>Shrinking — Season 1</title>
-      <description>&lt;p&gt;Premiere: 27 January 2023&lt;br&gt;Finale: 24 March 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/130505/shrinking-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Shrinking%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/130505/shrinking-season-1</guid>
+      <description>Premiere: 27 January 2023
+Finale: 24 March 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/130505/shrinking-season-1</description>
+      <guid isPermaLink="false">seasonfeed:shrinking:s1</guid>
       <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/130505/shrinking-season-1</link>
     </item>

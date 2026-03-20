@@ -3,35 +3,51 @@
   <channel>
     <title>Bel-Air Season Alerts</title>
     <description>New season notifications for Bel-Air from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/bel-air.xml</link>
+    <link>https://www.tvmaze.com/shows/50270/bel-air</link>
     <language>en</language>
     <lastBuildDate>Mon, 24 Nov 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/bel-air.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bel-Air — Season 4</title>
-      <description>&lt;p&gt;Premiere: 24 November 2025&lt;br&gt;Finale: 8 December 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/178291/bel-air-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bel-Air%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/178291/bel-air-season-4</guid>
+      <description>Premiere: 24 November 2025
+Finale: 8 December 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/178291/bel-air-season-4</description>
+      <guid isPermaLink="false">seasonfeed:bel-air:s4</guid>
       <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/178291/bel-air-season-4</link>
     </item>
     <item>
       <title>Bel-Air — Season 3</title>
-      <description>&lt;p&gt;Premiere: 15 August 2024&lt;br&gt;Finale: 5 September 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/149936/bel-air-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bel-Air%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/149936/bel-air-season-3</guid>
+      <description>Premiere: 15 August 2024
+Finale: 5 September 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/149936/bel-air-season-3</description>
+      <guid isPermaLink="false">seasonfeed:bel-air:s3</guid>
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/149936/bel-air-season-3</link>
     </item>
     <item>
       <title>Bel-Air — Season 2</title>
-      <description>&lt;p&gt;Premiere: 23 February 2023&lt;br&gt;Finale: 27 April 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137344/bel-air-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bel-Air%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137344/bel-air-season-2</guid>
+      <description>Premiere: 23 February 2023
+Finale: 27 April 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/137344/bel-air-season-2</description>
+      <guid isPermaLink="false">seasonfeed:bel-air:s2</guid>
       <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137344/bel-air-season-2</link>
     </item>
     <item>
       <title>Bel-Air — Season 1</title>
-      <description>&lt;p&gt;Premiere: 13 February 2022&lt;br&gt;Finale: 31 March 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/113790/bel-air-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bel-Air%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/113790/bel-air-season-1</guid>
+      <description>Premiere: 13 February 2022
+Finale: 31 March 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/113790/bel-air-season-1</description>
+      <guid isPermaLink="false">seasonfeed:bel-air:s1</guid>
       <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/113790/bel-air-season-1</link>
     </item>

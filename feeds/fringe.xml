@@ -3,42 +3,62 @@
   <channel>
     <title>Fringe Season Alerts</title>
     <description>New season notifications for Fringe from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/fringe.xml</link>
+    <link>https://www.tvmaze.com/shows/158/fringe</link>
     <language>en</language>
     <lastBuildDate>Fri, 28 Sep 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/fringe.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fringe — Season 5</title>
-      <description>&lt;p&gt;Premiere: 28 September 2012&lt;br&gt;Finale: 18 January 2013&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/709/fringe-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fringe%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/709/fringe-season-5</guid>
+      <description>Premiere: 28 September 2012
+Finale: 18 January 2013
+Episodes: 13
+
+https://www.tvmaze.com/seasons/709/fringe-season-5</description>
+      <guid isPermaLink="false">seasonfeed:fringe:s5</guid>
       <pubDate>Fri, 28 Sep 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/709/fringe-season-5</link>
     </item>
     <item>
       <title>Fringe — Season 4</title>
-      <description>&lt;p&gt;Premiere: 23 September 2011&lt;br&gt;Finale: 11 May 2012&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/708/fringe-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fringe%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/708/fringe-season-4</guid>
+      <description>Premiere: 23 September 2011
+Finale: 11 May 2012
+Episodes: 22
+
+https://www.tvmaze.com/seasons/708/fringe-season-4</description>
+      <guid isPermaLink="false">seasonfeed:fringe:s4</guid>
       <pubDate>Fri, 23 Sep 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/708/fringe-season-4</link>
     </item>
     <item>
       <title>Fringe — Season 3</title>
-      <description>&lt;p&gt;Premiere: 23 September 2010&lt;br&gt;Finale: 6 May 2011&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/707/fringe-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fringe%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/707/fringe-season-3</guid>
+      <description>Premiere: 23 September 2010
+Finale: 6 May 2011
+Episodes: 22
+
+https://www.tvmaze.com/seasons/707/fringe-season-3</description>
+      <guid isPermaLink="false">seasonfeed:fringe:s3</guid>
       <pubDate>Thu, 23 Sep 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/707/fringe-season-3</link>
     </item>
     <item>
       <title>Fringe — Season 2</title>
-      <description>&lt;p&gt;Premiere: 17 September 2009&lt;br&gt;Finale: 20 May 2010&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/706/fringe-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fringe%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/706/fringe-season-2</guid>
+      <description>Premiere: 17 September 2009
+Finale: 20 May 2010
+Episodes: 23
+
+https://www.tvmaze.com/seasons/706/fringe-season-2</description>
+      <guid isPermaLink="false">seasonfeed:fringe:s2</guid>
       <pubDate>Thu, 17 Sep 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/706/fringe-season-2</link>
     </item>
     <item>
       <title>Fringe — Season 1</title>
-      <description>&lt;p&gt;Premiere: 9 September 2008&lt;br&gt;Finale: 12 May 2009&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/705/fringe-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fringe%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/705/fringe-season-1</guid>
+      <description>Premiere: 9 September 2008
+Finale: 12 May 2009
+Episodes: 20
+
+https://www.tvmaze.com/seasons/705/fringe-season-1</description>
+      <guid isPermaLink="false">seasonfeed:fringe:s1</guid>
       <pubDate>Tue, 09 Sep 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/705/fringe-season-1</link>
     </item>

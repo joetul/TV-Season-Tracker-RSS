@@ -3,203 +3,315 @@
   <channel>
     <title>South Park Season Alerts</title>
     <description>New season notifications for South Park from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/south-park.xml</link>
+    <link>https://www.tvmaze.com/shows/112/south-park</link>
     <language>en</language>
     <lastBuildDate>Wed, 15 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/south-park.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South Park — Season 28</title>
-      <description>&lt;p&gt;Premiere: 15 October 2025&lt;br&gt;Finale: 10 December 2025&lt;br&gt;Episodes: 5&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/192239/south-park-season-28"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/192239/south-park-season-28</guid>
+      <description>Premiere: 15 October 2025
+Finale: 10 December 2025
+Episodes: 5
+
+https://www.tvmaze.com/seasons/192239/south-park-season-28</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s28</guid>
       <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/192239/south-park-season-28</link>
     </item>
     <item>
       <title>South Park — Season 27</title>
-      <description>&lt;p&gt;Premiere: 23 July 2025&lt;br&gt;Finale: 24 September 2025&lt;br&gt;Episodes: 5&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/177881/south-park-season-27"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/177881/south-park-season-27</guid>
+      <description>Premiere: 23 July 2025
+Finale: 24 September 2025
+Episodes: 5
+
+https://www.tvmaze.com/seasons/177881/south-park-season-27</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s27</guid>
       <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/177881/south-park-season-27</link>
     </item>
     <item>
       <title>South Park — Season 26</title>
-      <description>&lt;p&gt;Premiere: 8 February 2023&lt;br&gt;Finale: 29 March 2023&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/147961/south-park-season-26"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147961/south-park-season-26</guid>
+      <description>Premiere: 8 February 2023
+Finale: 29 March 2023
+Episodes: 6
+
+https://www.tvmaze.com/seasons/147961/south-park-season-26</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s26</guid>
       <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/147961/south-park-season-26</link>
     </item>
     <item>
       <title>South Park — Season 25</title>
-      <description>&lt;p&gt;Premiere: 2 February 2022&lt;br&gt;Finale: 16 March 2022&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/134467/south-park-season-25"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/134467/south-park-season-25</guid>
+      <description>Premiere: 2 February 2022
+Finale: 16 March 2022
+Episodes: 6
+
+https://www.tvmaze.com/seasons/134467/south-park-season-25</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s25</guid>
       <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/134467/south-park-season-25</link>
     </item>
     <item>
       <title>South Park — Season 24</title>
-      <description>&lt;p&gt;Premiere: 30 September 2020&lt;br&gt;Finale: 10 March 2021&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/134181/south-park-season-24"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/134181/south-park-season-24</guid>
+      <description>Premiere: 30 September 2020
+Finale: 10 March 2021
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/134181/south-park-season-24</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s24</guid>
       <pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/134181/south-park-season-24</link>
     </item>
     <item>
       <title>South Park — Season 23</title>
-      <description>&lt;p&gt;Premiere: 25 September 2019&lt;br&gt;Finale: 11 December 2019&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/86778/south-park-season-23"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/86778/south-park-season-23</guid>
+      <description>Premiere: 25 September 2019
+Finale: 11 December 2019
+Episodes: 10
+
+https://www.tvmaze.com/seasons/86778/south-park-season-23</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s23</guid>
       <pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/86778/south-park-season-23</link>
     </item>
     <item>
       <title>South Park — Season 22</title>
-      <description>&lt;p&gt;Premiere: 26 September 2018&lt;br&gt;Finale: 12 December 2018&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/86777/south-park-season-22"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/86777/south-park-season-22</guid>
+      <description>Premiere: 26 September 2018
+Finale: 12 December 2018
+Episodes: 10
+
+https://www.tvmaze.com/seasons/86777/south-park-season-22</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s22</guid>
       <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/86777/south-park-season-22</link>
     </item>
     <item>
       <title>South Park — Season 21</title>
-      <description>&lt;p&gt;Premiere: 13 September 2017&lt;br&gt;Finale: 6 December 2017&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/68179/south-park-season-21"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/68179/south-park-season-21</guid>
+      <description>Premiere: 13 September 2017
+Finale: 6 December 2017
+Episodes: 10
+
+https://www.tvmaze.com/seasons/68179/south-park-season-21</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s21</guid>
       <pubDate>Wed, 13 Sep 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/68179/south-park-season-21</link>
     </item>
     <item>
       <title>South Park — Season 20</title>
-      <description>&lt;p&gt;Premiere: 14 September 2016&lt;br&gt;Finale: 7 December 2016&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/44331/south-park-season-20"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/44331/south-park-season-20</guid>
+      <description>Premiere: 14 September 2016
+Finale: 7 December 2016
+Episodes: 10
+
+https://www.tvmaze.com/seasons/44331/south-park-season-20</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s20</guid>
       <pubDate>Wed, 14 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/44331/south-park-season-20</link>
     </item>
     <item>
       <title>South Park — Season 19</title>
-      <description>&lt;p&gt;Premiere: 16 September 2015&lt;br&gt;Finale: 9 December 2015&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/8811/south-park-season-19"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/8811/south-park-season-19</guid>
+      <description>Premiere: 16 September 2015
+Finale: 9 December 2015
+Episodes: 10
+
+https://www.tvmaze.com/seasons/8811/south-park-season-19</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s19</guid>
       <pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/8811/south-park-season-19</link>
     </item>
     <item>
       <title>South Park — Season 18</title>
-      <description>&lt;p&gt;Premiere: 24 September 2014&lt;br&gt;Finale: 10 December 2014&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/503/south-park-season-18"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/503/south-park-season-18</guid>
+      <description>Premiere: 24 September 2014
+Finale: 10 December 2014
+Episodes: 10
+
+https://www.tvmaze.com/seasons/503/south-park-season-18</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s18</guid>
       <pubDate>Wed, 24 Sep 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/503/south-park-season-18</link>
     </item>
     <item>
       <title>South Park — Season 17</title>
-      <description>&lt;p&gt;Premiere: 25 September 2013&lt;br&gt;Finale: 11 December 2013&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/502/south-park-season-17"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/502/south-park-season-17</guid>
+      <description>Premiere: 25 September 2013
+Finale: 11 December 2013
+Episodes: 10
+
+https://www.tvmaze.com/seasons/502/south-park-season-17</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s17</guid>
       <pubDate>Wed, 25 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/502/south-park-season-17</link>
     </item>
     <item>
       <title>South Park — Season 16</title>
-      <description>&lt;p&gt;Premiere: 14 March 2012&lt;br&gt;Finale: 7 November 2012&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/501/south-park-season-16"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/501/south-park-season-16</guid>
+      <description>Premiere: 14 March 2012
+Finale: 7 November 2012
+Episodes: 14
+
+https://www.tvmaze.com/seasons/501/south-park-season-16</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s16</guid>
       <pubDate>Wed, 14 Mar 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/501/south-park-season-16</link>
     </item>
     <item>
       <title>South Park — Season 15</title>
-      <description>&lt;p&gt;Premiere: 27 April 2011&lt;br&gt;Finale: 16 November 2011&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/500/south-park-season-15"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/500/south-park-season-15</guid>
+      <description>Premiere: 27 April 2011
+Finale: 16 November 2011
+Episodes: 14
+
+https://www.tvmaze.com/seasons/500/south-park-season-15</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s15</guid>
       <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/500/south-park-season-15</link>
     </item>
     <item>
       <title>South Park — Season 14</title>
-      <description>&lt;p&gt;Premiere: 17 March 2010&lt;br&gt;Finale: 17 November 2010&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/499/south-park-season-14"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/499/south-park-season-14</guid>
+      <description>Premiere: 17 March 2010
+Finale: 17 November 2010
+Episodes: 14
+
+https://www.tvmaze.com/seasons/499/south-park-season-14</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s14</guid>
       <pubDate>Wed, 17 Mar 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/499/south-park-season-14</link>
     </item>
     <item>
       <title>South Park — Season 13</title>
-      <description>&lt;p&gt;Premiere: 11 March 2009&lt;br&gt;Finale: 18 November 2009&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/498/south-park-season-13"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/498/south-park-season-13</guid>
+      <description>Premiere: 11 March 2009
+Finale: 18 November 2009
+Episodes: 14
+
+https://www.tvmaze.com/seasons/498/south-park-season-13</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s13</guid>
       <pubDate>Wed, 11 Mar 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/498/south-park-season-13</link>
     </item>
     <item>
       <title>South Park — Season 12</title>
-      <description>&lt;p&gt;Premiere: 12 March 2008&lt;br&gt;Finale: 19 November 2008&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/497/south-park-season-12"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/497/south-park-season-12</guid>
+      <description>Premiere: 12 March 2008
+Finale: 19 November 2008
+Episodes: 14
+
+https://www.tvmaze.com/seasons/497/south-park-season-12</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s12</guid>
       <pubDate>Wed, 12 Mar 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/497/south-park-season-12</link>
     </item>
     <item>
       <title>South Park — Season 11</title>
-      <description>&lt;p&gt;Premiere: 7 March 2007&lt;br&gt;Finale: 14 November 2007&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/496/south-park-season-11"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/496/south-park-season-11</guid>
+      <description>Premiere: 7 March 2007
+Finale: 14 November 2007
+Episodes: 14
+
+https://www.tvmaze.com/seasons/496/south-park-season-11</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s11</guid>
       <pubDate>Wed, 07 Mar 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/496/south-park-season-11</link>
     </item>
     <item>
       <title>South Park — Season 10</title>
-      <description>&lt;p&gt;Premiere: 22 March 2006&lt;br&gt;Finale: 15 November 2006&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/495/south-park-season-10"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/495/south-park-season-10</guid>
+      <description>Premiere: 22 March 2006
+Finale: 15 November 2006
+Episodes: 14
+
+https://www.tvmaze.com/seasons/495/south-park-season-10</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s10</guid>
       <pubDate>Wed, 22 Mar 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/495/south-park-season-10</link>
     </item>
     <item>
       <title>South Park — Season 9</title>
-      <description>&lt;p&gt;Premiere: 9 March 2005&lt;br&gt;Finale: 7 December 2005&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/494/south-park-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/494/south-park-season-9</guid>
+      <description>Premiere: 9 March 2005
+Finale: 7 December 2005
+Episodes: 14
+
+https://www.tvmaze.com/seasons/494/south-park-season-9</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s9</guid>
       <pubDate>Wed, 09 Mar 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/494/south-park-season-9</link>
     </item>
     <item>
       <title>South Park — Season 8</title>
-      <description>&lt;p&gt;Premiere: 17 March 2004&lt;br&gt;Finale: 15 December 2004&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/493/south-park-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/493/south-park-season-8</guid>
+      <description>Premiere: 17 March 2004
+Finale: 15 December 2004
+Episodes: 14
+
+https://www.tvmaze.com/seasons/493/south-park-season-8</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s8</guid>
       <pubDate>Wed, 17 Mar 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/493/south-park-season-8</link>
     </item>
     <item>
       <title>South Park — Season 7</title>
-      <description>&lt;p&gt;Premiere: 19 March 2003&lt;br&gt;Finale: 17 December 2003&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/492/south-park-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/492/south-park-season-7</guid>
+      <description>Premiere: 19 March 2003
+Finale: 17 December 2003
+Episodes: 15
+
+https://www.tvmaze.com/seasons/492/south-park-season-7</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s7</guid>
       <pubDate>Wed, 19 Mar 2003 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/492/south-park-season-7</link>
     </item>
     <item>
       <title>South Park — Season 6</title>
-      <description>&lt;p&gt;Premiere: 6 March 2002&lt;br&gt;Finale: 11 December 2002&lt;br&gt;Episodes: 17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/491/south-park-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/491/south-park-season-6</guid>
+      <description>Premiere: 6 March 2002
+Finale: 11 December 2002
+Episodes: 17
+
+https://www.tvmaze.com/seasons/491/south-park-season-6</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s6</guid>
       <pubDate>Wed, 06 Mar 2002 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/491/south-park-season-6</link>
     </item>
     <item>
       <title>South Park — Season 5</title>
-      <description>&lt;p&gt;Premiere: 20 June 2001&lt;br&gt;Finale: 12 December 2001&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/490/south-park-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/490/south-park-season-5</guid>
+      <description>Premiere: 20 June 2001
+Finale: 12 December 2001
+Episodes: 14
+
+https://www.tvmaze.com/seasons/490/south-park-season-5</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s5</guid>
       <pubDate>Wed, 20 Jun 2001 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/490/south-park-season-5</link>
     </item>
     <item>
       <title>South Park — Season 4</title>
-      <description>&lt;p&gt;Premiere: 5 April 2000&lt;br&gt;Finale: 20 December 2000&lt;br&gt;Episodes: 17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/489/south-park-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/489/south-park-season-4</guid>
+      <description>Premiere: 5 April 2000
+Finale: 20 December 2000
+Episodes: 17
+
+https://www.tvmaze.com/seasons/489/south-park-season-4</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s4</guid>
       <pubDate>Wed, 05 Apr 2000 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/489/south-park-season-4</link>
     </item>
     <item>
       <title>South Park — Season 3</title>
-      <description>&lt;p&gt;Premiere: 7 April 1999&lt;br&gt;Finale: 12 January 2000&lt;br&gt;Episodes: 17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/488/south-park-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/488/south-park-season-3</guid>
+      <description>Premiere: 7 April 1999
+Finale: 12 January 2000
+Episodes: 17
+
+https://www.tvmaze.com/seasons/488/south-park-season-3</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s3</guid>
       <pubDate>Wed, 07 Apr 1999 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/488/south-park-season-3</link>
     </item>
     <item>
       <title>South Park — Season 2</title>
-      <description>&lt;p&gt;Premiere: 1 April 1998&lt;br&gt;Finale: 20 January 1999&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/487/south-park-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/487/south-park-season-2</guid>
+      <description>Premiere: 1 April 1998
+Finale: 20 January 1999
+Episodes: 18
+
+https://www.tvmaze.com/seasons/487/south-park-season-2</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s2</guid>
       <pubDate>Wed, 01 Apr 1998 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/487/south-park-season-2</link>
     </item>
     <item>
       <title>South Park — Season 1</title>
-      <description>&lt;p&gt;Premiere: 13 August 1997&lt;br&gt;Finale: 25 February 1998&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/486/south-park-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=South%20Park%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/486/south-park-season-1</guid>
+      <description>Premiere: 13 August 1997
+Finale: 25 February 1998
+Episodes: 13
+
+https://www.tvmaze.com/seasons/486/south-park-season-1</description>
+      <guid isPermaLink="false">seasonfeed:south-park:s1</guid>
       <pubDate>Wed, 13 Aug 1997 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/486/south-park-season-1</link>
     </item>

@@ -3,21 +3,29 @@
   <channel>
     <title>The Recruit Season Alerts</title>
     <description>New season notifications for The Recruit from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml</link>
+    <link>https://www.tvmaze.com/shows/60522/the-recruit</link>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-recruit.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Recruit — Season 2</title>
-      <description>&lt;p&gt;Premiere: 30 January 2025&lt;br&gt;Finale: 30 January 2025&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/148165/the-recruit-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Recruit%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/148165/the-recruit-season-2</guid>
+      <description>Premiere: 30 January 2025
+Finale: 30 January 2025
+Episodes: 6
+
+https://www.tvmaze.com/seasons/148165/the-recruit-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-recruit:s2</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/148165/the-recruit-season-2</link>
     </item>
     <item>
       <title>The Recruit — Season 1</title>
-      <description>&lt;p&gt;Premiere: 16 December 2022&lt;br&gt;Finale: 16 December 2022&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135377/the-recruit-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Recruit%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135377/the-recruit-season-1</guid>
+      <description>Premiere: 16 December 2022
+Finale: 16 December 2022
+Episodes: 8
+
+https://www.tvmaze.com/seasons/135377/the-recruit-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-recruit:s1</guid>
       <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135377/the-recruit-season-1</link>
     </item>

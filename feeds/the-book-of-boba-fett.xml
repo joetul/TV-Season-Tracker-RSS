@@ -3,14 +3,18 @@
   <channel>
     <title>The Book of Boba Fett Season Alerts</title>
     <description>New season notifications for The Book of Boba Fett from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-book-of-boba-fett.xml</link>
+    <link>https://www.tvmaze.com/shows/52523/the-book-of-boba-fett</link>
     <language>en</language>
     <lastBuildDate>Wed, 29 Dec 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-book-of-boba-fett.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Book of Boba Fett — Season 1</title>
-      <description>&lt;p&gt;Premiere: 29 December 2021&lt;br&gt;Finale: 9 February 2022&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/117967/the-book-of-boba-fett-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Book%20of%20Boba%20Fett%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/117967/the-book-of-boba-fett-season-1</guid>
+      <description>Premiere: 29 December 2021
+Finale: 9 February 2022
+Episodes: 7
+
+https://www.tvmaze.com/seasons/117967/the-book-of-boba-fett-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-book-of-boba-fett:s1</guid>
       <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/117967/the-book-of-boba-fett-season-1</link>
     </item>

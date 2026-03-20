@@ -3,49 +3,73 @@
   <channel>
     <title>Peaky Blinders Season Alerts</title>
     <description>New season notifications for Peaky Blinders from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/peaky-blinders.xml</link>
+    <link>https://www.tvmaze.com/shows/269/peaky-blinders</link>
     <language>en</language>
     <lastBuildDate>Sun, 27 Feb 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/peaky-blinders.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peaky Blinders — Season 6</title>
-      <description>&lt;p&gt;Premiere: 27 February 2022&lt;br&gt;Finale: 20 March 2026&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/130070/peaky-blinders-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/130070/peaky-blinders-season-6</guid>
+      <description>Premiere: 27 February 2022
+Finale: 20 March 2026
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/130070/peaky-blinders-season-6</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s6</guid>
       <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/130070/peaky-blinders-season-6</link>
     </item>
     <item>
       <title>Peaky Blinders — Season 5</title>
-      <description>&lt;p&gt;Premiere: 25 August 2019&lt;br&gt;Finale: 22 September 2019&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/58465/peaky-blinders-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/58465/peaky-blinders-season-5</guid>
+      <description>Premiere: 25 August 2019
+Finale: 22 September 2019
+Episodes: 6
+
+https://www.tvmaze.com/seasons/58465/peaky-blinders-season-5</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s5</guid>
       <pubDate>Sun, 25 Aug 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/58465/peaky-blinders-season-5</link>
     </item>
     <item>
       <title>Peaky Blinders — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 November 2017&lt;br&gt;Finale: 20 December 2017&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/58464/peaky-blinders-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/58464/peaky-blinders-season-4</guid>
+      <description>Premiere: 15 November 2017
+Finale: 20 December 2017
+Episodes: 6
+
+https://www.tvmaze.com/seasons/58464/peaky-blinders-season-4</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s4</guid>
       <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/58464/peaky-blinders-season-4</link>
     </item>
     <item>
       <title>Peaky Blinders — Season 3</title>
-      <description>&lt;p&gt;Premiere: 5 May 2016&lt;br&gt;Finale: 9 June 2016&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/31802/peaky-blinders-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/31802/peaky-blinders-season-3</guid>
+      <description>Premiere: 5 May 2016
+Finale: 9 June 2016
+Episodes: 6
+
+https://www.tvmaze.com/seasons/31802/peaky-blinders-season-3</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s3</guid>
       <pubDate>Thu, 05 May 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/31802/peaky-blinders-season-3</link>
     </item>
     <item>
       <title>Peaky Blinders — Season 2</title>
-      <description>&lt;p&gt;Premiere: 2 October 2014&lt;br&gt;Finale: 6 November 2014&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1088/peaky-blinders-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1088/peaky-blinders-season-2</guid>
+      <description>Premiere: 2 October 2014
+Finale: 6 November 2014
+Episodes: 6
+
+https://www.tvmaze.com/seasons/1088/peaky-blinders-season-2</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s2</guid>
       <pubDate>Thu, 02 Oct 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1088/peaky-blinders-season-2</link>
     </item>
     <item>
       <title>Peaky Blinders — Season 1</title>
-      <description>&lt;p&gt;Premiere: 12 September 2013&lt;br&gt;Finale: 17 October 2013&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1087/peaky-blinders-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Peaky%20Blinders%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1087/peaky-blinders-season-1</guid>
+      <description>Premiere: 12 September 2013
+Finale: 17 October 2013
+Episodes: 6
+
+https://www.tvmaze.com/seasons/1087/peaky-blinders-season-1</description>
+      <guid isPermaLink="false">seasonfeed:peaky-blinders:s1</guid>
       <pubDate>Thu, 12 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1087/peaky-blinders-season-1</link>
     </item>

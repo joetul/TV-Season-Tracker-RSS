@@ -3,42 +3,62 @@
   <channel>
     <title>Emily in Paris Season Alerts</title>
     <description>New season notifications for Emily in Paris from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/emily-in-paris.xml</link>
+    <link>https://www.tvmaze.com/shows/41632/emily-in-paris</link>
     <language>en</language>
     <lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/emily-in-paris.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emily in Paris — Season 5</title>
-      <description>&lt;p&gt;Premiere: 18 December 2025&lt;br&gt;Finale: 18 December 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/174996/emily-in-paris-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Emily%20in%20Paris%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/174996/emily-in-paris-season-5</guid>
+      <description>Premiere: 18 December 2025
+Finale: 18 December 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/174996/emily-in-paris-season-5</description>
+      <guid isPermaLink="false">seasonfeed:emily-in-paris:s5</guid>
       <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/174996/emily-in-paris-season-5</link>
     </item>
     <item>
       <title>Emily in Paris — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 August 2024&lt;br&gt;Finale: 12 September 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/143274/emily-in-paris-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Emily%20in%20Paris%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/143274/emily-in-paris-season-4</guid>
+      <description>Premiere: 15 August 2024
+Finale: 12 September 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/143274/emily-in-paris-season-4</description>
+      <guid isPermaLink="false">seasonfeed:emily-in-paris:s4</guid>
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/143274/emily-in-paris-season-4</link>
     </item>
     <item>
       <title>Emily in Paris — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 December 2022&lt;br&gt;Finale: 21 December 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135807/emily-in-paris-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Emily%20in%20Paris%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135807/emily-in-paris-season-3</guid>
+      <description>Premiere: 21 December 2022
+Finale: 21 December 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/135807/emily-in-paris-season-3</description>
+      <guid isPermaLink="false">seasonfeed:emily-in-paris:s3</guid>
       <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135807/emily-in-paris-season-3</link>
     </item>
     <item>
       <title>Emily in Paris — Season 2</title>
-      <description>&lt;p&gt;Premiere: 22 December 2021&lt;br&gt;Finale: 22 December 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/124608/emily-in-paris-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Emily%20in%20Paris%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/124608/emily-in-paris-season-2</guid>
+      <description>Premiere: 22 December 2021
+Finale: 22 December 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/124608/emily-in-paris-season-2</description>
+      <guid isPermaLink="false">seasonfeed:emily-in-paris:s2</guid>
       <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/124608/emily-in-paris-season-2</link>
     </item>
     <item>
       <title>Emily in Paris — Season 1</title>
-      <description>&lt;p&gt;Premiere: 2 October 2020&lt;br&gt;Finale: 2 October 2020&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/95344/emily-in-paris-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Emily%20in%20Paris%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/95344/emily-in-paris-season-1</guid>
+      <description>Premiere: 2 October 2020
+Finale: 2 October 2020
+Episodes: 10
+
+https://www.tvmaze.com/seasons/95344/emily-in-paris-season-1</description>
+      <guid isPermaLink="false">seasonfeed:emily-in-paris:s1</guid>
       <pubDate>Fri, 02 Oct 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/95344/emily-in-paris-season-1</link>
     </item>

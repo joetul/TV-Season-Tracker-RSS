@@ -3,14 +3,18 @@
   <channel>
     <title>Star Wars: Skeleton Crew Season Alerts</title>
     <description>New season notifications for Star Wars: Skeleton Crew from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/star-wars-skeleton-crew.xml</link>
+    <link>https://www.tvmaze.com/shows/62271/star-wars-skeleton-crew</link>
     <language>en</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/star-wars-skeleton-crew.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Wars: Skeleton Crew — Season 1</title>
-      <description>&lt;p&gt;Premiere: 2 December 2024&lt;br&gt;Finale: 14 January 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/138924/star-wars-skeleton-crew-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Skeleton%20Crew%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/138924/star-wars-skeleton-crew-season-1</guid>
+      <description>Premiere: 2 December 2024
+Finale: 14 January 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/138924/star-wars-skeleton-crew-season-1</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-skeleton-crew:s1</guid>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/138924/star-wars-skeleton-crew-season-1</link>
     </item>

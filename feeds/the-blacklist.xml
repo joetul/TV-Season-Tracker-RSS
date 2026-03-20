@@ -3,77 +3,117 @@
   <channel>
     <title>The Blacklist Season Alerts</title>
     <description>New season notifications for The Blacklist from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-blacklist.xml</link>
+    <link>https://www.tvmaze.com/shows/69/the-blacklist</link>
     <language>en</language>
     <lastBuildDate>Sun, 26 Feb 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-blacklist.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Blacklist — Season 10</title>
-      <description>&lt;p&gt;Premiere: 26 February 2023&lt;br&gt;Finale: 13 July 2023&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137236/the-blacklist-season-10"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137236/the-blacklist-season-10</guid>
+      <description>Premiere: 26 February 2023
+Finale: 13 July 2023
+Episodes: 22
+
+https://www.tvmaze.com/seasons/137236/the-blacklist-season-10</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s10</guid>
       <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137236/the-blacklist-season-10</link>
     </item>
     <item>
       <title>The Blacklist — Season 9</title>
-      <description>&lt;p&gt;Premiere: 21 October 2021&lt;br&gt;Finale: 27 May 2022&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/126358/the-blacklist-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126358/the-blacklist-season-9</guid>
+      <description>Premiere: 21 October 2021
+Finale: 27 May 2022
+Episodes: 22
+
+https://www.tvmaze.com/seasons/126358/the-blacklist-season-9</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s9</guid>
       <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/126358/the-blacklist-season-9</link>
     </item>
     <item>
       <title>The Blacklist — Season 8</title>
-      <description>&lt;p&gt;Premiere: 13 November 2020&lt;br&gt;Finale: 23 June 2021&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/106316/the-blacklist-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/106316/the-blacklist-season-8</guid>
+      <description>Premiere: 13 November 2020
+Finale: 23 June 2021
+Episodes: 22
+
+https://www.tvmaze.com/seasons/106316/the-blacklist-season-8</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s8</guid>
       <pubDate>Fri, 13 Nov 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/106316/the-blacklist-season-8</link>
     </item>
     <item>
       <title>The Blacklist — Season 7</title>
-      <description>&lt;p&gt;Premiere: 4 October 2019&lt;br&gt;Finale: 15 May 2020&lt;br&gt;Episodes: 19&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/96559/the-blacklist-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/96559/the-blacklist-season-7</guid>
+      <description>Premiere: 4 October 2019
+Finale: 15 May 2020
+Episodes: 19
+
+https://www.tvmaze.com/seasons/96559/the-blacklist-season-7</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s7</guid>
       <pubDate>Fri, 04 Oct 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/96559/the-blacklist-season-7</link>
     </item>
     <item>
       <title>The Blacklist — Season 6</title>
-      <description>&lt;p&gt;Premiere: 3 January 2019&lt;br&gt;Finale: 17 May 2019&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/85031/the-blacklist-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/85031/the-blacklist-season-6</guid>
+      <description>Premiere: 3 January 2019
+Finale: 17 May 2019
+Episodes: 22
+
+https://www.tvmaze.com/seasons/85031/the-blacklist-season-6</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s6</guid>
       <pubDate>Thu, 03 Jan 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/85031/the-blacklist-season-6</link>
     </item>
     <item>
       <title>The Blacklist — Season 5</title>
-      <description>&lt;p&gt;Premiere: 27 September 2017&lt;br&gt;Finale: 16 May 2018&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/67835/the-blacklist-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/67835/the-blacklist-season-5</guid>
+      <description>Premiere: 27 September 2017
+Finale: 16 May 2018
+Episodes: 22
+
+https://www.tvmaze.com/seasons/67835/the-blacklist-season-5</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s5</guid>
       <pubDate>Wed, 27 Sep 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/67835/the-blacklist-season-5</link>
     </item>
     <item>
       <title>The Blacklist — Season 4</title>
-      <description>&lt;p&gt;Premiere: 22 September 2016&lt;br&gt;Finale: 18 May 2017&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/47853/the-blacklist-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/47853/the-blacklist-season-4</guid>
+      <description>Premiere: 22 September 2016
+Finale: 18 May 2017
+Episodes: 22
+
+https://www.tvmaze.com/seasons/47853/the-blacklist-season-4</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s4</guid>
       <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/47853/the-blacklist-season-4</link>
     </item>
     <item>
       <title>The Blacklist — Season 3</title>
-      <description>&lt;p&gt;Premiere: 1 October 2015&lt;br&gt;Finale: 19 May 2016&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/7932/the-blacklist-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7932/the-blacklist-season-3</guid>
+      <description>Premiere: 1 October 2015
+Finale: 19 May 2016
+Episodes: 23
+
+https://www.tvmaze.com/seasons/7932/the-blacklist-season-3</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s3</guid>
       <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/7932/the-blacklist-season-3</link>
     </item>
     <item>
       <title>The Blacklist — Season 2</title>
-      <description>&lt;p&gt;Premiere: 22 September 2014&lt;br&gt;Finale: 14 May 2015&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/230/the-blacklist-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/230/the-blacklist-season-2</guid>
+      <description>Premiere: 22 September 2014
+Finale: 14 May 2015
+Episodes: 22
+
+https://www.tvmaze.com/seasons/230/the-blacklist-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s2</guid>
       <pubDate>Mon, 22 Sep 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/230/the-blacklist-season-2</link>
     </item>
     <item>
       <title>The Blacklist — Season 1</title>
-      <description>&lt;p&gt;Premiere: 23 September 2013&lt;br&gt;Finale: 12 May 2014&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/229/the-blacklist-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Blacklist%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/229/the-blacklist-season-1</guid>
+      <description>Premiere: 23 September 2013
+Finale: 12 May 2014
+Episodes: 22
+
+https://www.tvmaze.com/seasons/229/the-blacklist-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-blacklist:s1</guid>
       <pubDate>Mon, 23 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/229/the-blacklist-season-1</link>
     </item>

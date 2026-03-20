@@ -3,21 +3,29 @@
   <channel>
     <title>Percy Jackson and the Olympians Season Alerts</title>
     <description>New season notifications for Percy Jackson and the Olympians from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/percy-jackson-and-the-olympians.xml</link>
+    <link>https://www.tvmaze.com/shows/48108/percy-jackson-and-the-olympians</link>
     <language>en</language>
     <lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/percy-jackson-and-the-olympians.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Percy Jackson and the Olympians — Season 2</title>
-      <description>&lt;p&gt;Premiere: 10 December 2025&lt;br&gt;Finale: 21 January 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/164739/percy-jackson-and-the-olympians-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Percy%20Jackson%20and%20the%20Olympians%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/164739/percy-jackson-and-the-olympians-season-2</guid>
+      <description>Premiere: 10 December 2025
+Finale: 21 January 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/164739/percy-jackson-and-the-olympians-season-2</description>
+      <guid isPermaLink="false">seasonfeed:percy-jackson-and-the-olympians:s2</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/164739/percy-jackson-and-the-olympians-season-2</link>
     </item>
     <item>
       <title>Percy Jackson and the Olympians — Season 1</title>
-      <description>&lt;p&gt;Premiere: 19 December 2023&lt;br&gt;Finale: 30 January 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/109865/percy-jackson-and-the-olympians-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Percy%20Jackson%20and%20the%20Olympians%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/109865/percy-jackson-and-the-olympians-season-1</guid>
+      <description>Premiere: 19 December 2023
+Finale: 30 January 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/109865/percy-jackson-and-the-olympians-season-1</description>
+      <guid isPermaLink="false">seasonfeed:percy-jackson-and-the-olympians:s1</guid>
       <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/109865/percy-jackson-and-the-olympians-season-1</link>
     </item>

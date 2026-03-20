@@ -3,21 +3,29 @@
   <channel>
     <title>Lioness Season Alerts</title>
     <description>New season notifications for Lioness from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/lioness.xml</link>
+    <link>https://www.tvmaze.com/shows/50415/lioness</link>
     <language>en</language>
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/lioness.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lioness — Season 2</title>
-      <description>&lt;p&gt;Premiere: 27 October 2024&lt;br&gt;Finale: 8 December 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/168878/lioness-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lioness%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/168878/lioness-season-2</guid>
+      <description>Premiere: 27 October 2024
+Finale: 8 December 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/168878/lioness-season-2</description>
+      <guid isPermaLink="false">seasonfeed:lioness:s2</guid>
       <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/168878/lioness-season-2</link>
     </item>
     <item>
       <title>Lioness — Season 1</title>
-      <description>&lt;p&gt;Premiere: 23 July 2023&lt;br&gt;Finale: 3 September 2023&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/114074/lioness-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lioness%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/114074/lioness-season-1</guid>
+      <description>Premiere: 23 July 2023
+Finale: 3 September 2023
+Episodes: 8
+
+https://www.tvmaze.com/seasons/114074/lioness-season-1</description>
+      <guid isPermaLink="false">seasonfeed:lioness:s1</guid>
       <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/114074/lioness-season-1</link>
     </item>

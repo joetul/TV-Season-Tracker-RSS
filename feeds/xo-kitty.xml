@@ -3,28 +3,40 @@
   <channel>
     <title>XO, Kitty Season Alerts</title>
     <description>New season notifications for XO, Kitty from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/xo-kitty.xml</link>
+    <link>https://www.tvmaze.com/shows/60509/xo-kitty</link>
     <language>en</language>
     <lastBuildDate>Thu, 02 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/xo-kitty.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XO, Kitty — Season 3</title>
-      <description>&lt;p&gt;Premiere: 2 April 2026&lt;br&gt;Finale: 2 April 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/181770/xo-kitty-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=XO%2C%20Kitty%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/181770/xo-kitty-season-3</guid>
+      <description>Premiere: 2 April 2026
+Finale: 2 April 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/181770/xo-kitty-season-3</description>
+      <guid isPermaLink="false">seasonfeed:xo-kitty:s3</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/181770/xo-kitty-season-3</link>
     </item>
     <item>
       <title>XO, Kitty — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 January 2025&lt;br&gt;Finale: 16 January 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/153484/xo-kitty-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=XO%2C%20Kitty%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/153484/xo-kitty-season-2</guid>
+      <description>Premiere: 16 January 2025
+Finale: 16 January 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/153484/xo-kitty-season-2</description>
+      <guid isPermaLink="false">seasonfeed:xo-kitty:s2</guid>
       <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/153484/xo-kitty-season-2</link>
     </item>
     <item>
       <title>XO, Kitty — Season 1</title>
-      <description>&lt;p&gt;Premiere: 18 May 2023&lt;br&gt;Finale: 18 May 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135356/xo-kitty-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=XO%2C%20Kitty%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135356/xo-kitty-season-1</guid>
+      <description>Premiere: 18 May 2023
+Finale: 18 May 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/135356/xo-kitty-season-1</description>
+      <guid isPermaLink="false">seasonfeed:xo-kitty:s1</guid>
       <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135356/xo-kitty-season-1</link>
     </item>

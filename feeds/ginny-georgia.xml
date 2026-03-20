@@ -3,28 +3,40 @@
   <channel>
     <title>Ginny &amp; Georgia Season Alerts</title>
     <description>New season notifications for Ginny &amp; Georgia from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/ginny-georgia.xml</link>
+    <link>https://www.tvmaze.com/shows/47549/ginny-georgia</link>
     <language>en</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/ginny-georgia.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ginny &amp; Georgia — Season 3</title>
-      <description>&lt;p&gt;Premiere: 5 June 2025&lt;br&gt;Finale: 5 June 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/152347/ginny-georgia-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Ginny%20%26%20Georgia%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/152347/ginny-georgia-season-3</guid>
+      <description>Premiere: 5 June 2025
+Finale: 5 June 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/152347/ginny-georgia-season-3</description>
+      <guid isPermaLink="false">seasonfeed:ginny-georgia:s3</guid>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/152347/ginny-georgia-season-3</link>
     </item>
     <item>
       <title>Ginny &amp; Georgia — Season 2</title>
-      <description>&lt;p&gt;Premiere: 5 January 2023&lt;br&gt;Finale: 5 January 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/124610/ginny-georgia-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Ginny%20%26%20Georgia%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/124610/ginny-georgia-season-2</guid>
+      <description>Premiere: 5 January 2023
+Finale: 5 January 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/124610/ginny-georgia-season-2</description>
+      <guid isPermaLink="false">seasonfeed:ginny-georgia:s2</guid>
       <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/124610/ginny-georgia-season-2</link>
     </item>
     <item>
       <title>Ginny &amp; Georgia — Season 1</title>
-      <description>&lt;p&gt;Premiere: 24 February 2021&lt;br&gt;Finale: 24 February 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108811/ginny-georgia-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Ginny%20%26%20Georgia%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108811/ginny-georgia-season-1</guid>
+      <description>Premiere: 24 February 2021
+Finale: 24 February 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/108811/ginny-georgia-season-1</description>
+      <guid isPermaLink="false">seasonfeed:ginny-georgia:s1</guid>
       <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108811/ginny-georgia-season-1</link>
     </item>

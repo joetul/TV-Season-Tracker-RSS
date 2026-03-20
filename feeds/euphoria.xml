@@ -3,28 +3,40 @@
   <channel>
     <title>Euphoria Season Alerts</title>
     <description>New season notifications for Euphoria from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/euphoria.xml</link>
+    <link>https://www.tvmaze.com/shows/28826/euphoria</link>
     <language>en</language>
     <lastBuildDate>Sun, 12 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/euphoria.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Euphoria — Season 3</title>
-      <description>&lt;p&gt;Premiere: 12 April 2026&lt;br&gt;Finale: 31 May 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137777/euphoria-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Euphoria%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137777/euphoria-season-3</guid>
+      <description>Premiere: 12 April 2026
+Finale: 31 May 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/137777/euphoria-season-3</description>
+      <guid isPermaLink="false">seasonfeed:euphoria:s3</guid>
       <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137777/euphoria-season-3</link>
     </item>
     <item>
       <title>Euphoria — Season 2</title>
-      <description>&lt;p&gt;Premiere: 9 January 2022&lt;br&gt;Finale: 27 February 2022&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/104912/euphoria-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Euphoria%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/104912/euphoria-season-2</guid>
+      <description>Premiere: 9 January 2022
+Finale: 27 February 2022
+Episodes: 8
+
+https://www.tvmaze.com/seasons/104912/euphoria-season-2</description>
+      <guid isPermaLink="false">seasonfeed:euphoria:s2</guid>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/104912/euphoria-season-2</link>
     </item>
     <item>
       <title>Euphoria — Season 1</title>
-      <description>&lt;p&gt;Premiere: 16 June 2019&lt;br&gt;Finale: 22 January 2021&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/69306/euphoria-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Euphoria%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/69306/euphoria-season-1</guid>
+      <description>Premiere: 16 June 2019
+Finale: 22 January 2021
+Episodes: 8
+
+https://www.tvmaze.com/seasons/69306/euphoria-season-1</description>
+      <guid isPermaLink="false">seasonfeed:euphoria:s1</guid>
       <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/69306/euphoria-season-1</link>
     </item>

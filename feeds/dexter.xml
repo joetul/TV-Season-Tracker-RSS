@@ -3,63 +3,95 @@
   <channel>
     <title>Dexter Season Alerts</title>
     <description>New season notifications for Dexter from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/dexter.xml</link>
+    <link>https://www.tvmaze.com/shows/161/dexter</link>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jun 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/dexter.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dexter — Season 8</title>
-      <description>&lt;p&gt;Premiere: 30 June 2013&lt;br&gt;Finale: 22 September 2013&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/726/dexter-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/726/dexter-season-8</guid>
+      <description>Premiere: 30 June 2013
+Finale: 22 September 2013
+Episodes: 12
+
+https://www.tvmaze.com/seasons/726/dexter-season-8</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s8</guid>
       <pubDate>Sun, 30 Jun 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/726/dexter-season-8</link>
     </item>
     <item>
       <title>Dexter — Season 7</title>
-      <description>&lt;p&gt;Premiere: 30 September 2012&lt;br&gt;Finale: 16 December 2012&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/725/dexter-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/725/dexter-season-7</guid>
+      <description>Premiere: 30 September 2012
+Finale: 16 December 2012
+Episodes: 12
+
+https://www.tvmaze.com/seasons/725/dexter-season-7</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s7</guid>
       <pubDate>Sun, 30 Sep 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/725/dexter-season-7</link>
     </item>
     <item>
       <title>Dexter — Season 6</title>
-      <description>&lt;p&gt;Premiere: 2 October 2011&lt;br&gt;Finale: 18 December 2011&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/724/dexter-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/724/dexter-season-6</guid>
+      <description>Premiere: 2 October 2011
+Finale: 18 December 2011
+Episodes: 12
+
+https://www.tvmaze.com/seasons/724/dexter-season-6</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s6</guid>
       <pubDate>Sun, 02 Oct 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/724/dexter-season-6</link>
     </item>
     <item>
       <title>Dexter — Season 5</title>
-      <description>&lt;p&gt;Premiere: 26 September 2010&lt;br&gt;Finale: 12 December 2010&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/723/dexter-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/723/dexter-season-5</guid>
+      <description>Premiere: 26 September 2010
+Finale: 12 December 2010
+Episodes: 12
+
+https://www.tvmaze.com/seasons/723/dexter-season-5</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s5</guid>
       <pubDate>Sun, 26 Sep 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/723/dexter-season-5</link>
     </item>
     <item>
       <title>Dexter — Season 4</title>
-      <description>&lt;p&gt;Premiere: 27 September 2009&lt;br&gt;Finale: 13 December 2009&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/722/dexter-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/722/dexter-season-4</guid>
+      <description>Premiere: 27 September 2009
+Finale: 13 December 2009
+Episodes: 12
+
+https://www.tvmaze.com/seasons/722/dexter-season-4</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s4</guid>
       <pubDate>Sun, 27 Sep 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/722/dexter-season-4</link>
     </item>
     <item>
       <title>Dexter — Season 3</title>
-      <description>&lt;p&gt;Premiere: 28 September 2008&lt;br&gt;Finale: 14 December 2008&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/721/dexter-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/721/dexter-season-3</guid>
+      <description>Premiere: 28 September 2008
+Finale: 14 December 2008
+Episodes: 12
+
+https://www.tvmaze.com/seasons/721/dexter-season-3</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s3</guid>
       <pubDate>Sun, 28 Sep 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/721/dexter-season-3</link>
     </item>
     <item>
       <title>Dexter — Season 2</title>
-      <description>&lt;p&gt;Premiere: 30 September 2007&lt;br&gt;Finale: 16 December 2007&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/720/dexter-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/720/dexter-season-2</guid>
+      <description>Premiere: 30 September 2007
+Finale: 16 December 2007
+Episodes: 12
+
+https://www.tvmaze.com/seasons/720/dexter-season-2</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s2</guid>
       <pubDate>Sun, 30 Sep 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/720/dexter-season-2</link>
     </item>
     <item>
       <title>Dexter — Season 1</title>
-      <description>&lt;p&gt;Premiere: 1 October 2006&lt;br&gt;Finale: 17 December 2006&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/719/dexter-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dexter%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/719/dexter-season-1</guid>
+      <description>Premiere: 1 October 2006
+Finale: 17 December 2006
+Episodes: 12
+
+https://www.tvmaze.com/seasons/719/dexter-season-1</description>
+      <guid isPermaLink="false">seasonfeed:dexter:s1</guid>
       <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/719/dexter-season-1</link>
     </item>

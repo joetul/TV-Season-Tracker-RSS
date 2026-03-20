@@ -3,21 +3,29 @@
   <channel>
     <title>Fallout Season Alerts</title>
     <description>New season notifications for Fallout from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/fallout.xml</link>
+    <link>https://www.tvmaze.com/shows/49041/fallout</link>
     <language>en</language>
     <lastBuildDate>Tue, 16 Dec 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/fallout.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fallout — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 December 2025&lt;br&gt;Finale: 3 February 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/167629/fallout-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fallout%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/167629/fallout-season-2</guid>
+      <description>Premiere: 16 December 2025
+Finale: 3 February 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/167629/fallout-season-2</description>
+      <guid isPermaLink="false">seasonfeed:fallout:s2</guid>
       <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/167629/fallout-season-2</link>
     </item>
     <item>
       <title>Fallout — Season 1</title>
-      <description>&lt;p&gt;Premiere: 10 April 2024&lt;br&gt;Finale: 10 April 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/111551/fallout-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fallout%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/111551/fallout-season-1</guid>
+      <description>Premiere: 10 April 2024
+Finale: 10 April 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/111551/fallout-season-1</description>
+      <guid isPermaLink="false">seasonfeed:fallout:s1</guid>
       <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/111551/fallout-season-1</link>
     </item>

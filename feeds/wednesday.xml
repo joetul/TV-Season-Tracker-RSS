@@ -3,21 +3,29 @@
   <channel>
     <title>Wednesday Season Alerts</title>
     <description>New season notifications for Wednesday from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/wednesday.xml</link>
+    <link>https://www.tvmaze.com/shows/53647/wednesday</link>
     <language>en</language>
     <lastBuildDate>Wed, 06 Aug 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/wednesday.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wednesday — Season 2</title>
-      <description>&lt;p&gt;Premiere: 6 August 2025&lt;br&gt;Finale: 3 September 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/147277/wednesday-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Wednesday%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147277/wednesday-season-2</guid>
+      <description>Premiere: 6 August 2025
+Finale: 3 September 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/147277/wednesday-season-2</description>
+      <guid isPermaLink="false">seasonfeed:wednesday:s2</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/147277/wednesday-season-2</link>
     </item>
     <item>
       <title>Wednesday — Season 1</title>
-      <description>&lt;p&gt;Premiere: 23 November 2022&lt;br&gt;Finale: 23 November 2022&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/120562/wednesday-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Wednesday%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/120562/wednesday-season-1</guid>
+      <description>Premiere: 23 November 2022
+Finale: 23 November 2022
+Episodes: 8
+
+https://www.tvmaze.com/seasons/120562/wednesday-season-1</description>
+      <guid isPermaLink="false">seasonfeed:wednesday:s1</guid>
       <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/120562/wednesday-season-1</link>
     </item>

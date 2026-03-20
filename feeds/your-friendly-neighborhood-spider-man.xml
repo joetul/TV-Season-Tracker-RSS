@@ -3,14 +3,18 @@
   <channel>
     <title>Your Friendly Neighborhood Spider-Man Season Alerts</title>
     <description>New season notifications for Your Friendly Neighborhood Spider-Man from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/your-friendly-neighborhood-spider-man.xml</link>
+    <link>https://www.tvmaze.com/shows/58952/your-friendly-neighborhood-spider-man</link>
     <language>en</language>
     <lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/your-friendly-neighborhood-spider-man.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Friendly Neighborhood Spider-Man — Season 1</title>
-      <description>&lt;p&gt;Premiere: 29 January 2025&lt;br&gt;Finale: 19 February 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/131760/your-friendly-neighborhood-spider-man-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Your%20Friendly%20Neighborhood%20Spider-Man%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/131760/your-friendly-neighborhood-spider-man-season-1</guid>
+      <description>Premiere: 29 January 2025
+Finale: 19 February 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/131760/your-friendly-neighborhood-spider-man-season-1</description>
+      <guid isPermaLink="false">seasonfeed:your-friendly-neighborhood-spider-man:s1</guid>
       <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/131760/your-friendly-neighborhood-spider-man-season-1</link>
     </item>

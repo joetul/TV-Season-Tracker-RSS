@@ -3,49 +3,73 @@
   <channel>
     <title>The Sopranos Season Alerts</title>
     <description>New season notifications for The Sopranos from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-sopranos.xml</link>
+    <link>https://www.tvmaze.com/shows/527/the-sopranos</link>
     <language>en</language>
     <lastBuildDate>Sun, 12 Mar 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-sopranos.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sopranos — Season 6</title>
-      <description>&lt;p&gt;Premiere: 12 March 2006&lt;br&gt;Finale: 10 June 2007&lt;br&gt;Episodes: 21&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2101/the-sopranos-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2101/the-sopranos-season-6</guid>
+      <description>Premiere: 12 March 2006
+Finale: 10 June 2007
+Episodes: 21
+
+https://www.tvmaze.com/seasons/2101/the-sopranos-season-6</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s6</guid>
       <pubDate>Sun, 12 Mar 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2101/the-sopranos-season-6</link>
     </item>
     <item>
       <title>The Sopranos — Season 5</title>
-      <description>&lt;p&gt;Premiere: 7 March 2004&lt;br&gt;Finale: 6 June 2004&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2100/the-sopranos-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2100/the-sopranos-season-5</guid>
+      <description>Premiere: 7 March 2004
+Finale: 6 June 2004
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2100/the-sopranos-season-5</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s5</guid>
       <pubDate>Sun, 07 Mar 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2100/the-sopranos-season-5</link>
     </item>
     <item>
       <title>The Sopranos — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 September 2002&lt;br&gt;Finale: 8 December 2002&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2099/the-sopranos-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2099/the-sopranos-season-4</guid>
+      <description>Premiere: 15 September 2002
+Finale: 8 December 2002
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2099/the-sopranos-season-4</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s4</guid>
       <pubDate>Sun, 15 Sep 2002 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2099/the-sopranos-season-4</link>
     </item>
     <item>
       <title>The Sopranos — Season 3</title>
-      <description>&lt;p&gt;Premiere: 4 March 2001&lt;br&gt;Finale: 20 May 2001&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2098/the-sopranos-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2098/the-sopranos-season-3</guid>
+      <description>Premiere: 4 March 2001
+Finale: 20 May 2001
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2098/the-sopranos-season-3</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s3</guid>
       <pubDate>Sun, 04 Mar 2001 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2098/the-sopranos-season-3</link>
     </item>
     <item>
       <title>The Sopranos — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 January 2000&lt;br&gt;Finale: 9 April 2000&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2097/the-sopranos-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2097/the-sopranos-season-2</guid>
+      <description>Premiere: 16 January 2000
+Finale: 9 April 2000
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2097/the-sopranos-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s2</guid>
       <pubDate>Sun, 16 Jan 2000 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2097/the-sopranos-season-2</link>
     </item>
     <item>
       <title>The Sopranos — Season 1</title>
-      <description>&lt;p&gt;Premiere: 10 January 1999&lt;br&gt;Finale: 4 April 1999&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2096/the-sopranos-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Sopranos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2096/the-sopranos-season-1</guid>
+      <description>Premiere: 10 January 1999
+Finale: 4 April 1999
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2096/the-sopranos-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-sopranos:s1</guid>
       <pubDate>Sun, 10 Jan 1999 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2096/the-sopranos-season-1</link>
     </item>

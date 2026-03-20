@@ -3,14 +3,18 @@
   <channel>
     <title>Ripley Season Alerts</title>
     <description>New season notifications for Ripley from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/ripley.xml</link>
+    <link>https://www.tvmaze.com/shows/44042/ripley</link>
     <language>en</language>
     <lastBuildDate>Thu, 04 Apr 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/ripley.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ripley — Season 1</title>
-      <description>&lt;p&gt;Premiere: 4 April 2024&lt;br&gt;Finale: 4 April 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/163352/ripley-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Ripley%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/163352/ripley-season-1</guid>
+      <description>Premiere: 4 April 2024
+Finale: 4 April 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/163352/ripley-season-1</description>
+      <guid isPermaLink="false">seasonfeed:ripley:s1</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/163352/ripley-season-1</link>
     </item>

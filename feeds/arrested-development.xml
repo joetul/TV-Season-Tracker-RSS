@@ -3,42 +3,62 @@
   <channel>
     <title>Arrested Development Season Alerts</title>
     <description>New season notifications for Arrested Development from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/arrested-development.xml</link>
+    <link>https://www.tvmaze.com/shows/321/arrested-development</link>
     <language>en</language>
     <lastBuildDate>Tue, 29 May 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/arrested-development.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrested Development — Season 5</title>
-      <description>&lt;p&gt;Premiere: 29 May 2018&lt;br&gt;Finale: 15 March 2019&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/68232/arrested-development-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrested%20Development%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/68232/arrested-development-season-5</guid>
+      <description>Premiere: 29 May 2018
+Finale: 15 March 2019
+Episodes: 16
+
+https://www.tvmaze.com/seasons/68232/arrested-development-season-5</description>
+      <guid isPermaLink="false">seasonfeed:arrested-development:s5</guid>
       <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/68232/arrested-development-season-5</link>
     </item>
     <item>
       <title>Arrested Development — Season 4</title>
-      <description>&lt;p&gt;Premiere: 26 May 2013&lt;br&gt;Finale: 26 May 2013&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1294/arrested-development-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrested%20Development%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1294/arrested-development-season-4</guid>
+      <description>Premiere: 26 May 2013
+Finale: 26 May 2013
+Episodes: 15
+
+https://www.tvmaze.com/seasons/1294/arrested-development-season-4</description>
+      <guid isPermaLink="false">seasonfeed:arrested-development:s4</guid>
       <pubDate>Sun, 26 May 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1294/arrested-development-season-4</link>
     </item>
     <item>
       <title>Arrested Development — Season 3</title>
-      <description>&lt;p&gt;Premiere: 19 September 2005&lt;br&gt;Finale: 10 February 2006&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1293/arrested-development-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrested%20Development%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1293/arrested-development-season-3</guid>
+      <description>Premiere: 19 September 2005
+Finale: 10 February 2006
+Episodes: 13
+
+https://www.tvmaze.com/seasons/1293/arrested-development-season-3</description>
+      <guid isPermaLink="false">seasonfeed:arrested-development:s3</guid>
       <pubDate>Mon, 19 Sep 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1293/arrested-development-season-3</link>
     </item>
     <item>
       <title>Arrested Development — Season 2</title>
-      <description>&lt;p&gt;Premiere: 7 November 2004&lt;br&gt;Finale: 17 April 2005&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1292/arrested-development-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrested%20Development%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1292/arrested-development-season-2</guid>
+      <description>Premiere: 7 November 2004
+Finale: 17 April 2005
+Episodes: 18
+
+https://www.tvmaze.com/seasons/1292/arrested-development-season-2</description>
+      <guid isPermaLink="false">seasonfeed:arrested-development:s2</guid>
       <pubDate>Sun, 07 Nov 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1292/arrested-development-season-2</link>
     </item>
     <item>
       <title>Arrested Development — Season 1</title>
-      <description>&lt;p&gt;Premiere: 2 November 2003&lt;br&gt;Finale: 6 June 2004&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/1291/arrested-development-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrested%20Development%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/1291/arrested-development-season-1</guid>
+      <description>Premiere: 2 November 2003
+Finale: 6 June 2004
+Episodes: 22
+
+https://www.tvmaze.com/seasons/1291/arrested-development-season-1</description>
+      <guid isPermaLink="false">seasonfeed:arrested-development:s1</guid>
       <pubDate>Sun, 02 Nov 2003 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/1291/arrested-development-season-1</link>
     </item>

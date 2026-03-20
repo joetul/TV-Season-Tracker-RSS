@@ -3,28 +3,40 @@
   <channel>
     <title>Tracker Season Alerts</title>
     <description>New season notifications for Tracker from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/tracker.xml</link>
+    <link>https://www.tvmaze.com/shows/63192/tracker</link>
     <language>en</language>
     <lastBuildDate>Sun, 19 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/tracker.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tracker — Season 3</title>
-      <description>&lt;p&gt;Premiere: 19 October 2025&lt;br&gt;Finale: 12 April 2026&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/186480/tracker-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tracker%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/186480/tracker-season-3</guid>
+      <description>Premiere: 19 October 2025
+Finale: 12 April 2026
+Episodes: 22
+
+https://www.tvmaze.com/seasons/186480/tracker-season-3</description>
+      <guid isPermaLink="false">seasonfeed:tracker:s3</guid>
       <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/186480/tracker-season-3</link>
     </item>
     <item>
       <title>Tracker — Season 2</title>
-      <description>&lt;p&gt;Premiere: 13 October 2024&lt;br&gt;Finale: 11 May 2025&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/166797/tracker-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tracker%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/166797/tracker-season-2</guid>
+      <description>Premiere: 13 October 2024
+Finale: 11 May 2025
+Episodes: 20
+
+https://www.tvmaze.com/seasons/166797/tracker-season-2</description>
+      <guid isPermaLink="false">seasonfeed:tracker:s2</guid>
       <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/166797/tracker-season-2</link>
     </item>
     <item>
       <title>Tracker — Season 1</title>
-      <description>&lt;p&gt;Premiere: 11 February 2024&lt;br&gt;Finale: 19 May 2024&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/140870/tracker-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tracker%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/140870/tracker-season-1</guid>
+      <description>Premiere: 11 February 2024
+Finale: 19 May 2024
+Episodes: 13
+
+https://www.tvmaze.com/seasons/140870/tracker-season-1</description>
+      <guid isPermaLink="false">seasonfeed:tracker:s1</guid>
       <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/140870/tracker-season-1</link>
     </item>

@@ -3,14 +3,18 @@
   <channel>
     <title>Creature Commandos Season Alerts</title>
     <description>New season notifications for Creature Commandos from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/creature-commandos.xml</link>
+    <link>https://www.tvmaze.com/shows/66738/creature-commandos</link>
     <language>en</language>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/creature-commandos.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creature Commandos — Season 1</title>
-      <description>&lt;p&gt;Premiere: 5 December 2024&lt;br&gt;Finale: 9 January 2025&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/148327/creature-commandos-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Creature%20Commandos%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/148327/creature-commandos-season-1</guid>
+      <description>Premiere: 5 December 2024
+Finale: 9 January 2025
+Episodes: 7
+
+https://www.tvmaze.com/seasons/148327/creature-commandos-season-1</description>
+      <guid isPermaLink="false">seasonfeed:creature-commandos:s1</guid>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/148327/creature-commandos-season-1</link>
     </item>

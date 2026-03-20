@@ -3,28 +3,40 @@
   <channel>
     <title>Sweet Tooth Season Alerts</title>
     <description>New season notifications for Sweet Tooth from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/sweet-tooth.xml</link>
+    <link>https://www.tvmaze.com/shows/39764/sweet-tooth</link>
     <language>en</language>
     <lastBuildDate>Thu, 06 Jun 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/sweet-tooth.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sweet Tooth — Season 3</title>
-      <description>&lt;p&gt;Premiere: 6 June 2024&lt;br&gt;Finale: 6 June 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/151794/sweet-tooth-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Sweet%20Tooth%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/151794/sweet-tooth-season-3</guid>
+      <description>Premiere: 6 June 2024
+Finale: 6 June 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/151794/sweet-tooth-season-3</description>
+      <guid isPermaLink="false">seasonfeed:sweet-tooth:s3</guid>
       <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/151794/sweet-tooth-season-3</link>
     </item>
     <item>
       <title>Sweet Tooth — Season 2</title>
-      <description>&lt;p&gt;Premiere: 27 April 2023&lt;br&gt;Finale: 27 April 2023&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/126797/sweet-tooth-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Sweet%20Tooth%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126797/sweet-tooth-season-2</guid>
+      <description>Premiere: 27 April 2023
+Finale: 27 April 2023
+Episodes: 8
+
+https://www.tvmaze.com/seasons/126797/sweet-tooth-season-2</description>
+      <guid isPermaLink="false">seasonfeed:sweet-tooth:s2</guid>
       <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/126797/sweet-tooth-season-2</link>
     </item>
     <item>
       <title>Sweet Tooth — Season 1</title>
-      <description>&lt;p&gt;Premiere: 4 June 2021&lt;br&gt;Finale: 4 June 2021&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/91090/sweet-tooth-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Sweet%20Tooth%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/91090/sweet-tooth-season-1</guid>
+      <description>Premiere: 4 June 2021
+Finale: 4 June 2021
+Episodes: 8
+
+https://www.tvmaze.com/seasons/91090/sweet-tooth-season-1</description>
+      <guid isPermaLink="false">seasonfeed:sweet-tooth:s1</guid>
       <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/91090/sweet-tooth-season-1</link>
     </item>

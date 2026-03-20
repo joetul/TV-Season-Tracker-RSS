@@ -3,42 +3,62 @@
   <channel>
     <title>Only Murders in the Building Season Alerts</title>
     <description>New season notifications for Only Murders in the Building from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/only-murders-in-the-building.xml</link>
+    <link>https://www.tvmaze.com/shows/48830/only-murders-in-the-building</link>
     <language>en</language>
     <lastBuildDate>Tue, 09 Sep 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/only-murders-in-the-building.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Only Murders in the Building — Season 5</title>
-      <description>&lt;p&gt;Premiere: 9 September 2025&lt;br&gt;Finale: 28 October 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/174573/only-murders-in-the-building-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Only%20Murders%20in%20the%20Building%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/174573/only-murders-in-the-building-season-5</guid>
+      <description>Premiere: 9 September 2025
+Finale: 28 October 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/174573/only-murders-in-the-building-season-5</description>
+      <guid isPermaLink="false">seasonfeed:only-murders-in-the-building:s5</guid>
       <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/174573/only-murders-in-the-building-season-5</link>
     </item>
     <item>
       <title>Only Murders in the Building — Season 4</title>
-      <description>&lt;p&gt;Premiere: 27 August 2024&lt;br&gt;Finale: 29 October 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/158163/only-murders-in-the-building-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Only%20Murders%20in%20the%20Building%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/158163/only-murders-in-the-building-season-4</guid>
+      <description>Premiere: 27 August 2024
+Finale: 29 October 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/158163/only-murders-in-the-building-season-4</description>
+      <guid isPermaLink="false">seasonfeed:only-murders-in-the-building:s4</guid>
       <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/158163/only-murders-in-the-building-season-4</link>
     </item>
     <item>
       <title>Only Murders in the Building — Season 3</title>
-      <description>&lt;p&gt;Premiere: 8 August 2023&lt;br&gt;Finale: 3 October 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/140517/only-murders-in-the-building-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Only%20Murders%20in%20the%20Building%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/140517/only-murders-in-the-building-season-3</guid>
+      <description>Premiere: 8 August 2023
+Finale: 3 October 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/140517/only-murders-in-the-building-season-3</description>
+      <guid isPermaLink="false">seasonfeed:only-murders-in-the-building:s3</guid>
       <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/140517/only-murders-in-the-building-season-3</link>
     </item>
     <item>
       <title>Only Murders in the Building — Season 2</title>
-      <description>&lt;p&gt;Premiere: 28 June 2022&lt;br&gt;Finale: 23 August 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/129041/only-murders-in-the-building-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Only%20Murders%20in%20the%20Building%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/129041/only-murders-in-the-building-season-2</guid>
+      <description>Premiere: 28 June 2022
+Finale: 23 August 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/129041/only-murders-in-the-building-season-2</description>
+      <guid isPermaLink="false">seasonfeed:only-murders-in-the-building:s2</guid>
       <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/129041/only-murders-in-the-building-season-2</link>
     </item>
     <item>
       <title>Only Murders in the Building — Season 1</title>
-      <description>&lt;p&gt;Premiere: 31 August 2021&lt;br&gt;Finale: 19 October 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/111201/only-murders-in-the-building-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Only%20Murders%20in%20the%20Building%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/111201/only-murders-in-the-building-season-1</guid>
+      <description>Premiere: 31 August 2021
+Finale: 19 October 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/111201/only-murders-in-the-building-season-1</description>
+      <guid isPermaLink="false">seasonfeed:only-murders-in-the-building:s1</guid>
       <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/111201/only-murders-in-the-building-season-1</link>
     </item>

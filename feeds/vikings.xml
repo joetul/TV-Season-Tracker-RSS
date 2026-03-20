@@ -3,49 +3,73 @@
   <channel>
     <title>Vikings Season Alerts</title>
     <description>New season notifications for Vikings from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/vikings.xml</link>
+    <link>https://www.tvmaze.com/shows/29/vikings</link>
     <language>en</language>
     <lastBuildDate>Wed, 04 Dec 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/vikings.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vikings — Season 6</title>
-      <description>&lt;p&gt;Premiere: 4 December 2019&lt;br&gt;Finale: 5 March 2021&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/92404/vikings-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/92404/vikings-season-6</guid>
+      <description>Premiere: 4 December 2019
+Finale: 5 March 2021
+Episodes: 20
+
+https://www.tvmaze.com/seasons/92404/vikings-season-6</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s6</guid>
       <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/92404/vikings-season-6</link>
     </item>
     <item>
       <title>Vikings — Season 5</title>
-      <description>&lt;p&gt;Premiere: 29 November 2017&lt;br&gt;Finale: 30 January 2019&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/39019/vikings-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/39019/vikings-season-5</guid>
+      <description>Premiere: 29 November 2017
+Finale: 30 January 2019
+Episodes: 20
+
+https://www.tvmaze.com/seasons/39019/vikings-season-5</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s5</guid>
       <pubDate>Wed, 29 Nov 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/39019/vikings-season-5</link>
     </item>
     <item>
       <title>Vikings — Season 4</title>
-      <description>&lt;p&gt;Premiere: 18 February 2016&lt;br&gt;Finale: 1 February 2017&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/29350/vikings-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/29350/vikings-season-4</guid>
+      <description>Premiere: 18 February 2016
+Finale: 1 February 2017
+Episodes: 20
+
+https://www.tvmaze.com/seasons/29350/vikings-season-4</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s4</guid>
       <pubDate>Thu, 18 Feb 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/29350/vikings-season-4</link>
     </item>
     <item>
       <title>Vikings — Season 3</title>
-      <description>&lt;p&gt;Premiere: 19 February 2015&lt;br&gt;Finale: 23 April 2015&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/4191/vikings-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/4191/vikings-season-3</guid>
+      <description>Premiere: 19 February 2015
+Finale: 23 April 2015
+Episodes: 10
+
+https://www.tvmaze.com/seasons/4191/vikings-season-3</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s3</guid>
       <pubDate>Thu, 19 Feb 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/4191/vikings-season-3</link>
     </item>
     <item>
       <title>Vikings — Season 2</title>
-      <description>&lt;p&gt;Premiere: 27 February 2014&lt;br&gt;Finale: 1 May 2014&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/109/vikings-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/109/vikings-season-2</guid>
+      <description>Premiere: 27 February 2014
+Finale: 1 May 2014
+Episodes: 10
+
+https://www.tvmaze.com/seasons/109/vikings-season-2</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s2</guid>
       <pubDate>Thu, 27 Feb 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/109/vikings-season-2</link>
     </item>
     <item>
       <title>Vikings — Season 1</title>
-      <description>&lt;p&gt;Premiere: 3 March 2013&lt;br&gt;Finale: 28 April 2013&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/108/vikings-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/108/vikings-season-1</guid>
+      <description>Premiere: 3 March 2013
+Finale: 28 April 2013
+Episodes: 9
+
+https://www.tvmaze.com/seasons/108/vikings-season-1</description>
+      <guid isPermaLink="false">seasonfeed:vikings:s1</guid>
       <pubDate>Sun, 03 Mar 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/108/vikings-season-1</link>
     </item>

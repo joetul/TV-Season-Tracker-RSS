@@ -3,35 +3,51 @@
   <channel>
     <title>Star Wars: Rebels Season Alerts</title>
     <description>New season notifications for Star Wars: Rebels from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/star-wars-rebels.xml</link>
+    <link>https://www.tvmaze.com/shows/117/star-wars-rebels</link>
     <language>en</language>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/star-wars-rebels.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Wars: Rebels — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 October 2017&lt;br&gt;Finale: 5 March 2018&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/65741/star-wars-rebels-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Rebels%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/65741/star-wars-rebels-season-4</guid>
+      <description>Premiere: 15 October 2017
+Finale: 5 March 2018
+Episodes: 15
+
+https://www.tvmaze.com/seasons/65741/star-wars-rebels-season-4</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-rebels:s4</guid>
       <pubDate>Sun, 15 Oct 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/65741/star-wars-rebels-season-4</link>
     </item>
     <item>
       <title>Star Wars: Rebels — Season 3</title>
-      <description>&lt;p&gt;Premiere: 24 September 2016&lt;br&gt;Finale: 25 March 2017&lt;br&gt;Episodes: 21&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/50119/star-wars-rebels-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Rebels%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/50119/star-wars-rebels-season-3</guid>
+      <description>Premiere: 24 September 2016
+Finale: 25 March 2017
+Episodes: 21
+
+https://www.tvmaze.com/seasons/50119/star-wars-rebels-season-3</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-rebels:s3</guid>
       <pubDate>Sat, 24 Sep 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/50119/star-wars-rebels-season-3</link>
     </item>
     <item>
       <title>Star Wars: Rebels — Season 2</title>
-      <description>&lt;p&gt;Premiere: 20 June 2015&lt;br&gt;Finale: 30 March 2016&lt;br&gt;Episodes: 20&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/7516/star-wars-rebels-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Rebels%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7516/star-wars-rebels-season-2</guid>
+      <description>Premiere: 20 June 2015
+Finale: 30 March 2016
+Episodes: 20
+
+https://www.tvmaze.com/seasons/7516/star-wars-rebels-season-2</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-rebels:s2</guid>
       <pubDate>Sat, 20 Jun 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/7516/star-wars-rebels-season-2</link>
     </item>
     <item>
       <title>Star Wars: Rebels — Season 1</title>
-      <description>&lt;p&gt;Premiere: 29 September 2014&lt;br&gt;Finale: 2 March 2015&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/553/star-wars-rebels-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20Rebels%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/553/star-wars-rebels-season-1</guid>
+      <description>Premiere: 29 September 2014
+Finale: 2 March 2015
+Episodes: 13
+
+https://www.tvmaze.com/seasons/553/star-wars-rebels-season-1</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-rebels:s1</guid>
       <pubDate>Mon, 29 Sep 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/553/star-wars-rebels-season-1</link>
     </item>

@@ -3,63 +3,95 @@
   <channel>
     <title>Homeland Season Alerts</title>
     <description>New season notifications for Homeland from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/homeland.xml</link>
+    <link>https://www.tvmaze.com/shows/7/homeland</link>
     <language>en</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/homeland.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homeland — Season 8</title>
-      <description>&lt;p&gt;Premiere: 9 February 2020&lt;br&gt;Finale: 26 April 2020&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/78281/homeland-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/78281/homeland-season-8</guid>
+      <description>Premiere: 9 February 2020
+Finale: 26 April 2020
+Episodes: 12
+
+https://www.tvmaze.com/seasons/78281/homeland-season-8</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s8</guid>
       <pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/78281/homeland-season-8</link>
     </item>
     <item>
       <title>Homeland — Season 7</title>
-      <description>&lt;p&gt;Premiere: 11 February 2018&lt;br&gt;Finale: 29 April 2018&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/78280/homeland-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/78280/homeland-season-7</guid>
+      <description>Premiere: 11 February 2018
+Finale: 29 April 2018
+Episodes: 12
+
+https://www.tvmaze.com/seasons/78280/homeland-season-7</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s7</guid>
       <pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/78280/homeland-season-7</link>
     </item>
     <item>
       <title>Homeland — Season 6</title>
-      <description>&lt;p&gt;Premiere: 15 January 2017&lt;br&gt;Finale: 9 April 2017&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/46737/homeland-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/46737/homeland-season-6</guid>
+      <description>Premiere: 15 January 2017
+Finale: 9 April 2017
+Episodes: 12
+
+https://www.tvmaze.com/seasons/46737/homeland-season-6</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s6</guid>
       <pubDate>Sun, 15 Jan 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/46737/homeland-season-6</link>
     </item>
     <item>
       <title>Homeland — Season 5</title>
-      <description>&lt;p&gt;Premiere: 4 October 2015&lt;br&gt;Finale: 20 December 2015&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/8902/homeland-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/8902/homeland-season-5</guid>
+      <description>Premiere: 4 October 2015
+Finale: 20 December 2015
+Episodes: 12
+
+https://www.tvmaze.com/seasons/8902/homeland-season-5</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s5</guid>
       <pubDate>Sun, 04 Oct 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/8902/homeland-season-5</link>
     </item>
     <item>
       <title>Homeland — Season 4</title>
-      <description>&lt;p&gt;Premiere: 5 October 2014&lt;br&gt;Finale: 21 December 2014&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/17/homeland-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/17/homeland-season-4</guid>
+      <description>Premiere: 5 October 2014
+Finale: 21 December 2014
+Episodes: 12
+
+https://www.tvmaze.com/seasons/17/homeland-season-4</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s4</guid>
       <pubDate>Sun, 05 Oct 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/17/homeland-season-4</link>
     </item>
     <item>
       <title>Homeland — Season 3</title>
-      <description>&lt;p&gt;Premiere: 29 September 2013&lt;br&gt;Finale: 15 December 2013&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/16/homeland-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/16/homeland-season-3</guid>
+      <description>Premiere: 29 September 2013
+Finale: 15 December 2013
+Episodes: 12
+
+https://www.tvmaze.com/seasons/16/homeland-season-3</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s3</guid>
       <pubDate>Sun, 29 Sep 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/16/homeland-season-3</link>
     </item>
     <item>
       <title>Homeland — Season 2</title>
-      <description>&lt;p&gt;Premiere: 30 September 2012&lt;br&gt;Finale: 16 December 2012&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/15/homeland-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/15/homeland-season-2</guid>
+      <description>Premiere: 30 September 2012
+Finale: 16 December 2012
+Episodes: 12
+
+https://www.tvmaze.com/seasons/15/homeland-season-2</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s2</guid>
       <pubDate>Sun, 30 Sep 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/15/homeland-season-2</link>
     </item>
     <item>
       <title>Homeland — Season 1</title>
-      <description>&lt;p&gt;Premiere: 2 October 2011&lt;br&gt;Finale: 18 December 2011&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/14/homeland-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Homeland%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/14/homeland-season-1</guid>
+      <description>Premiere: 2 October 2011
+Finale: 18 December 2011
+Episodes: 12
+
+https://www.tvmaze.com/seasons/14/homeland-season-1</description>
+      <guid isPermaLink="false">seasonfeed:homeland:s1</guid>
       <pubDate>Sun, 02 Oct 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/14/homeland-season-1</link>
     </item>

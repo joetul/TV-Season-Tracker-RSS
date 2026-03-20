@@ -3,21 +3,29 @@
   <channel>
     <title>BEEF Season Alerts</title>
     <description>New season notifications for BEEF from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/beef.xml</link>
+    <link>https://www.tvmaze.com/shows/54285/beef</link>
     <language>en</language>
     <lastBuildDate>Thu, 16 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/beef.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BEEF — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 April 2026&lt;br&gt;Finale: 16 April 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/176376/beef-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=BEEF%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/176376/beef-season-2</guid>
+      <description>Premiere: 16 April 2026
+Finale: 16 April 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/176376/beef-season-2</description>
+      <guid isPermaLink="false">seasonfeed:beef:s2</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/176376/beef-season-2</link>
     </item>
     <item>
       <title>BEEF — Season 1</title>
-      <description>&lt;p&gt;Premiere: 6 April 2023&lt;br&gt;Finale: 6 April 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/121844/beef-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=BEEF%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/121844/beef-season-1</guid>
+      <description>Premiere: 6 April 2023
+Finale: 6 April 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/121844/beef-season-1</description>
+      <guid isPermaLink="false">seasonfeed:beef:s1</guid>
       <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/121844/beef-season-1</link>
     </item>

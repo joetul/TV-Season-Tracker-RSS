@@ -3,21 +3,29 @@
   <channel>
     <title>Paradise Season Alerts</title>
     <description>New season notifications for Paradise from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/paradise.xml</link>
+    <link>https://www.tvmaze.com/shows/75030/paradise</link>
     <language>en</language>
     <lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/paradise.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paradise — Season 2</title>
-      <description>&lt;p&gt;Premiere: 23 February 2026&lt;br&gt;Finale: 30 March 2026&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/182515/paradise-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Paradise%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/182515/paradise-season-2</guid>
+      <description>Premiere: 23 February 2026
+Finale: 30 March 2026
+Episodes: 8
+
+https://www.tvmaze.com/seasons/182515/paradise-season-2</description>
+      <guid isPermaLink="false">seasonfeed:paradise:s2</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/182515/paradise-season-2</link>
     </item>
     <item>
       <title>Paradise — Season 1</title>
-      <description>&lt;p&gt;Premiere: 26 January 2025&lt;br&gt;Finale: 4 March 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/165018/paradise-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Paradise%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/165018/paradise-season-1</guid>
+      <description>Premiere: 26 January 2025
+Finale: 4 March 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/165018/paradise-season-1</description>
+      <guid isPermaLink="false">seasonfeed:paradise:s1</guid>
       <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/165018/paradise-season-1</link>
     </item>

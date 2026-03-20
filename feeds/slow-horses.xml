@@ -3,42 +3,62 @@
   <channel>
     <title>Slow Horses Season Alerts</title>
     <description>New season notifications for Slow Horses from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/slow-horses.xml</link>
+    <link>https://www.tvmaze.com/shows/45039/slow-horses</link>
     <language>en</language>
     <lastBuildDate>Wed, 24 Sep 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/slow-horses.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slow Horses — Season 5</title>
-      <description>&lt;p&gt;Premiere: 24 September 2025&lt;br&gt;Finale: 29 October 2025&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/176122/slow-horses-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Slow%20Horses%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/176122/slow-horses-season-5</guid>
+      <description>Premiere: 24 September 2025
+Finale: 29 October 2025
+Episodes: 6
+
+https://www.tvmaze.com/seasons/176122/slow-horses-season-5</description>
+      <guid isPermaLink="false">seasonfeed:slow-horses:s5</guid>
       <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/176122/slow-horses-season-5</link>
     </item>
     <item>
       <title>Slow Horses — Season 4</title>
-      <description>&lt;p&gt;Premiere: 4 September 2024&lt;br&gt;Finale: 9 October 2024&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/162083/slow-horses-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Slow%20Horses%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/162083/slow-horses-season-4</guid>
+      <description>Premiere: 4 September 2024
+Finale: 9 October 2024
+Episodes: 6
+
+https://www.tvmaze.com/seasons/162083/slow-horses-season-4</description>
+      <guid isPermaLink="false">seasonfeed:slow-horses:s4</guid>
       <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/162083/slow-horses-season-4</link>
     </item>
     <item>
       <title>Slow Horses — Season 3</title>
-      <description>&lt;p&gt;Premiere: 29 November 2023&lt;br&gt;Finale: 27 December 2023&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/153148/slow-horses-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Slow%20Horses%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/153148/slow-horses-season-3</guid>
+      <description>Premiere: 29 November 2023
+Finale: 27 December 2023
+Episodes: 6
+
+https://www.tvmaze.com/seasons/153148/slow-horses-season-3</description>
+      <guid isPermaLink="false">seasonfeed:slow-horses:s3</guid>
       <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/153148/slow-horses-season-3</link>
     </item>
     <item>
       <title>Slow Horses — Season 2</title>
-      <description>&lt;p&gt;Premiere: 2 December 2022&lt;br&gt;Finale: 30 December 2022&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/139140/slow-horses-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Slow%20Horses%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/139140/slow-horses-season-2</guid>
+      <description>Premiere: 2 December 2022
+Finale: 30 December 2022
+Episodes: 6
+
+https://www.tvmaze.com/seasons/139140/slow-horses-season-2</description>
+      <guid isPermaLink="false">seasonfeed:slow-horses:s2</guid>
       <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/139140/slow-horses-season-2</link>
     </item>
     <item>
       <title>Slow Horses — Season 1</title>
-      <description>&lt;p&gt;Premiere: 1 April 2022&lt;br&gt;Finale: 29 April 2022&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/102829/slow-horses-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Slow%20Horses%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/102829/slow-horses-season-1</guid>
+      <description>Premiere: 1 April 2022
+Finale: 29 April 2022
+Episodes: 6
+
+https://www.tvmaze.com/seasons/102829/slow-horses-season-1</description>
+      <guid isPermaLink="false">seasonfeed:slow-horses:s1</guid>
       <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/102829/slow-horses-season-1</link>
     </item>

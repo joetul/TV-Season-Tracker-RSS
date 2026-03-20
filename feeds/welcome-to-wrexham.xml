@@ -3,35 +3,51 @@
   <channel>
     <title>Welcome to Wrexham Season Alerts</title>
     <description>New season notifications for Welcome to Wrexham from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/welcome-to-wrexham.xml</link>
+    <link>https://www.tvmaze.com/shows/55536/welcome-to-wrexham</link>
     <language>en</language>
     <lastBuildDate>Thu, 15 May 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/welcome-to-wrexham.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Wrexham — Season 4</title>
-      <description>&lt;p&gt;Premiere: 15 May 2025&lt;br&gt;Finale: 26 June 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/169368/welcome-to-wrexham-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Welcome%20to%20Wrexham%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/169368/welcome-to-wrexham-season-4</guid>
+      <description>Premiere: 15 May 2025
+Finale: 26 June 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/169368/welcome-to-wrexham-season-4</description>
+      <guid isPermaLink="false">seasonfeed:welcome-to-wrexham:s4</guid>
       <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/169368/welcome-to-wrexham-season-4</link>
     </item>
     <item>
       <title>Welcome to Wrexham — Season 3</title>
-      <description>&lt;p&gt;Premiere: 2 May 2024&lt;br&gt;Finale: 13 June 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/160050/welcome-to-wrexham-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Welcome%20to%20Wrexham%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/160050/welcome-to-wrexham-season-3</guid>
+      <description>Premiere: 2 May 2024
+Finale: 13 June 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/160050/welcome-to-wrexham-season-3</description>
+      <guid isPermaLink="false">seasonfeed:welcome-to-wrexham:s3</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/160050/welcome-to-wrexham-season-3</link>
     </item>
     <item>
       <title>Welcome to Wrexham — Season 2</title>
-      <description>&lt;p&gt;Premiere: 12 September 2023&lt;br&gt;Finale: 14 November 2023&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/147254/welcome-to-wrexham-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Welcome%20to%20Wrexham%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147254/welcome-to-wrexham-season-2</guid>
+      <description>Premiere: 12 September 2023
+Finale: 14 November 2023
+Episodes: 15
+
+https://www.tvmaze.com/seasons/147254/welcome-to-wrexham-season-2</description>
+      <guid isPermaLink="false">seasonfeed:welcome-to-wrexham:s2</guid>
       <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/147254/welcome-to-wrexham-season-2</link>
     </item>
     <item>
       <title>Welcome to Wrexham — Season 1</title>
-      <description>&lt;p&gt;Premiere: 24 August 2022&lt;br&gt;Finale: 12 October 2022&lt;br&gt;Episodes: 18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/124486/welcome-to-wrexham-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Welcome%20to%20Wrexham%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/124486/welcome-to-wrexham-season-1</guid>
+      <description>Premiere: 24 August 2022
+Finale: 12 October 2022
+Episodes: 18
+
+https://www.tvmaze.com/seasons/124486/welcome-to-wrexham-season-1</description>
+      <guid isPermaLink="false">seasonfeed:welcome-to-wrexham:s1</guid>
       <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/124486/welcome-to-wrexham-season-1</link>
     </item>

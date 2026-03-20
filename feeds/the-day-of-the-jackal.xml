@@ -3,14 +3,18 @@
   <channel>
     <title>The Day of the Jackal Season Alerts</title>
     <description>New season notifications for The Day of the Jackal from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-day-of-the-jackal.xml</link>
+    <link>https://www.tvmaze.com/shows/64977/the-day-of-the-jackal</link>
     <language>en</language>
     <lastBuildDate>Thu, 07 Nov 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-day-of-the-jackal.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Day of the Jackal — Season 1</title>
-      <description>&lt;p&gt;Premiere: 7 November 2024&lt;br&gt;Finale: 12 December 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/144510/the-day-of-the-jackal-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Day%20of%20the%20Jackal%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/144510/the-day-of-the-jackal-season-1</guid>
+      <description>Premiere: 7 November 2024
+Finale: 12 December 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/144510/the-day-of-the-jackal-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-day-of-the-jackal:s1</guid>
       <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/144510/the-day-of-the-jackal-season-1</link>
     </item>

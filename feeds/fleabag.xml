@@ -3,21 +3,29 @@
   <channel>
     <title>Fleabag Season Alerts</title>
     <description>New season notifications for Fleabag from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/fleabag.xml</link>
+    <link>https://www.tvmaze.com/shows/16149/fleabag</link>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/fleabag.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fleabag — Season 2</title>
-      <description>&lt;p&gt;Premiere: 4 March 2019&lt;br&gt;Finale: 8 April 2019&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/73899/fleabag-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fleabag%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/73899/fleabag-season-2</guid>
+      <description>Premiere: 4 March 2019
+Finale: 8 April 2019
+Episodes: 6
+
+https://www.tvmaze.com/seasons/73899/fleabag-season-2</description>
+      <guid isPermaLink="false">seasonfeed:fleabag:s2</guid>
       <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/73899/fleabag-season-2</link>
     </item>
     <item>
       <title>Fleabag — Season 1</title>
-      <description>&lt;p&gt;Premiere: 21 July 2016&lt;br&gt;Finale: 25 August 2016&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/42742/fleabag-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Fleabag%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/42742/fleabag-season-1</guid>
+      <description>Premiere: 21 July 2016
+Finale: 25 August 2016
+Episodes: 6
+
+https://www.tvmaze.com/seasons/42742/fleabag-season-1</description>
+      <guid isPermaLink="false">seasonfeed:fleabag:s1</guid>
       <pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/42742/fleabag-season-1</link>
     </item>

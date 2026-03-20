@@ -3,21 +3,29 @@
   <channel>
     <title>Twisted Metal Season Alerts</title>
     <description>New season notifications for Twisted Metal from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/twisted-metal.xml</link>
+    <link>https://www.tvmaze.com/shows/60743/twisted-metal</link>
     <language>en</language>
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/twisted-metal.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twisted Metal — Season 2</title>
-      <description>&lt;p&gt;Premiere: 31 July 2025&lt;br&gt;Finale: 28 August 2025&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/161274/twisted-metal-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Twisted%20Metal%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/161274/twisted-metal-season-2</guid>
+      <description>Premiere: 31 July 2025
+Finale: 28 August 2025
+Episodes: 12
+
+https://www.tvmaze.com/seasons/161274/twisted-metal-season-2</description>
+      <guid isPermaLink="false">seasonfeed:twisted-metal:s2</guid>
       <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/161274/twisted-metal-season-2</link>
     </item>
     <item>
       <title>Twisted Metal — Season 1</title>
-      <description>&lt;p&gt;Premiere: 27 July 2023&lt;br&gt;Finale: 27 July 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135827/twisted-metal-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Twisted%20Metal%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135827/twisted-metal-season-1</guid>
+      <description>Premiere: 27 July 2023
+Finale: 27 July 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/135827/twisted-metal-season-1</description>
+      <guid isPermaLink="false">seasonfeed:twisted-metal:s1</guid>
       <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135827/twisted-metal-season-1</link>
     </item>

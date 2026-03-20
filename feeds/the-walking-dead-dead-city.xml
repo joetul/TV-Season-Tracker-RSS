@@ -3,21 +3,29 @@
   <channel>
     <title>The Walking Dead: Dead City Season Alerts</title>
     <description>New season notifications for The Walking Dead: Dead City from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-walking-dead-dead-city.xml</link>
+    <link>https://www.tvmaze.com/shows/60879/the-walking-dead-dead-city</link>
     <language>en</language>
     <lastBuildDate>Sun, 04 May 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-walking-dead-dead-city.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Walking Dead: Dead City — Season 2</title>
-      <description>&lt;p&gt;Premiere: 4 May 2025&lt;br&gt;Finale: 22 June 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/154826/the-walking-dead-dead-city-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Walking%20Dead%3A%20Dead%20City%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/154826/the-walking-dead-dead-city-season-2</guid>
+      <description>Premiere: 4 May 2025
+Finale: 22 June 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/154826/the-walking-dead-dead-city-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-walking-dead-dead-city:s2</guid>
       <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/154826/the-walking-dead-dead-city-season-2</link>
     </item>
     <item>
       <title>The Walking Dead: Dead City — Season 1</title>
-      <description>&lt;p&gt;Premiere: 15 June 2023&lt;br&gt;Finale: 20 July 2023&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/136084/the-walking-dead-dead-city-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Walking%20Dead%3A%20Dead%20City%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/136084/the-walking-dead-dead-city-season-1</guid>
+      <description>Premiere: 15 June 2023
+Finale: 20 July 2023
+Episodes: 6
+
+https://www.tvmaze.com/seasons/136084/the-walking-dead-dead-city-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-walking-dead-dead-city:s1</guid>
       <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/136084/the-walking-dead-dead-city-season-1</link>
     </item>

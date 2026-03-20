@@ -3,21 +3,29 @@
   <channel>
     <title>1923 Season Alerts</title>
     <description>New season notifications for 1923 from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/1923.xml</link>
+    <link>https://www.tvmaze.com/shows/60550/1923</link>
     <language>en</language>
     <lastBuildDate>Sun, 23 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/1923.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1923 — Season 2</title>
-      <description>&lt;p&gt;Premiere: 23 February 2025&lt;br&gt;Finale: 6 April 2025&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/149252/1923-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=1923%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/149252/1923-season-2</guid>
+      <description>Premiere: 23 February 2025
+Finale: 6 April 2025
+Episodes: 7
+
+https://www.tvmaze.com/seasons/149252/1923-season-2</description>
+      <guid isPermaLink="false">seasonfeed:1923:s2</guid>
       <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/149252/1923-season-2</link>
     </item>
     <item>
       <title>1923 — Season 1</title>
-      <description>&lt;p&gt;Premiere: 18 December 2022&lt;br&gt;Finale: 26 February 2023&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135433/1923-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=1923%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135433/1923-season-1</guid>
+      <description>Premiere: 18 December 2022
+Finale: 26 February 2023
+Episodes: 8
+
+https://www.tvmaze.com/seasons/135433/1923-season-1</description>
+      <guid isPermaLink="false">seasonfeed:1923:s1</guid>
       <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135433/1923-season-1</link>
     </item>

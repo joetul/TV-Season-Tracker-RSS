@@ -3,28 +3,40 @@
   <channel>
     <title>Vikings: Valhalla Season Alerts</title>
     <description>New season notifications for Vikings: Valhalla from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/vikings-valhalla.xml</link>
+    <link>https://www.tvmaze.com/shows/45121/vikings-valhalla</link>
     <language>en</language>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/vikings-valhalla.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vikings: Valhalla — Season 3</title>
-      <description>&lt;p&gt;Premiere: 11 July 2024&lt;br&gt;Finale: 11 July 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/141515/vikings-valhalla-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%3A%20Valhalla%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/141515/vikings-valhalla-season-3</guid>
+      <description>Premiere: 11 July 2024
+Finale: 11 July 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/141515/vikings-valhalla-season-3</description>
+      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s3</guid>
       <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/141515/vikings-valhalla-season-3</link>
     </item>
     <item>
       <title>Vikings: Valhalla — Season 2</title>
-      <description>&lt;p&gt;Premiere: 12 January 2023&lt;br&gt;Finale: 12 January 2023&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135734/vikings-valhalla-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%3A%20Valhalla%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135734/vikings-valhalla-season-2</guid>
+      <description>Premiere: 12 January 2023
+Finale: 12 January 2023
+Episodes: 8
+
+https://www.tvmaze.com/seasons/135734/vikings-valhalla-season-2</description>
+      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s2</guid>
       <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135734/vikings-valhalla-season-2</link>
     </item>
     <item>
       <title>Vikings: Valhalla — Season 1</title>
-      <description>&lt;p&gt;Premiere: 25 February 2022&lt;br&gt;Finale: 25 February 2022&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/102987/vikings-valhalla-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Vikings%3A%20Valhalla%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/102987/vikings-valhalla-season-1</guid>
+      <description>Premiere: 25 February 2022
+Finale: 25 February 2022
+Episodes: 8
+
+https://www.tvmaze.com/seasons/102987/vikings-valhalla-season-1</description>
+      <guid isPermaLink="false">seasonfeed:vikings-valhalla:s1</guid>
       <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/102987/vikings-valhalla-season-1</link>
     </item>

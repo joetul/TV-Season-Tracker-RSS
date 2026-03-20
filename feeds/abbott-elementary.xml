@@ -3,42 +3,62 @@
   <channel>
     <title>Abbott Elementary Season Alerts</title>
     <description>New season notifications for Abbott Elementary from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/abbott-elementary.xml</link>
+    <link>https://www.tvmaze.com/shows/55350/abbott-elementary</link>
     <language>en</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/abbott-elementary.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abbott Elementary — Season 5</title>
-      <description>&lt;p&gt;Premiere: 1 October 2025&lt;br&gt;Finale: 1 April 2026&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/186528/abbott-elementary-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Abbott%20Elementary%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/186528/abbott-elementary-season-5</guid>
+      <description>Premiere: 1 October 2025
+Finale: 1 April 2026
+Episodes: 22
+
+https://www.tvmaze.com/seasons/186528/abbott-elementary-season-5</description>
+      <guid isPermaLink="false">seasonfeed:abbott-elementary:s5</guid>
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/186528/abbott-elementary-season-5</link>
     </item>
     <item>
       <title>Abbott Elementary — Season 4</title>
-      <description>&lt;p&gt;Premiere: 9 October 2024&lt;br&gt;Finale: 16 April 2025&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/165735/abbott-elementary-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Abbott%20Elementary%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/165735/abbott-elementary-season-4</guid>
+      <description>Premiere: 9 October 2024
+Finale: 16 April 2025
+Episodes: 22
+
+https://www.tvmaze.com/seasons/165735/abbott-elementary-season-4</description>
+      <guid isPermaLink="false">seasonfeed:abbott-elementary:s4</guid>
       <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/165735/abbott-elementary-season-4</link>
     </item>
     <item>
       <title>Abbott Elementary — Season 3</title>
-      <description>&lt;p&gt;Premiere: 7 February 2024&lt;br&gt;Finale: 22 May 2024&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/147516/abbott-elementary-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Abbott%20Elementary%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147516/abbott-elementary-season-3</guid>
+      <description>Premiere: 7 February 2024
+Finale: 22 May 2024
+Episodes: 14
+
+https://www.tvmaze.com/seasons/147516/abbott-elementary-season-3</description>
+      <guid isPermaLink="false">seasonfeed:abbott-elementary:s3</guid>
       <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/147516/abbott-elementary-season-3</link>
     </item>
     <item>
       <title>Abbott Elementary — Season 2</title>
-      <description>&lt;p&gt;Premiere: 21 September 2022&lt;br&gt;Finale: 19 April 2023&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/137473/abbott-elementary-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Abbott%20Elementary%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/137473/abbott-elementary-season-2</guid>
+      <description>Premiere: 21 September 2022
+Finale: 19 April 2023
+Episodes: 22
+
+https://www.tvmaze.com/seasons/137473/abbott-elementary-season-2</description>
+      <guid isPermaLink="false">seasonfeed:abbott-elementary:s2</guid>
       <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/137473/abbott-elementary-season-2</link>
     </item>
     <item>
       <title>Abbott Elementary — Season 1</title>
-      <description>&lt;p&gt;Premiere: 7 December 2021&lt;br&gt;Finale: 12 April 2022&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/124061/abbott-elementary-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Abbott%20Elementary%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/124061/abbott-elementary-season-1</guid>
+      <description>Premiere: 7 December 2021
+Finale: 12 April 2022
+Episodes: 13
+
+https://www.tvmaze.com/seasons/124061/abbott-elementary-season-1</description>
+      <guid isPermaLink="false">seasonfeed:abbott-elementary:s1</guid>
       <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/124061/abbott-elementary-season-1</link>
     </item>

@@ -3,21 +3,29 @@
   <channel>
     <title>The Night Manager Season Alerts</title>
     <description>New season notifications for The Night Manager from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-night-manager.xml</link>
+    <link>https://www.tvmaze.com/shows/2285/the-night-manager</link>
     <language>en</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-night-manager.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Night Manager — Season 2</title>
-      <description>&lt;p&gt;Premiere: 1 January 2026&lt;br&gt;Finale: 1 February 2026&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/161945/the-night-manager-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Night%20Manager%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/161945/the-night-manager-season-2</guid>
+      <description>Premiere: 1 January 2026
+Finale: 1 February 2026
+Episodes: 6
+
+https://www.tvmaze.com/seasons/161945/the-night-manager-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-night-manager:s2</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/161945/the-night-manager-season-2</link>
     </item>
     <item>
       <title>The Night Manager — Season 1</title>
-      <description>&lt;p&gt;Premiere: 21 February 2016&lt;br&gt;Finale: 27 March 2016&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/8003/the-night-manager-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Night%20Manager%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/8003/the-night-manager-season-1</guid>
+      <description>Premiere: 21 February 2016
+Finale: 27 March 2016
+Episodes: 6
+
+https://www.tvmaze.com/seasons/8003/the-night-manager-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-night-manager:s1</guid>
       <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/8003/the-night-manager-season-1</link>
     </item>

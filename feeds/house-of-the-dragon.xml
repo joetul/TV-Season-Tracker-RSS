@@ -3,21 +3,29 @@
   <channel>
     <title>House of the Dragon Season Alerts</title>
     <description>New season notifications for House of the Dragon from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/house-of-the-dragon.xml</link>
+    <link>https://www.tvmaze.com/shows/44778/house-of-the-dragon</link>
     <language>en</language>
     <lastBuildDate>Sun, 16 Jun 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/house-of-the-dragon.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>House of the Dragon — Season 2</title>
-      <description>&lt;p&gt;Premiere: 16 June 2024&lt;br&gt;Finale: 4 August 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/142069/house-of-the-dragon-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=House%20of%20the%20Dragon%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/142069/house-of-the-dragon-season-2</guid>
+      <description>Premiere: 16 June 2024
+Finale: 4 August 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/142069/house-of-the-dragon-season-2</description>
+      <guid isPermaLink="false">seasonfeed:house-of-the-dragon:s2</guid>
       <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/142069/house-of-the-dragon-season-2</link>
     </item>
     <item>
       <title>House of the Dragon — Season 1</title>
-      <description>&lt;p&gt;Premiere: 21 August 2022&lt;br&gt;Finale: 23 October 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/102306/house-of-the-dragon-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=House%20of%20the%20Dragon%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/102306/house-of-the-dragon-season-1</guid>
+      <description>Premiere: 21 August 2022
+Finale: 23 October 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/102306/house-of-the-dragon-season-1</description>
+      <guid isPermaLink="false">seasonfeed:house-of-the-dragon:s1</guid>
       <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/102306/house-of-the-dragon-season-1</link>
     </item>

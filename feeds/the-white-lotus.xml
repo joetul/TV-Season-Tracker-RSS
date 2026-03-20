@@ -3,28 +3,40 @@
   <channel>
     <title>The White Lotus Season Alerts</title>
     <description>New season notifications for The White Lotus from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-white-lotus.xml</link>
+    <link>https://www.tvmaze.com/shows/51394/the-white-lotus</link>
     <language>en</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-white-lotus.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The White Lotus — Season 3</title>
-      <description>&lt;p&gt;Premiere: 16 February 2025&lt;br&gt;Finale: 6 April 2025&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/145125/the-white-lotus-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20White%20Lotus%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/145125/the-white-lotus-season-3</guid>
+      <description>Premiere: 16 February 2025
+Finale: 6 April 2025
+Episodes: 8
+
+https://www.tvmaze.com/seasons/145125/the-white-lotus-season-3</description>
+      <guid isPermaLink="false">seasonfeed:the-white-lotus:s3</guid>
       <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/145125/the-white-lotus-season-3</link>
     </item>
     <item>
       <title>The White Lotus — Season 2</title>
-      <description>&lt;p&gt;Premiere: 30 October 2022&lt;br&gt;Finale: 11 December 2022&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/133728/the-white-lotus-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20White%20Lotus%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/133728/the-white-lotus-season-2</guid>
+      <description>Premiere: 30 October 2022
+Finale: 11 December 2022
+Episodes: 7
+
+https://www.tvmaze.com/seasons/133728/the-white-lotus-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-white-lotus:s2</guid>
       <pubDate>Sun, 30 Oct 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/133728/the-white-lotus-season-2</link>
     </item>
     <item>
       <title>The White Lotus — Season 1</title>
-      <description>&lt;p&gt;Premiere: 11 July 2021&lt;br&gt;Finale: 15 August 2021&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/115709/the-white-lotus-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20White%20Lotus%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/115709/the-white-lotus-season-1</guid>
+      <description>Premiere: 11 July 2021
+Finale: 15 August 2021
+Episodes: 6
+
+https://www.tvmaze.com/seasons/115709/the-white-lotus-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-white-lotus:s1</guid>
       <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/115709/the-white-lotus-season-1</link>
     </item>

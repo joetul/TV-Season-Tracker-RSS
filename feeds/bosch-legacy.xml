@@ -3,28 +3,40 @@
   <channel>
     <title>Bosch: Legacy Season Alerts</title>
     <description>New season notifications for Bosch: Legacy from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/bosch-legacy.xml</link>
+    <link>https://www.tvmaze.com/shows/60175/bosch-legacy</link>
     <language>en</language>
     <lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/bosch-legacy.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bosch: Legacy — Season 3</title>
-      <description>&lt;p&gt;Premiere: 27 March 2025&lt;br&gt;Finale: 17 April 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/151707/bosch-legacy-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bosch%3A%20Legacy%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/151707/bosch-legacy-season-3</guid>
+      <description>Premiere: 27 March 2025
+Finale: 17 April 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/151707/bosch-legacy-season-3</description>
+      <guid isPermaLink="false">seasonfeed:bosch-legacy:s3</guid>
       <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/151707/bosch-legacy-season-3</link>
     </item>
     <item>
       <title>Bosch: Legacy — Season 2</title>
-      <description>&lt;p&gt;Premiere: 20 October 2023&lt;br&gt;Finale: 10 November 2023&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/138923/bosch-legacy-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bosch%3A%20Legacy%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/138923/bosch-legacy-season-2</guid>
+      <description>Premiere: 20 October 2023
+Finale: 10 November 2023
+Episodes: 10
+
+https://www.tvmaze.com/seasons/138923/bosch-legacy-season-2</description>
+      <guid isPermaLink="false">seasonfeed:bosch-legacy:s2</guid>
       <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/138923/bosch-legacy-season-2</link>
     </item>
     <item>
       <title>Bosch: Legacy — Season 1</title>
-      <description>&lt;p&gt;Premiere: 6 May 2022&lt;br&gt;Finale: 27 May 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/134649/bosch-legacy-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Bosch%3A%20Legacy%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/134649/bosch-legacy-season-1</guid>
+      <description>Premiere: 6 May 2022
+Finale: 27 May 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/134649/bosch-legacy-season-1</description>
+      <guid isPermaLink="false">seasonfeed:bosch-legacy:s1</guid>
       <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/134649/bosch-legacy-season-1</link>
     </item>

@@ -3,63 +3,95 @@
   <channel>
     <title>Arrow Season Alerts</title>
     <description>New season notifications for Arrow from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/arrow.xml</link>
+    <link>https://www.tvmaze.com/shows/4/arrow</link>
     <language>en</language>
     <lastBuildDate>Tue, 15 Oct 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/arrow.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrow — Season 8</title>
-      <description>&lt;p&gt;Premiere: 15 October 2019&lt;br&gt;Finale: 28 January 2020&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/94578/arrow-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/94578/arrow-season-8</guid>
+      <description>Premiere: 15 October 2019
+Finale: 28 January 2020
+Episodes: 10
+
+https://www.tvmaze.com/seasons/94578/arrow-season-8</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s8</guid>
       <pubDate>Tue, 15 Oct 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/94578/arrow-season-8</link>
     </item>
     <item>
       <title>Arrow — Season 7</title>
-      <description>&lt;p&gt;Premiere: 15 October 2018&lt;br&gt;Finale: 13 May 2019&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/83181/arrow-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/83181/arrow-season-7</guid>
+      <description>Premiere: 15 October 2018
+Finale: 13 May 2019
+Episodes: 22
+
+https://www.tvmaze.com/seasons/83181/arrow-season-7</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s7</guid>
       <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/83181/arrow-season-7</link>
     </item>
     <item>
       <title>Arrow — Season 6</title>
-      <description>&lt;p&gt;Premiere: 12 October 2017&lt;br&gt;Finale: 17 May 2018&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/59840/arrow-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/59840/arrow-season-6</guid>
+      <description>Premiere: 12 October 2017
+Finale: 17 May 2018
+Episodes: 23
+
+https://www.tvmaze.com/seasons/59840/arrow-season-6</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s6</guid>
       <pubDate>Thu, 12 Oct 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/59840/arrow-season-6</link>
     </item>
     <item>
       <title>Arrow — Season 5</title>
-      <description>&lt;p&gt;Premiere: 5 October 2016&lt;br&gt;Finale: 24 May 2017&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/47958/arrow-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/47958/arrow-season-5</guid>
+      <description>Premiere: 5 October 2016
+Finale: 24 May 2017
+Episodes: 23
+
+https://www.tvmaze.com/seasons/47958/arrow-season-5</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s5</guid>
       <pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/47958/arrow-season-5</link>
     </item>
     <item>
       <title>Arrow — Season 4</title>
-      <description>&lt;p&gt;Premiere: 7 October 2015&lt;br&gt;Finale: 25 May 2016&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/7957/arrow-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/7957/arrow-season-4</guid>
+      <description>Premiere: 7 October 2015
+Finale: 25 May 2016
+Episodes: 23
+
+https://www.tvmaze.com/seasons/7957/arrow-season-4</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s4</guid>
       <pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/7957/arrow-season-4</link>
     </item>
     <item>
       <title>Arrow — Season 3</title>
-      <description>&lt;p&gt;Premiere: 8 October 2014&lt;br&gt;Finale: 13 May 2015&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/10/arrow-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/10/arrow-season-3</guid>
+      <description>Premiere: 8 October 2014
+Finale: 13 May 2015
+Episodes: 23
+
+https://www.tvmaze.com/seasons/10/arrow-season-3</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s3</guid>
       <pubDate>Wed, 08 Oct 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/10/arrow-season-3</link>
     </item>
     <item>
       <title>Arrow — Season 2</title>
-      <description>&lt;p&gt;Premiere: 9 October 2013&lt;br&gt;Finale: 14 May 2014&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/9/arrow-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/9/arrow-season-2</guid>
+      <description>Premiere: 9 October 2013
+Finale: 14 May 2014
+Episodes: 23
+
+https://www.tvmaze.com/seasons/9/arrow-season-2</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s2</guid>
       <pubDate>Wed, 09 Oct 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/9/arrow-season-2</link>
     </item>
     <item>
       <title>Arrow — Season 1</title>
-      <description>&lt;p&gt;Premiere: 10 October 2012&lt;br&gt;Finale: 15 May 2013&lt;br&gt;Episodes: 23&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/8/arrow-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Arrow%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/8/arrow-season-1</guid>
+      <description>Premiere: 10 October 2012
+Finale: 15 May 2013
+Episodes: 23
+
+https://www.tvmaze.com/seasons/8/arrow-season-1</description>
+      <guid isPermaLink="false">seasonfeed:arrow:s1</guid>
       <pubDate>Wed, 10 Oct 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/8/arrow-season-1</link>
     </item>

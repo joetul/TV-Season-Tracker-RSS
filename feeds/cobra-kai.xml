@@ -3,49 +3,73 @@
   <channel>
     <title>Cobra Kai Season Alerts</title>
     <description>New season notifications for Cobra Kai from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/cobra-kai.xml</link>
+    <link>https://www.tvmaze.com/shows/30960/cobra-kai</link>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jul 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/cobra-kai.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cobra Kai — Season 6</title>
-      <description>&lt;p&gt;Premiere: 18 July 2024&lt;br&gt;Finale: 13 February 2025&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/147963/cobra-kai-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/147963/cobra-kai-season-6</guid>
+      <description>Premiere: 18 July 2024
+Finale: 13 February 2025
+Episodes: 15
+
+https://www.tvmaze.com/seasons/147963/cobra-kai-season-6</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s6</guid>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/147963/cobra-kai-season-6</link>
     </item>
     <item>
       <title>Cobra Kai — Season 5</title>
-      <description>&lt;p&gt;Premiere: 9 September 2022&lt;br&gt;Finale: 9 September 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/128550/cobra-kai-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/128550/cobra-kai-season-5</guid>
+      <description>Premiere: 9 September 2022
+Finale: 9 September 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/128550/cobra-kai-season-5</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s5</guid>
       <pubDate>Fri, 09 Sep 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/128550/cobra-kai-season-5</link>
     </item>
     <item>
       <title>Cobra Kai — Season 4</title>
-      <description>&lt;p&gt;Premiere: 31 December 2021&lt;br&gt;Finale: 31 December 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/114904/cobra-kai-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/114904/cobra-kai-season-4</guid>
+      <description>Premiere: 31 December 2021
+Finale: 31 December 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/114904/cobra-kai-season-4</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s4</guid>
       <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/114904/cobra-kai-season-4</link>
     </item>
     <item>
       <title>Cobra Kai — Season 3</title>
-      <description>&lt;p&gt;Premiere: 1 January 2021&lt;br&gt;Finale: 1 January 2021&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/96196/cobra-kai-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/96196/cobra-kai-season-3</guid>
+      <description>Premiere: 1 January 2021
+Finale: 1 January 2021
+Episodes: 10
+
+https://www.tvmaze.com/seasons/96196/cobra-kai-season-3</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s3</guid>
       <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/96196/cobra-kai-season-3</link>
     </item>
     <item>
       <title>Cobra Kai — Season 2</title>
-      <description>&lt;p&gt;Premiere: 24 April 2019&lt;br&gt;Finale: 24 April 2019&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/84975/cobra-kai-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/84975/cobra-kai-season-2</guid>
+      <description>Premiere: 24 April 2019
+Finale: 24 April 2019
+Episodes: 10
+
+https://www.tvmaze.com/seasons/84975/cobra-kai-season-2</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s2</guid>
       <pubDate>Wed, 24 Apr 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/84975/cobra-kai-season-2</link>
     </item>
     <item>
       <title>Cobra Kai — Season 1</title>
-      <description>&lt;p&gt;Premiere: 2 May 2018&lt;br&gt;Finale: 2 May 2018&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/73001/cobra-kai-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Cobra%20Kai%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/73001/cobra-kai-season-1</guid>
+      <description>Premiere: 2 May 2018
+Finale: 2 May 2018
+Episodes: 10
+
+https://www.tvmaze.com/seasons/73001/cobra-kai-season-1</description>
+      <guid isPermaLink="false">seasonfeed:cobra-kai:s1</guid>
       <pubDate>Wed, 02 May 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/73001/cobra-kai-season-1</link>
     </item>

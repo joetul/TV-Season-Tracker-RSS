@@ -3,28 +3,40 @@
   <channel>
     <title>Dark Season Alerts</title>
     <description>New season notifications for Dark from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/dark.xml</link>
+    <link>https://www.tvmaze.com/shows/17861/dark</link>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jun 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/dark.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark — Season 3</title>
-      <description>&lt;p&gt;Premiere: 27 June 2020&lt;br&gt;Finale: 27 June 2020&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97710/dark-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dark%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97710/dark-season-3</guid>
+      <description>Premiere: 27 June 2020
+Finale: 27 June 2020
+Episodes: 8
+
+https://www.tvmaze.com/seasons/97710/dark-season-3</description>
+      <guid isPermaLink="false">seasonfeed:dark:s3</guid>
       <pubDate>Sat, 27 Jun 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97710/dark-season-3</link>
     </item>
     <item>
       <title>Dark — Season 2</title>
-      <description>&lt;p&gt;Premiere: 21 June 2019&lt;br&gt;Finale: 21 June 2019&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/84187/dark-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dark%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/84187/dark-season-2</guid>
+      <description>Premiere: 21 June 2019
+Finale: 21 June 2019
+Episodes: 8
+
+https://www.tvmaze.com/seasons/84187/dark-season-2</description>
+      <guid isPermaLink="false">seasonfeed:dark:s2</guid>
       <pubDate>Fri, 21 Jun 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/84187/dark-season-2</link>
     </item>
     <item>
       <title>Dark — Season 1</title>
-      <description>&lt;p&gt;Premiere: 1 December 2017&lt;br&gt;Finale: 1 December 2017&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/46649/dark-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Dark%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/46649/dark-season-1</guid>
+      <description>Premiere: 1 December 2017
+Finale: 1 December 2017
+Episodes: 10
+
+https://www.tvmaze.com/seasons/46649/dark-season-1</description>
+      <guid isPermaLink="false">seasonfeed:dark:s1</guid>
       <pubDate>Fri, 01 Dec 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/46649/dark-season-1</link>
     </item>

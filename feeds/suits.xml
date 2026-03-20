@@ -3,70 +3,106 @@
   <channel>
     <title>Suits Season Alerts</title>
     <description>New season notifications for Suits from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/suits.xml</link>
+    <link>https://www.tvmaze.com/shows/172/suits</link>
     <language>en</language>
     <lastBuildDate>Wed, 17 Jul 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/suits.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Suits — Season 9</title>
-      <description>&lt;p&gt;Premiere: 17 July 2019&lt;br&gt;Finale: 25 September 2019&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/92952/suits-season-9"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/92952/suits-season-9</guid>
+      <description>Premiere: 17 July 2019
+Finale: 25 September 2019
+Episodes: 10
+
+https://www.tvmaze.com/seasons/92952/suits-season-9</description>
+      <guid isPermaLink="false">seasonfeed:suits:s9</guid>
       <pubDate>Wed, 17 Jul 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/92952/suits-season-9</link>
     </item>
     <item>
       <title>Suits — Season 8</title>
-      <description>&lt;p&gt;Premiere: 18 July 2018&lt;br&gt;Finale: 27 February 2019&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/85414/suits-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/85414/suits-season-8</guid>
+      <description>Premiere: 18 July 2018
+Finale: 27 February 2019
+Episodes: 16
+
+https://www.tvmaze.com/seasons/85414/suits-season-8</description>
+      <guid isPermaLink="false">seasonfeed:suits:s8</guid>
       <pubDate>Wed, 18 Jul 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/85414/suits-season-8</link>
     </item>
     <item>
       <title>Suits — Season 7</title>
-      <description>&lt;p&gt;Premiere: 12 July 2017&lt;br&gt;Finale: 25 April 2018&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/50678/suits-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/50678/suits-season-7</guid>
+      <description>Premiere: 12 July 2017
+Finale: 25 April 2018
+Episodes: 16
+
+https://www.tvmaze.com/seasons/50678/suits-season-7</description>
+      <guid isPermaLink="false">seasonfeed:suits:s7</guid>
       <pubDate>Wed, 12 Jul 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/50678/suits-season-7</link>
     </item>
     <item>
       <title>Suits — Season 6</title>
-      <description>&lt;p&gt;Premiere: 13 July 2016&lt;br&gt;Finale: 1 March 2017&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/44446/suits-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/44446/suits-season-6</guid>
+      <description>Premiere: 13 July 2016
+Finale: 1 March 2017
+Episodes: 16
+
+https://www.tvmaze.com/seasons/44446/suits-season-6</description>
+      <guid isPermaLink="false">seasonfeed:suits:s6</guid>
       <pubDate>Wed, 13 Jul 2016 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/44446/suits-season-6</link>
     </item>
     <item>
       <title>Suits — Season 5</title>
-      <description>&lt;p&gt;Premiere: 24 June 2015&lt;br&gt;Finale: 2 March 2016&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/6680/suits-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/6680/suits-season-5</guid>
+      <description>Premiere: 24 June 2015
+Finale: 2 March 2016
+Episodes: 16
+
+https://www.tvmaze.com/seasons/6680/suits-season-5</description>
+      <guid isPermaLink="false">seasonfeed:suits:s5</guid>
       <pubDate>Wed, 24 Jun 2015 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/6680/suits-season-5</link>
     </item>
     <item>
       <title>Suits — Season 4</title>
-      <description>&lt;p&gt;Premiere: 11 June 2014&lt;br&gt;Finale: 4 March 2015&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/772/suits-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/772/suits-season-4</guid>
+      <description>Premiere: 11 June 2014
+Finale: 4 March 2015
+Episodes: 16
+
+https://www.tvmaze.com/seasons/772/suits-season-4</description>
+      <guid isPermaLink="false">seasonfeed:suits:s4</guid>
       <pubDate>Wed, 11 Jun 2014 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/772/suits-season-4</link>
     </item>
     <item>
       <title>Suits — Season 3</title>
-      <description>&lt;p&gt;Premiere: 16 July 2013&lt;br&gt;Finale: 10 April 2014&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/771/suits-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/771/suits-season-3</guid>
+      <description>Premiere: 16 July 2013
+Finale: 10 April 2014
+Episodes: 16
+
+https://www.tvmaze.com/seasons/771/suits-season-3</description>
+      <guid isPermaLink="false">seasonfeed:suits:s3</guid>
       <pubDate>Tue, 16 Jul 2013 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/771/suits-season-3</link>
     </item>
     <item>
       <title>Suits — Season 2</title>
-      <description>&lt;p&gt;Premiere: 14 June 2012&lt;br&gt;Finale: 21 February 2013&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/770/suits-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/770/suits-season-2</guid>
+      <description>Premiere: 14 June 2012
+Finale: 21 February 2013
+Episodes: 16
+
+https://www.tvmaze.com/seasons/770/suits-season-2</description>
+      <guid isPermaLink="false">seasonfeed:suits:s2</guid>
       <pubDate>Thu, 14 Jun 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/770/suits-season-2</link>
     </item>
     <item>
       <title>Suits — Season 1</title>
-      <description>&lt;p&gt;Premiere: 23 June 2011&lt;br&gt;Finale: 8 September 2011&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/769/suits-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Suits%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/769/suits-season-1</guid>
+      <description>Premiere: 23 June 2011
+Finale: 8 September 2011
+Episodes: 12
+
+https://www.tvmaze.com/seasons/769/suits-season-1</description>
+      <guid isPermaLink="false">seasonfeed:suits:s1</guid>
       <pubDate>Thu, 23 Jun 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/769/suits-season-1</link>
     </item>

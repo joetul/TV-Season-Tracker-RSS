@@ -3,42 +3,62 @@
   <channel>
     <title>Prison Break Season Alerts</title>
     <description>New season notifications for Prison Break from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/prison-break.xml</link>
+    <link>https://www.tvmaze.com/shows/541/prison-break</link>
     <language>en</language>
     <lastBuildDate>Tue, 04 Apr 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/prison-break.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prison Break — Season 5</title>
-      <description>&lt;p&gt;Premiere: 4 April 2017&lt;br&gt;Finale: 30 May 2017&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/31180/prison-break-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Prison%20Break%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/31180/prison-break-season-5</guid>
+      <description>Premiere: 4 April 2017
+Finale: 30 May 2017
+Episodes: 9
+
+https://www.tvmaze.com/seasons/31180/prison-break-season-5</description>
+      <guid isPermaLink="false">seasonfeed:prison-break:s5</guid>
       <pubDate>Tue, 04 Apr 2017 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/31180/prison-break-season-5</link>
     </item>
     <item>
       <title>Prison Break — Season 4</title>
-      <description>&lt;p&gt;Premiere: 1 September 2008&lt;br&gt;Finale: 27 May 2009&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2195/prison-break-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Prison%20Break%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2195/prison-break-season-4</guid>
+      <description>Premiere: 1 September 2008
+Finale: 27 May 2009
+Episodes: 22
+
+https://www.tvmaze.com/seasons/2195/prison-break-season-4</description>
+      <guid isPermaLink="false">seasonfeed:prison-break:s4</guid>
       <pubDate>Mon, 01 Sep 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2195/prison-break-season-4</link>
     </item>
     <item>
       <title>Prison Break — Season 3</title>
-      <description>&lt;p&gt;Premiere: 17 September 2007&lt;br&gt;Finale: 18 February 2008&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2194/prison-break-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Prison%20Break%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2194/prison-break-season-3</guid>
+      <description>Premiere: 17 September 2007
+Finale: 18 February 2008
+Episodes: 13
+
+https://www.tvmaze.com/seasons/2194/prison-break-season-3</description>
+      <guid isPermaLink="false">seasonfeed:prison-break:s3</guid>
       <pubDate>Mon, 17 Sep 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2194/prison-break-season-3</link>
     </item>
     <item>
       <title>Prison Break — Season 2</title>
-      <description>&lt;p&gt;Premiere: 21 August 2006&lt;br&gt;Finale: 2 April 2007&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2193/prison-break-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Prison%20Break%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2193/prison-break-season-2</guid>
+      <description>Premiere: 21 August 2006
+Finale: 2 April 2007
+Episodes: 22
+
+https://www.tvmaze.com/seasons/2193/prison-break-season-2</description>
+      <guid isPermaLink="false">seasonfeed:prison-break:s2</guid>
       <pubDate>Mon, 21 Aug 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2193/prison-break-season-2</link>
     </item>
     <item>
       <title>Prison Break — Season 1</title>
-      <description>&lt;p&gt;Premiere: 29 August 2005&lt;br&gt;Finale: 15 May 2006&lt;br&gt;Episodes: 22&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2192/prison-break-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Prison%20Break%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2192/prison-break-season-1</guid>
+      <description>Premiere: 29 August 2005
+Finale: 15 May 2006
+Episodes: 22
+
+https://www.tvmaze.com/seasons/2192/prison-break-season-1</description>
+      <guid isPermaLink="false">seasonfeed:prison-break:s1</guid>
       <pubDate>Mon, 29 Aug 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2192/prison-break-season-1</link>
     </item>

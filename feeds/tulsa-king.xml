@@ -3,28 +3,40 @@
   <channel>
     <title>Tulsa King Season Alerts</title>
     <description>New season notifications for Tulsa King from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/tulsa-king.xml</link>
+    <link>https://www.tvmaze.com/shows/59344/tulsa-king</link>
     <language>en</language>
     <lastBuildDate>Sun, 21 Sep 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/tulsa-king.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tulsa King — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 September 2025&lt;br&gt;Finale: 23 November 2025&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/183174/tulsa-king-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tulsa%20King%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/183174/tulsa-king-season-3</guid>
+      <description>Premiere: 21 September 2025
+Finale: 23 November 2025
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/183174/tulsa-king-season-3</description>
+      <guid isPermaLink="false">seasonfeed:tulsa-king:s3</guid>
       <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/183174/tulsa-king-season-3</link>
     </item>
     <item>
       <title>Tulsa King — Season 2</title>
-      <description>&lt;p&gt;Premiere: 15 September 2024&lt;br&gt;Finale: 17 November 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/165019/tulsa-king-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tulsa%20King%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/165019/tulsa-king-season-2</guid>
+      <description>Premiere: 15 September 2024
+Finale: 17 November 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/165019/tulsa-king-season-2</description>
+      <guid isPermaLink="false">seasonfeed:tulsa-king:s2</guid>
       <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/165019/tulsa-king-season-2</link>
     </item>
     <item>
       <title>Tulsa King — Season 1</title>
-      <description>&lt;p&gt;Premiere: 13 November 2022&lt;br&gt;Finale: 8 January 2023&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/132631/tulsa-king-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Tulsa%20King%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/132631/tulsa-king-season-1</guid>
+      <description>Premiere: 13 November 2022
+Finale: 8 January 2023
+Episodes: 9
+
+https://www.tvmaze.com/seasons/132631/tulsa-king-season-1</description>
+      <guid isPermaLink="false">seasonfeed:tulsa-king:s1</guid>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/132631/tulsa-king-season-1</link>
     </item>

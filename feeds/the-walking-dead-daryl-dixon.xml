@@ -3,28 +3,40 @@
   <channel>
     <title>The Walking Dead: Daryl Dixon Season Alerts</title>
     <description>New season notifications for The Walking Dead: Daryl Dixon from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/the-walking-dead-daryl-dixon.xml</link>
+    <link>https://www.tvmaze.com/shows/64501/the-walking-dead-daryl-dixon</link>
     <language>en</language>
     <lastBuildDate>Sun, 07 Sep 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/the-walking-dead-daryl-dixon.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Walking Dead: Daryl Dixon — Season 3</title>
-      <description>&lt;p&gt;Premiere: 7 September 2025&lt;br&gt;Finale: 19 October 2025&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/173835/the-walking-dead-daryl-dixon-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Walking%20Dead%3A%20Daryl%20Dixon%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/173835/the-walking-dead-daryl-dixon-season-3</guid>
+      <description>Premiere: 7 September 2025
+Finale: 19 October 2025
+Episodes: 7
+
+https://www.tvmaze.com/seasons/173835/the-walking-dead-daryl-dixon-season-3</description>
+      <guid isPermaLink="false">seasonfeed:the-walking-dead-daryl-dixon:s3</guid>
       <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/173835/the-walking-dead-daryl-dixon-season-3</link>
     </item>
     <item>
       <title>The Walking Dead: Daryl Dixon — Season 2</title>
-      <description>&lt;p&gt;Premiere: 29 September 2024&lt;br&gt;Finale: 3 November 2024&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/158495/the-walking-dead-daryl-dixon-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Walking%20Dead%3A%20Daryl%20Dixon%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/158495/the-walking-dead-daryl-dixon-season-2</guid>
+      <description>Premiere: 29 September 2024
+Finale: 3 November 2024
+Episodes: 6
+
+https://www.tvmaze.com/seasons/158495/the-walking-dead-daryl-dixon-season-2</description>
+      <guid isPermaLink="false">seasonfeed:the-walking-dead-daryl-dixon:s2</guid>
       <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/158495/the-walking-dead-daryl-dixon-season-2</link>
     </item>
     <item>
       <title>The Walking Dead: Daryl Dixon — Season 1</title>
-      <description>&lt;p&gt;Premiere: 10 September 2023&lt;br&gt;Finale: 15 October 2023&lt;br&gt;Episodes: 6&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/143514/the-walking-dead-daryl-dixon-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=The%20Walking%20Dead%3A%20Daryl%20Dixon%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/143514/the-walking-dead-daryl-dixon-season-1</guid>
+      <description>Premiere: 10 September 2023
+Finale: 15 October 2023
+Episodes: 6
+
+https://www.tvmaze.com/seasons/143514/the-walking-dead-daryl-dixon-season-1</description>
+      <guid isPermaLink="false">seasonfeed:the-walking-dead-daryl-dixon:s1</guid>
       <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/143514/the-walking-dead-daryl-dixon-season-1</link>
     </item>

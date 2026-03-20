@@ -3,21 +3,29 @@
   <channel>
     <title>Nobody Wants This Season Alerts</title>
     <description>New season notifications for Nobody Wants This from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/nobody-wants-this.xml</link>
+    <link>https://www.tvmaze.com/shows/77060/nobody-wants-this</link>
     <language>en</language>
     <lastBuildDate>Thu, 23 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/nobody-wants-this.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nobody Wants This — Season 2</title>
-      <description>&lt;p&gt;Premiere: 23 October 2025&lt;br&gt;Finale: 23 October 2025&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/175952/nobody-wants-this-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Nobody%20Wants%20This%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/175952/nobody-wants-this-season-2</guid>
+      <description>Premiere: 23 October 2025
+Finale: 23 October 2025
+Episodes: 10
+
+https://www.tvmaze.com/seasons/175952/nobody-wants-this-season-2</description>
+      <guid isPermaLink="false">seasonfeed:nobody-wants-this:s2</guid>
       <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/175952/nobody-wants-this-season-2</link>
     </item>
     <item>
       <title>Nobody Wants This — Season 1</title>
-      <description>&lt;p&gt;Premiere: 26 September 2024&lt;br&gt;Finale: 26 September 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/169374/nobody-wants-this-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Nobody%20Wants%20This%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/169374/nobody-wants-this-season-1</guid>
+      <description>Premiere: 26 September 2024
+Finale: 26 September 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/169374/nobody-wants-this-season-1</description>
+      <guid isPermaLink="false">seasonfeed:nobody-wants-this:s1</guid>
       <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/169374/nobody-wants-this-season-1</link>
     </item>

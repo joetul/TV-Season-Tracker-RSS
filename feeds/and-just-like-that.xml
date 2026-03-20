@@ -3,28 +3,40 @@
   <channel>
     <title>And Just Like That... Season Alerts</title>
     <description>New season notifications for And Just Like That... from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/and-just-like-that.xml</link>
+    <link>https://www.tvmaze.com/shows/52904/and-just-like-that</link>
     <language>en</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/and-just-like-that.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>And Just Like That... — Season 3</title>
-      <description>&lt;p&gt;Premiere: 29 May 2025&lt;br&gt;Finale: 14 August 2025&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/157668/and-just-like-that-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=And%20Just%20Like%20That...%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/157668/and-just-like-that-season-3</guid>
+      <description>Premiere: 29 May 2025
+Finale: 14 August 2025
+Episodes: 12
+
+https://www.tvmaze.com/seasons/157668/and-just-like-that-season-3</description>
+      <guid isPermaLink="false">seasonfeed:and-just-like-that:s3</guid>
       <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/157668/and-just-like-that-season-3</link>
     </item>
     <item>
       <title>And Just Like That... — Season 2</title>
-      <description>&lt;p&gt;Premiere: 22 June 2023&lt;br&gt;Finale: 24 August 2023&lt;br&gt;Episodes: 11&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/146948/and-just-like-that-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=And%20Just%20Like%20That...%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/146948/and-just-like-that-season-2</guid>
+      <description>Premiere: 22 June 2023
+Finale: 24 August 2023
+Episodes: 11
+
+https://www.tvmaze.com/seasons/146948/and-just-like-that-season-2</description>
+      <guid isPermaLink="false">seasonfeed:and-just-like-that:s2</guid>
       <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/146948/and-just-like-that-season-2</link>
     </item>
     <item>
       <title>And Just Like That... — Season 1</title>
-      <description>&lt;p&gt;Premiere: 9 December 2021&lt;br&gt;Finale: 3 February 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/118973/and-just-like-that-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=And%20Just%20Like%20That...%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/118973/and-just-like-that-season-1</guid>
+      <description>Premiere: 9 December 2021
+Finale: 3 February 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/118973/and-just-like-that-season-1</description>
+      <guid isPermaLink="false">seasonfeed:and-just-like-that:s1</guid>
       <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/118973/and-just-like-that-season-1</link>
     </item>

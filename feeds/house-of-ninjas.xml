@@ -3,14 +3,18 @@
   <channel>
     <title>House of Ninjas Season Alerts</title>
     <description>New season notifications for House of Ninjas from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/house-of-ninjas.xml</link>
+    <link>https://www.tvmaze.com/shows/64015/house-of-ninjas</link>
     <language>en</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/house-of-ninjas.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>House of Ninjas — Season 1</title>
-      <description>&lt;p&gt;Premiere: 15 February 2024&lt;br&gt;Finale: 15 February 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/142565/house-of-ninjas-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=House%20of%20Ninjas%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/142565/house-of-ninjas-season-1</guid>
+      <description>Premiere: 15 February 2024
+Finale: 15 February 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/142565/house-of-ninjas-season-1</description>
+      <guid isPermaLink="false">seasonfeed:house-of-ninjas:s1</guid>
       <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/142565/house-of-ninjas-season-1</link>
     </item>

@@ -3,42 +3,62 @@
   <channel>
     <title>Breaking Bad Season Alerts</title>
     <description>New season notifications for Breaking Bad from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/breaking-bad.xml</link>
+    <link>https://www.tvmaze.com/shows/169/breaking-bad</link>
     <language>en</language>
     <lastBuildDate>Sun, 15 Jul 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/breaking-bad.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breaking Bad — Season 5</title>
-      <description>&lt;p&gt;Premiere: 15 July 2012&lt;br&gt;Finale: 11 October 2019&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/757/breaking-bad-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Breaking%20Bad%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/757/breaking-bad-season-5</guid>
+      <description>Premiere: 15 July 2012
+Finale: 11 October 2019
+Episodes: 16
+
+https://www.tvmaze.com/seasons/757/breaking-bad-season-5</description>
+      <guid isPermaLink="false">seasonfeed:breaking-bad:s5</guid>
       <pubDate>Sun, 15 Jul 2012 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/757/breaking-bad-season-5</link>
     </item>
     <item>
       <title>Breaking Bad — Season 4</title>
-      <description>&lt;p&gt;Premiere: 17 July 2011&lt;br&gt;Finale: 9 October 2011&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/756/breaking-bad-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Breaking%20Bad%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/756/breaking-bad-season-4</guid>
+      <description>Premiere: 17 July 2011
+Finale: 9 October 2011
+Episodes: 13
+
+https://www.tvmaze.com/seasons/756/breaking-bad-season-4</description>
+      <guid isPermaLink="false">seasonfeed:breaking-bad:s4</guid>
       <pubDate>Sun, 17 Jul 2011 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/756/breaking-bad-season-4</link>
     </item>
     <item>
       <title>Breaking Bad — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 March 2010&lt;br&gt;Finale: 13 June 2010&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/755/breaking-bad-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Breaking%20Bad%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/755/breaking-bad-season-3</guid>
+      <description>Premiere: 21 March 2010
+Finale: 13 June 2010
+Episodes: 13
+
+https://www.tvmaze.com/seasons/755/breaking-bad-season-3</description>
+      <guid isPermaLink="false">seasonfeed:breaking-bad:s3</guid>
       <pubDate>Sun, 21 Mar 2010 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/755/breaking-bad-season-3</link>
     </item>
     <item>
       <title>Breaking Bad — Season 2</title>
-      <description>&lt;p&gt;Premiere: 8 March 2009&lt;br&gt;Finale: 31 May 2009&lt;br&gt;Episodes: 13&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/754/breaking-bad-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Breaking%20Bad%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/754/breaking-bad-season-2</guid>
+      <description>Premiere: 8 March 2009
+Finale: 31 May 2009
+Episodes: 13
+
+https://www.tvmaze.com/seasons/754/breaking-bad-season-2</description>
+      <guid isPermaLink="false">seasonfeed:breaking-bad:s2</guid>
       <pubDate>Sun, 08 Mar 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/754/breaking-bad-season-2</link>
     </item>
     <item>
       <title>Breaking Bad — Season 1</title>
-      <description>&lt;p&gt;Premiere: 20 January 2008&lt;br&gt;Finale: 9 March 2008&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/753/breaking-bad-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Breaking%20Bad%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/753/breaking-bad-season-1</guid>
+      <description>Premiere: 20 January 2008
+Finale: 9 March 2008
+Episodes: 7
+
+https://www.tvmaze.com/seasons/753/breaking-bad-season-1</description>
+      <guid isPermaLink="false">seasonfeed:breaking-bad:s1</guid>
       <pubDate>Sun, 20 Jan 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/753/breaking-bad-season-1</link>
     </item>

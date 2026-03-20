@@ -3,21 +3,29 @@
   <channel>
     <title>Halo Season Alerts</title>
     <description>New season notifications for Halo from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/halo.xml</link>
+    <link>https://www.tvmaze.com/shows/35158/halo</link>
     <language>en</language>
     <lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/halo.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Halo — Season 2</title>
-      <description>&lt;p&gt;Premiere: 8 February 2024&lt;br&gt;Finale: 21 March 2024&lt;br&gt;Episodes: 8&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/135418/halo-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Halo%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/135418/halo-season-2</guid>
+      <description>Premiere: 8 February 2024
+Finale: 21 March 2024
+Episodes: 8
+
+https://www.tvmaze.com/seasons/135418/halo-season-2</description>
+      <guid isPermaLink="false">seasonfeed:halo:s2</guid>
       <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/135418/halo-season-2</link>
     </item>
     <item>
       <title>Halo — Season 1</title>
-      <description>&lt;p&gt;Premiere: 24 March 2022&lt;br&gt;Finale: 19 May 2022&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/81924/halo-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Halo%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/81924/halo-season-1</guid>
+      <description>Premiere: 24 March 2022
+Finale: 19 May 2022
+Episodes: 9
+
+https://www.tvmaze.com/seasons/81924/halo-season-1</description>
+      <guid isPermaLink="false">seasonfeed:halo:s1</guid>
       <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/81924/halo-season-1</link>
     </item>

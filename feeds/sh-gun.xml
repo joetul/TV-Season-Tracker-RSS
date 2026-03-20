@@ -3,14 +3,18 @@
   <channel>
     <title>Shōgun Season Alerts</title>
     <description>New season notifications for Shōgun from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/sh-gun.xml</link>
+    <link>https://www.tvmaze.com/shows/37336/shogun</link>
     <language>en</language>
     <lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/sh-gun.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shōgun — Season 1</title>
-      <description>&lt;p&gt;Premiere: 27 February 2024&lt;br&gt;Finale: 23 April 2024&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/86244/shogun-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Sh%C5%8Dgun%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/86244/shogun-season-1</guid>
+      <description>Premiere: 27 February 2024
+Finale: 23 April 2024
+Episodes: 10
+
+https://www.tvmaze.com/seasons/86244/shogun-season-1</description>
+      <guid isPermaLink="false">seasonfeed:sh-gun:s1</guid>
       <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/86244/shogun-season-1</link>
     </item>

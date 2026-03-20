@@ -3,28 +3,40 @@
   <channel>
     <title>Star Wars: The Bad Batch Season Alerts</title>
     <description>New season notifications for Star Wars: The Bad Batch from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/star-wars-the-bad-batch.xml</link>
+    <link>https://www.tvmaze.com/shows/49190/star-wars-the-bad-batch</link>
     <language>en</language>
     <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/star-wars-the-bad-batch.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Wars: The Bad Batch — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 February 2024&lt;br&gt;Finale: 1 May 2024&lt;br&gt;Episodes: 15&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/150785/star-wars-the-bad-batch-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20The%20Bad%20Batch%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/150785/star-wars-the-bad-batch-season-3</guid>
+      <description>Premiere: 21 February 2024
+Finale: 1 May 2024
+Episodes: 15
+
+https://www.tvmaze.com/seasons/150785/star-wars-the-bad-batch-season-3</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-the-bad-batch:s3</guid>
       <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/150785/star-wars-the-bad-batch-season-3</link>
     </item>
     <item>
       <title>Star Wars: The Bad Batch — Season 2</title>
-      <description>&lt;p&gt;Premiere: 4 January 2023&lt;br&gt;Finale: 29 March 2023&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/126993/star-wars-the-bad-batch-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20The%20Bad%20Batch%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/126993/star-wars-the-bad-batch-season-2</guid>
+      <description>Premiere: 4 January 2023
+Finale: 29 March 2023
+Episodes: 16
+
+https://www.tvmaze.com/seasons/126993/star-wars-the-bad-batch-season-2</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-the-bad-batch:s2</guid>
       <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/126993/star-wars-the-bad-batch-season-2</link>
     </item>
     <item>
       <title>Star Wars: The Bad Batch — Season 1</title>
-      <description>&lt;p&gt;Premiere: 4 May 2021&lt;br&gt;Finale: 13 August 2021&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/111861/star-wars-the-bad-batch-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Star%20Wars%3A%20The%20Bad%20Batch%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/111861/star-wars-the-bad-batch-season-1</guid>
+      <description>Premiere: 4 May 2021
+Finale: 13 August 2021
+Episodes: 16
+
+https://www.tvmaze.com/seasons/111861/star-wars-the-bad-batch-season-1</description>
+      <guid isPermaLink="false">seasonfeed:star-wars-the-bad-batch:s1</guid>
       <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/111861/star-wars-the-bad-batch-season-1</link>
     </item>

@@ -3,28 +3,40 @@
   <channel>
     <title>Yellowjackets Season Alerts</title>
     <description>New season notifications for Yellowjackets from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/yellowjackets.xml</link>
+    <link>https://www.tvmaze.com/shows/36672/yellowjackets</link>
     <language>en</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/yellowjackets.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yellowjackets — Season 3</title>
-      <description>&lt;p&gt;Premiere: 14 February 2025&lt;br&gt;Finale: 11 April 2025&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/146159/yellowjackets-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowjackets%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/146159/yellowjackets-season-3</guid>
+      <description>Premiere: 14 February 2025
+Finale: 11 April 2025
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/146159/yellowjackets-season-3</description>
+      <guid isPermaLink="false">seasonfeed:yellowjackets:s3</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/146159/yellowjackets-season-3</link>
     </item>
     <item>
       <title>Yellowjackets — Season 2</title>
-      <description>&lt;p&gt;Premiere: 24 March 2023&lt;br&gt;Finale: 26 May 2023&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/136406/yellowjackets-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowjackets%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/136406/yellowjackets-season-2</guid>
+      <description>Premiere: 24 March 2023
+Finale: 26 May 2023
+Episodes: 9
+
+https://www.tvmaze.com/seasons/136406/yellowjackets-season-2</description>
+      <guid isPermaLink="false">seasonfeed:yellowjackets:s2</guid>
       <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/136406/yellowjackets-season-2</link>
     </item>
     <item>
       <title>Yellowjackets — Season 1</title>
-      <description>&lt;p&gt;Premiere: 14 November 2021&lt;br&gt;Finale: 16 January 2022&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/84952/yellowjackets-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowjackets%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/84952/yellowjackets-season-1</guid>
+      <description>Premiere: 14 November 2021
+Finale: 16 January 2022
+Episodes: 10
+
+https://www.tvmaze.com/seasons/84952/yellowjackets-season-1</description>
+      <guid isPermaLink="false">seasonfeed:yellowjackets:s1</guid>
       <pubDate>Sun, 14 Nov 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/84952/yellowjackets-season-1</link>
     </item>

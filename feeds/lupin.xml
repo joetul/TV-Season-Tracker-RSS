@@ -3,28 +3,40 @@
   <channel>
     <title>Lupin Season Alerts</title>
     <description>New season notifications for Lupin from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/lupin.xml</link>
+    <link>https://www.tvmaze.com/shows/50701/lupin</link>
     <language>en</language>
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/lupin.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lupin — Season 3</title>
-      <description>&lt;p&gt;Premiere: 5 October 2023&lt;br&gt;Finale: 5 October 2023&lt;br&gt;Episodes: 7&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/125487/lupin-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lupin%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/125487/lupin-season-3</guid>
+      <description>Premiere: 5 October 2023
+Finale: 5 October 2023
+Episodes: 7
+
+https://www.tvmaze.com/seasons/125487/lupin-season-3</description>
+      <guid isPermaLink="false">seasonfeed:lupin:s3</guid>
       <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/125487/lupin-season-3</link>
     </item>
     <item>
       <title>Lupin — Season 2</title>
-      <description>&lt;p&gt;Premiere: 11 June 2021&lt;br&gt;Finale: 11 June 2021&lt;br&gt;Episodes: 5&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/123918/lupin-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lupin%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/123918/lupin-season-2</guid>
+      <description>Premiere: 11 June 2021
+Finale: 11 June 2021
+Episodes: 5
+
+https://www.tvmaze.com/seasons/123918/lupin-season-2</description>
+      <guid isPermaLink="false">seasonfeed:lupin:s2</guid>
       <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/123918/lupin-season-2</link>
     </item>
     <item>
       <title>Lupin — Season 1</title>
-      <description>&lt;p&gt;Premiere: 8 January 2021&lt;br&gt;Finale: 8 January 2021&lt;br&gt;Episodes: 5&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/114569/lupin-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Lupin%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/114569/lupin-season-1</guid>
+      <description>Premiere: 8 January 2021
+Finale: 8 January 2021
+Episodes: 5
+
+https://www.tvmaze.com/seasons/114569/lupin-season-1</description>
+      <guid isPermaLink="false">seasonfeed:lupin:s1</guid>
       <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/114569/lupin-season-1</link>
     </item>

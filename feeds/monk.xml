@@ -3,63 +3,95 @@
   <channel>
     <title>Monk Season Alerts</title>
     <description>New season notifications for Monk from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/monk.xml</link>
+    <link>https://www.tvmaze.com/shows/543/monk</link>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/monk.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monk — Season 8</title>
-      <description>&lt;p&gt;Premiere: 7 August 2009&lt;br&gt;Finale: 8 December 2023&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2208/monk-season-8"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2208/monk-season-8</guid>
+      <description>Premiere: 7 August 2009
+Finale: 8 December 2023
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2208/monk-season-8</description>
+      <guid isPermaLink="false">seasonfeed:monk:s8</guid>
       <pubDate>Fri, 07 Aug 2009 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2208/monk-season-8</link>
     </item>
     <item>
       <title>Monk — Season 7</title>
-      <description>&lt;p&gt;Premiere: 18 July 2008&lt;br&gt;Finale: 20 February 2009&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2207/monk-season-7"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2207/monk-season-7</guid>
+      <description>Premiere: 18 July 2008
+Finale: 20 February 2009
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2207/monk-season-7</description>
+      <guid isPermaLink="false">seasonfeed:monk:s7</guid>
       <pubDate>Fri, 18 Jul 2008 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2207/monk-season-7</link>
     </item>
     <item>
       <title>Monk — Season 6</title>
-      <description>&lt;p&gt;Premiere: 13 July 2007&lt;br&gt;Finale: 22 February 2008&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2206/monk-season-6"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2206/monk-season-6</guid>
+      <description>Premiere: 13 July 2007
+Finale: 22 February 2008
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2206/monk-season-6</description>
+      <guid isPermaLink="false">seasonfeed:monk:s6</guid>
       <pubDate>Fri, 13 Jul 2007 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2206/monk-season-6</link>
     </item>
     <item>
       <title>Monk — Season 5</title>
-      <description>&lt;p&gt;Premiere: 7 July 2006&lt;br&gt;Finale: 2 March 2007&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2205/monk-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2205/monk-season-5</guid>
+      <description>Premiere: 7 July 2006
+Finale: 2 March 2007
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2205/monk-season-5</description>
+      <guid isPermaLink="false">seasonfeed:monk:s5</guid>
       <pubDate>Fri, 07 Jul 2006 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2205/monk-season-5</link>
     </item>
     <item>
       <title>Monk — Season 4</title>
-      <description>&lt;p&gt;Premiere: 8 July 2005&lt;br&gt;Finale: 17 March 2006&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2204/monk-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2204/monk-season-4</guid>
+      <description>Premiere: 8 July 2005
+Finale: 17 March 2006
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2204/monk-season-4</description>
+      <guid isPermaLink="false">seasonfeed:monk:s4</guid>
       <pubDate>Fri, 08 Jul 2005 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2204/monk-season-4</link>
     </item>
     <item>
       <title>Monk — Season 3</title>
-      <description>&lt;p&gt;Premiere: 18 June 2004&lt;br&gt;Finale: 4 March 2005&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2203/monk-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2203/monk-season-3</guid>
+      <description>Premiere: 18 June 2004
+Finale: 4 March 2005
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2203/monk-season-3</description>
+      <guid isPermaLink="false">seasonfeed:monk:s3</guid>
       <pubDate>Fri, 18 Jun 2004 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2203/monk-season-3</link>
     </item>
     <item>
       <title>Monk — Season 2</title>
-      <description>&lt;p&gt;Premiere: 20 June 2003&lt;br&gt;Finale: 5 March 2004&lt;br&gt;Episodes: 16&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2202/monk-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2202/monk-season-2</guid>
+      <description>Premiere: 20 June 2003
+Finale: 5 March 2004
+Episodes: 16
+
+https://www.tvmaze.com/seasons/2202/monk-season-2</description>
+      <guid isPermaLink="false">seasonfeed:monk:s2</guid>
       <pubDate>Fri, 20 Jun 2003 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2202/monk-season-2</link>
     </item>
     <item>
       <title>Monk — Season 1</title>
-      <description>&lt;p&gt;Premiere: 12 July 2002&lt;br&gt;Finale: 18 October 2002&lt;br&gt;Episodes: 12&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/2201/monk-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Monk%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/2201/monk-season-1</guid>
+      <description>Premiere: 12 July 2002
+Finale: 18 October 2002
+Episodes: 12
+
+https://www.tvmaze.com/seasons/2201/monk-season-1</description>
+      <guid isPermaLink="false">seasonfeed:monk:s1</guid>
       <pubDate>Fri, 12 Jul 2002 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/2201/monk-season-1</link>
     </item>

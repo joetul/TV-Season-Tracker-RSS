@@ -3,42 +3,62 @@
   <channel>
     <title>Yellowstone Season Alerts</title>
     <description>New season notifications for Yellowstone from TVmaze metadata.</description>
-    <link>https://joetul.github.io/SeasonFeed/feeds/yellowstone.xml</link>
+    <link>https://www.tvmaze.com/shows/27848/yellowstone</link>
     <language>en</language>
     <lastBuildDate>Sun, 13 Nov 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/yellowstone.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yellowstone — Season 5</title>
-      <description>&lt;p&gt;Premiere: 13 November 2022&lt;br&gt;Finale: 15 December 2024&lt;br&gt;Episodes: 14&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/138589/yellowstone-season-5"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowstone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/138589/yellowstone-season-5</guid>
+      <description>Premiere: 13 November 2022
+Finale: 15 December 2024
+Episodes: 14
+
+https://www.tvmaze.com/seasons/138589/yellowstone-season-5</description>
+      <guid isPermaLink="false">seasonfeed:yellowstone:s5</guid>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/138589/yellowstone-season-5</link>
     </item>
     <item>
       <title>Yellowstone — Season 4</title>
-      <description>&lt;p&gt;Premiere: 7 November 2021&lt;br&gt;Finale: 2 January 2022&lt;br&gt;Episodes: Unknown&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/106318/yellowstone-season-4"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowstone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/106318/yellowstone-season-4</guid>
+      <description>Premiere: 7 November 2021
+Finale: 2 January 2022
+Episodes: Unknown
+
+https://www.tvmaze.com/seasons/106318/yellowstone-season-4</description>
+      <guid isPermaLink="false">seasonfeed:yellowstone:s4</guid>
       <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/106318/yellowstone-season-4</link>
     </item>
     <item>
       <title>Yellowstone — Season 3</title>
-      <description>&lt;p&gt;Premiere: 21 June 2020&lt;br&gt;Finale: 23 August 2020&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/97598/yellowstone-season-3"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowstone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/97598/yellowstone-season-3</guid>
+      <description>Premiere: 21 June 2020
+Finale: 23 August 2020
+Episodes: 10
+
+https://www.tvmaze.com/seasons/97598/yellowstone-season-3</description>
+      <guid isPermaLink="false">seasonfeed:yellowstone:s3</guid>
       <pubDate>Sun, 21 Jun 2020 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/97598/yellowstone-season-3</link>
     </item>
     <item>
       <title>Yellowstone — Season 2</title>
-      <description>&lt;p&gt;Premiere: 19 June 2019&lt;br&gt;Finale: 28 August 2019&lt;br&gt;Episodes: 10&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/87204/yellowstone-season-2"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowstone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/87204/yellowstone-season-2</guid>
+      <description>Premiere: 19 June 2019
+Finale: 28 August 2019
+Episodes: 10
+
+https://www.tvmaze.com/seasons/87204/yellowstone-season-2</description>
+      <guid isPermaLink="false">seasonfeed:yellowstone:s2</guid>
       <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/87204/yellowstone-season-2</link>
     </item>
     <item>
       <title>Yellowstone — Season 1</title>
-      <description>&lt;p&gt;Premiere: 20 June 2018&lt;br&gt;Finale: 22 August 2018&lt;br&gt;Episodes: 9&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tvmaze.com/seasons/67250/yellowstone-season-1"&gt;Season details on TVmaze&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.google.com/search?q=Yellowstone%20where%20to%20watch"&gt;Where to watch&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.tvmaze.com/seasons/67250/yellowstone-season-1</guid>
+      <description>Premiere: 20 June 2018
+Finale: 22 August 2018
+Episodes: 9
+
+https://www.tvmaze.com/seasons/67250/yellowstone-season-1</description>
+      <guid isPermaLink="false">seasonfeed:yellowstone:s1</guid>
       <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
       <link>https://www.tvmaze.com/seasons/67250/yellowstone-season-1</link>
     </item>
