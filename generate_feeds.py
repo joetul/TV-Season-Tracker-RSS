@@ -139,7 +139,7 @@ def build_update_page(show_name, season_number_value, premiere, finale, episode_
 <article>
 <h1>{title}</h1>
 {body_html}
-<p>Adapted from <a href="https://www.tvmaze.com">TVmaze</a>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+<p>Data from TVmaze (https://tvmaze.com), licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).</p>
 </article>
 </main>
 </body>
