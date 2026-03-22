@@ -39,7 +39,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/28152/9-1-1",
     "network": "ABC",
     "status": "Running",
-    "latest_season": 10,
+    "latest_season": 9,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/600/1501058.jpg",
     "premiered": "2018-01-03"
   },
@@ -72,7 +72,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/55350/abbott-elementary",
     "network": "ABC",
     "status": "Running",
-    "latest_season": 6,
+    "latest_season": 5,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1467109.jpg",
     "premiered": "2021-12-07"
   },
@@ -919,7 +919,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/60339/fire-country",
     "network": "CBS",
     "status": "Running",
-    "latest_season": 5,
+    "latest_season": 4,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/591/1479862.jpg",
     "premiered": "2022-10-07"
   },
@@ -975,7 +975,7 @@
     "network": "MGM+",
     "status": "Running",
     "latest_season": 4,
-    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/536/1340940.jpg",
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/618/1547007.jpg",
     "premiered": "2022-02-20"
   },
   {
@@ -1161,7 +1161,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/68752/high-potential",
     "network": "ABC",
     "status": "Running",
-    "latest_season": 3,
+    "latest_season": 2,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/585/1463470.jpg",
     "premiered": "2024-09-17"
   },
@@ -1601,7 +1601,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/66872/matlock",
     "network": "CBS",
     "status": "Running",
-    "latest_season": 3,
+    "latest_season": 2,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/591/1479764.jpg",
     "premiered": "2024-09-22"
   },
@@ -3251,7 +3251,7 @@
     "tvmaze_url": "https://www.tvmaze.com/shows/63192/tracker",
     "network": "CBS",
     "status": "Running",
-    "latest_season": 4,
+    "latest_season": 3,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/591/1479867.jpg",
     "premiered": "2024-02-11"
   },
