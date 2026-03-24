@@ -1107,7 +1107,7 @@
     "network": "HBO Max",
     "status": "Running",
     "latest_season": 5,
-    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/600/1502121.jpg",
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547544.jpg",
     "premiered": "2021-05-13"
   },
   {
@@ -2713,7 +2713,7 @@
     "network": "Prime Video",
     "status": "Running",
     "latest_season": 5,
-    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541588.jpg",
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg",
     "premiered": "2019-07-26"
   },
   {
@@ -3492,8 +3492,8 @@
     "feed_url": "https://joetul.github.io/SeasonFeed/feeds/wonder-man-2026.xml",
     "tvmaze_url": "https://www.tvmaze.com/shows/62569/wonder-man",
     "network": "Disney+",
-    "status": "To Be Determined",
-    "latest_season": 1,
+    "status": "Running",
+    "latest_season": 2,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1532943.jpg",
     "premiered": "2026-01-27"
   },
