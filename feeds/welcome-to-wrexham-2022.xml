@@ -5,8 +5,17 @@
     <description>New season notifications for Welcome to Wrexham. Data from TVmaze (tvmaze.com) under CC BY-SA 4.0.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/welcome-to-wrexham-2022.xml</link>
     <language>en</language>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/welcome-to-wrexham-2022.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Wrexham — Season 5</title>
+      <description>Premiere: 14 May 2026
+Finale: 25 June 2026
+Episodes: 8</description>
+      <link>https://joetul.github.io/SeasonFeed/updates/welcome-to-wrexham-2022-s5.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/welcome-to-wrexham-2022-s5.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Welcome to Wrexham — Season 4</title>
       <description>Premiere: 15 May 2025
