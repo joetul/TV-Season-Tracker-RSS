@@ -839,6 +839,12 @@
     "latest_season": 1,
     "last_checked": "2026-03-16T00:44:06Z"
   },
+  "margo-s-got-money-troubles": {
+    "tvmaze_id": 74442,
+    "name": "Margo's Got Money Troubles",
+    "latest_season": 1,
+    "last_checked": "2026-04-17T12:38:13Z"
+  },
   "marshals": {
     "tvmaze_id": 84526,
     "name": "Marshals",
@@ -1936,6 +1942,12 @@
     "name": "Your Friendly Neighborhood Spider-Man",
     "latest_season": 2,
     "last_checked": "2026-03-17T00:10:03Z"
+  },
+  "your-friends-neighbors": {
+    "tvmaze_id": 73484,
+    "name": "Your Friends & Neighbors",
+    "latest_season": 3,
+    "last_checked": "2026-04-17T12:38:43Z"
   },
   "your-honor": {
     "tvmaze_id": 32791,

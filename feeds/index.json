@@ -1540,6 +1540,17 @@
     "premiered": "2021-04-18"
   },
   {
+    "name": "Margo's Got Money Troubles",
+    "slug": "margo-s-got-money-troubles-2026",
+    "feed_url": "https://joetul.github.io/SeasonFeed/feeds/margo-s-got-money-troubles-2026.xml",
+    "tvmaze_url": "https://www.tvmaze.com/shows/74442/margos-got-money-troubles",
+    "network": "Apple TV",
+    "status": "Running",
+    "latest_season": 1,
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554071.jpg",
+    "premiered": "2026-04-15"
+  },
+  {
     "name": "Marshals",
     "slug": "marshals-2026",
     "feed_url": "https://joetul.github.io/SeasonFeed/feeds/marshals-2026.xml",
@@ -3551,6 +3562,17 @@
     "latest_season": 2,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/556/1391478.jpg",
     "premiered": "2025-01-29"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "slug": "your-friends-neighbors-2025",
+    "feed_url": "https://joetul.github.io/SeasonFeed/feeds/your-friends-neighbors-2025.xml",
+    "tvmaze_url": "https://www.tvmaze.com/shows/73484/your-friends-neighbors",
+    "network": "Apple TV",
+    "status": "Running",
+    "latest_season": 3,
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/620/1550778.jpg",
+    "premiered": "2025-04-11"
   },
   {
     "name": "Your Honor",

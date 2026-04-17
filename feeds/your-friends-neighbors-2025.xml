@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Your Friends &amp; Neighbors Season Alerts</title>
+    <description>New season notifications for Your Friends &amp; Neighbors. Data from TVmaze (tvmaze.com) under CC BY-SA 4.0.</description>
+    <link>https://joetul.github.io/SeasonFeed/feeds/your-friends-neighbors-2025.xml</link>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://joetul.github.io/SeasonFeed/feeds/your-friends-neighbors-2025.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Friends &amp; Neighbors — Season 2</title>
+      <description>Premiere: 3 April 2026
+Finale: 5 June 2026
+Episodes: 10</description>
+      <link>https://joetul.github.io/SeasonFeed/updates/your-friends-neighbors-2025-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/your-friends-neighbors-2025-s2.html</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Friends &amp; Neighbors — Season 1</title>
+      <description>Premiere: 11 April 2025
+Finale: 30 May 2025
+Episodes: 9</description>
+      <link>https://joetul.github.io/SeasonFeed/updates/your-friends-neighbors-2025-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/your-friends-neighbors-2025-s1.html</guid>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

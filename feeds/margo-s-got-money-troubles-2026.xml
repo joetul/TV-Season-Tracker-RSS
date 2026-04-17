@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Margo's Got Money Troubles Season Alerts</title>
+    <description>New season notifications for Margo's Got Money Troubles. Data from TVmaze (tvmaze.com) under CC BY-SA 4.0.</description>
+    <link>https://joetul.github.io/SeasonFeed/feeds/margo-s-got-money-troubles-2026.xml</link>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://joetul.github.io/SeasonFeed/feeds/margo-s-got-money-troubles-2026.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Margo's Got Money Troubles — Season 1</title>
+      <description>Premiere: 15 April 2026
+Finale: 20 May 2026
+Episodes: 8</description>
+      <link>https://joetul.github.io/SeasonFeed/updates/margo-s-got-money-troubles-2026-s1.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/margo-s-got-money-troubles-2026-s1.html</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
