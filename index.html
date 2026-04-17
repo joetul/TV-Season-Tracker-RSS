@@ -183,7 +183,6 @@
       cursor: pointer;
       background: var(--bg-alt);
       color: var(--fg);
-      transition: background-color var(--transition), color var(--transition), opacity var(--transition);
       white-space: nowrap;
       flex-shrink: 0;
       -webkit-appearance: none;
@@ -197,9 +196,14 @@
       outline-offset: 2px;
     }
     .btn:hover:not(:disabled) { background: var(--comment); }
-    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn:disabled {
+      cursor: not-allowed;
+      background: var(--bg-alt);
+      color: var(--comment);
+    }
     .btn-primary { background: var(--pink); color: var(--bg); }
     .btn-primary:hover:not(:disabled) { background: #ff92d0; }
+    .btn-primary:disabled { background: rgba(255, 121, 198, 0.25); color: var(--comment); }
 
     /* ── Main Table ── */
     .main-content {
@@ -664,6 +668,18 @@
           updateSortIndicators();
           render();
         });
+      });
+
+      els.selectAllCb.addEventListener("click", e => {
+        if (els.selectAllCb.indeterminate) {
+          e.preventDefault();
+          const filtered = getFilteredShows();
+          filtered.forEach(s => selectedShows.delete(getShowKey(s)));
+          els.selectAllCb.checked = false;
+          els.selectAllCb.indeterminate = false;
+          updateBulkUI();
+          updateRowCheckboxes();
+        }
       });
 
       els.selectAllCb.addEventListener("change", () => {
