@@ -1567,8 +1567,8 @@
     "feed_url": "https://joetul.github.io/SeasonFeed/feeds/marvel-zombies-2025.xml",
     "tvmaze_url": "https://www.tvmaze.com/shows/58949/marvel-zombies",
     "network": "Disney+",
-    "status": "To Be Determined",
-    "latest_season": 1,
+    "status": "Running",
+    "latest_season": 2,
     "image": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1466484.jpg",
     "premiered": "2025-09-24"
   },
@@ -2317,7 +2317,7 @@
     "network": "Apple TV",
     "status": "Running",
     "latest_season": 4,
-    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/546/1365594.jpg",
+    "image": "https://static.tvmaze.com/uploads/images/medium_portrait/622/1555786.jpg",
     "premiered": "2023-05-05"
   },
   {

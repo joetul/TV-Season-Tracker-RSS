@@ -5,8 +5,17 @@
     <description>New season notifications for Citadel. Data from TVmaze (tvmaze.com) under CC BY-SA 4.0.</description>
     <link>https://joetul.github.io/SeasonFeed/feeds/citadel-2023.xml</link>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://joetul.github.io/SeasonFeed/feeds/citadel-2023.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citadel — Season 2</title>
+      <description>Premiere: 6 May 2026
+Finale: 6 May 2026
+Episodes: 7</description>
+      <link>https://joetul.github.io/SeasonFeed/updates/citadel-2023-s2.html</link>
+      <guid isPermaLink="true">https://joetul.github.io/SeasonFeed/updates/citadel-2023-s2.html</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Citadel — Season 1</title>
       <description>Premiere: 28 April 2023
